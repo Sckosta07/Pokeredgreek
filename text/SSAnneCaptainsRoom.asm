@@ -1,64 +1,64 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "KAÜETANIO's: Oax..."
+	line "Niwuv xália..."
+	cont "Oyrrp! Naytía..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "O <PLAYER> xtúphse"
+	line "thn pláth toy"
+	cont "kapetánioy!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "Pab-rab..."
+	line "Pab-rab...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "KAÜETANIO's: Öioy!"
+	line "Eyxaristw! Niwuv"
+	cont "polú kalútera!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Òeº na deiº thn"
+	line "texnikq KOÜH's?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Òa soy édeixna"
+	line "an qmoyn kalá..."
 
-	para "I know! You can"
-	line "have this!"
+	para "Ñérv! Üáre"
+	line "aytó!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "any time!"
+	para "Máue se éna"
+	line "#mon kai ua"
+	cont "to deiº, KOBEI"
+	cont "káue forá!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
+	text "O <PLAYER> pqre"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "KAÜETANIO's: Öioy!"
 
-	para "Now that I'm not"
-	line "sick any more, I"
-	cont "guess it's time."
+	para "Twra den eímai"
+	line "árvstoº pia,"
+	cont "qrue h wra."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "'vx óxi! 'den éxeiº"
+	line "xwro gi' aytó!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "'riak! 'den éprepe"
+	line "na koitájv!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Üvº na nikqseiº"
+	line "thn naytía..."
+	cont "O KAÜETANIO's"
+	cont "diábaze aytó!"
 	done

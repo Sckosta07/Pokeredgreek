@@ -1,57 +1,57 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: Éi,"
+	line "<PLAYER>! Ti"
+	cont "se férnei edw?"
+	cont "Ta #mon soy"
+	cont "den eínai nekrá!"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Tóte mporw na"
+	line "ta kánv lypóuhma!"
+	cont "Üáme fíle moy!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "What?"
-	line "You stinker!"
+	text "Ti?"
+	line "Xazé!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Ìmoyn kai egw"
+	line "kalóº mazí soy!"
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: 'loipón,"
+	line "koíta ta adúnama"
+	cont "#mon soy!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "'dynámvse ta"
+	line "lígo pio polú!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
-	text "How's your #DEX"
-	line "coming, pal?"
-	cont "I just caught a"
-	cont "CUBONE!"
+	text "Üvº páei to #"
+	line "ntej, fíle moy?"
+	cont "Móliº épiasa"
+	cont "éna CUBONE!"
 
-	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	para "'den mporw na"
+	line "brv to MAROWAK"
+	cont "akómh!"
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "Amfibálv an"
+	line "émeine kápoio!"
+	cont "Öeúgv twra!"
+	cont "Éxv pollá na"
+	cont "petúxv, fíle!"
 
-	para "Smell ya later!"
+	para "Ta léme!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Even we could not"
-	line "identify the"
-	cont "wayward GHOSTs!"
+	text "'den mporoúme"
+	line "oúte na broúme ti"
+	cont "eínai ta epímona!"
 
-	para "A SILPH SCOPE"
-	line "might be able to"
-	cont "unmask them."
+	para "Énaº ÖAKO's"
+	line "'sI'lÖ ua ta apo-"
+	cont "kálypte."
 	done

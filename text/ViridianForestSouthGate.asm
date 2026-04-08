@@ -1,13 +1,13 @@
 _ViridianForestSouthGateGirlText::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "Ühgaíneiº sto"
+	line "'dA'sO's VIRIDIAN?"
+	cont "Ürósexe, eínai"
+	cont "labúrinuoº!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::
-	text "RATTATA may be"
-	line "small, but its"
-	cont "bite is wicked!"
-	cont "Did you get one?"
+	text "Ta RATTATA"
+	line "eínai mikrá, ma"
+	cont "dagkwnoyn ásxhma!"
+	cont "Mqpvº éxeiº éna?"
 	done

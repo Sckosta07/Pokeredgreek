@@ -1,21 +1,21 @@
 _CeladonHotelGrannyText::
-	text "#MON? No, this"
-	line "is a hotel for"
-	cont "people."
+	text "#mon? Óxi, to"
+	line "jenodoxeío eínai"
+	cont "gia anurwpoyº."
 
-	para "We're full up."
+	para "Eímaste plqreiº."
 	done
 
 _CeladonHotelBeautyText::
-	text "I'm on vacation"
-	line "with my brother"
-	cont "and boy friend."
+	text "Kánv diakopéº"
+	line "me ton adelfó"
+	cont "kai ton fílo moy."
 
-	para "CELADON is such a"
-	line "pretty city!"
+	para "H CELADON eínai"
+	line "tóso ómorfh pólh!"
 	done
 
 _CeladonHotelSuperNerdText::
-	text "Why did she bring"
-	line "her brother?"
+	text "'riatí éfere kai"
+	line "ton adelfó thº?"
 	done

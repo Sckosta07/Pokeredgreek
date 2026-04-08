@@ -1,67 +1,67 @@
 _SaffronCityRocket1Text::
-	text "What do you want?"
-	line "Get lost!"
+	text "Ti uéleiº?"
+	line "Ánte fúge!"
 	done
 
 _SaffronCityRocket2Text::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "To AÖENTIKO eípe,"
+	line "ua éxei thn pólh!"
 	done
 
 _SaffronCityRocket3Text::
-	text "Get out of the"
-	line "way!"
+	text "Öúge apó"
+	line "edw!"
 	done
 
 _SaffronCityRocket4Text::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "H SAFFRON anoíkei"
+	line "stoyº ÜYPAY'lOY's!"
 	done
 
 _SaffronCityRocket5Text::
-	text "Being evil makes"
-	line "me feel so alive!"
+	text "Eímai kakóº"
+	line "kai moy arései!"
 	done
 
 _SaffronCityRocket6Text::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "'vx! Ürósexe"
+	line "poy patáº!"
 	done
 
 _SaffronCityRocket7Text::
-	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
-	cont "around the world!"
+	text "Me thn SILPH ypó"
+	line "elégxo, mporoúme"
+	cont "na piánoyme #"
+	cont "mon pantoú!"
 	done
 
 _SaffronCityScientistText::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "Níkhseº thn omáda"
+	line "ÜYPAY'lO mónoº soy?"
+	cont "kataplhktikó!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
-	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	text "Nai! H omáda ÜY-"
+	line "PAY'lO's éfyge!"
+	cont "Mporoúme na"
+	cont "bgoúme éjv janá!"
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "Ánurvpoi arxízoyn"
+	line "na érxontai písv"
+	cont "sthn SAFFRON páli."
 	done
 
 _SaffronCityGentlemanText::
-	text "I flew here on my"
-	line "PIDGEOT when I"
-	cont "read about SILPH."
+	text "Ìrua edw ótan á-"
+	line "koysa gia thn"
+	cont "ETAIPIA SILPH."
 
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	para "Teleívse kiólaº?"
+	line "Éxasa ólh th"
+	cont "drásh."
 	done
 
 _SaffronCityPidgeotText::
@@ -69,84 +69,84 @@ _SaffronCityPidgeotText::
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "Eída to AÖENTIKO"
+	line "ÜYPAY'l'vN na feú-"
+	cont "gei apó thn SILPH."
 	done
 
 _SaffronCityRocket8Text::
-	text "I'm a security"
-	line "guard."
+	text "Eímai fúlakaº"
+	line "asfaleíaº."
 
-	para "Suspicious kids I"
-	line "don't allow in!"
+	para "'den epitrépontai"
+	line "ta úpopta paidiá!"
 	done
 
 _SaffronCityRocket9Text::
 	text "..."
-	line "Snore..."
+	line "'snor..."
 
-	para "Hah! He's taking"
-	line "a snooze!"
+	para "Xax! Arxízei"
+	line "na koimátai!"
 	done
 
 _SaffronCitySignText::
-	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	text "ÜO'lH SAFFRON"
+	line "lamperq, xrysq"
+	cont "gh emporíoy"
 	done
 
 _SaffronCityFightingDojoSignText::
-	text "FIGHTING DOJO"
+	text "MAXHTIKO DOJO"
 	done
 
 _SaffronCityGymSignText::
-	text "SAFFRON CITY"
-	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	text "ÜO'lH SAFFRON"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "H ejpér tvn"
+	line "cyxikwn #mon!"
 	done
 
 _SaffronCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
+	para "Ülqrhº uera-"
+	line "peía gia úpno"
+	cont "kai kácimo."
 
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "einai pio akribo,"
+	line "alla einai poly"
+	cont "pio xrhsimo."
 	done
 
 _SaffronCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
+	para "H néa GREAT BALL"
+	line "prosférei polléº"
+	cont "eykairíeº súlhchº."
 
-	para "Try it on those"
-	line "hard-to-catch"
-	cont "#MON."
+	para "Üéta thn sta"
+	line "#mon poy piá-"
+	cont "nontai dúskola."
 	done
 
 _SaffronCitySilphCoSignText::
-	text "SILPH CO."
-	line "OFFICE BUILDING"
+	text "ETAIPIA SILPH"
+	line "KTHPIO 'rPAÖEI'vN"
 	done
 
 _SaffronCityMrPsychicsHouseSignText::
-	text "MR.PSYCHIC's"
-	line "HOUSE"
+	text "'sÜITI TOY"
+	line "K. ñYXIKOY"
 	done
 
 _SaffronCitySilphCoLatestProductSignText::
-	text "SILPH's latest"
-	line "product!"
+	text "To teleytaío"
+	line "proìón SILPH!"
 
-	para "Release to be"
-	line "determined..."
+	para "Píje me apofa-"
+	line "sistikóthta."
 	done

@@ -1,179 +1,179 @@
 _Route13CooltrainerM1BattleText::
-	text "My bird #MON"
-	line "want to scrap!"
+	text "Ta poyliá uéloyn"
+	line "na petájoyn!"
 	done
 
 _Route13CooltrainerM1EndBattleText::
-	text "My"
-	line "bird combo lost?"
+	text "O syndia-"
+	line "smóº moy éxase?"
 	prompt
 
 _Route13CooltrainerM1AfterBattleText::
-	text "My #MON look"
-	line "happy even though"
-	cont "they lost."
+	text "Ta #mon moy"
+	line "xaírontai akóma"
+	cont "kai ótan xánoyn."
 	done
 
 _Route13CooltrainerF1BattleText::
-	text "I'm told I'm good"
-	line "for a kid!"
+	text "Moy eípan pvº eí-"
+	line "mai polú kalq!"
 	done
 
 _Route13CooltrainerF1EndBattleText::
-	text "Ohh!"
-	line "I lost!"
+	text "'vvv!"
+	line "Éxasa!"
 	prompt
 
 _Route13CooltrainerF1AfterBattleText::
-	text "I want to become"
-	line "a good trainer."
-	cont "I'll train hard."
+	text "Òélv na gínv"
+	line "kalq ekp/tria."
+	cont "Òa gínv kalúterq."
 	done
 
 _Route13CooltrainerF2BattleText::
-	text "Wow! Your BADGEs"
-	line "are too cool!"
+	text "Oyáoy! Ta emblq-"
+	line "mata soy páne!"
 	done
 
 _Route13CooltrainerF2EndBattleText::
-	text "Not"
-	line "enough!"
+	text "Óxi"
+	line "kai tóso!"
 	prompt
 
 _Route13CooltrainerF2AfterBattleText::
-	text "You got those"
-	line "BADGEs from GYM"
-	cont "LEADERs. I know!"
+	text "Blépv óti ta"
+	line "éxeiº kerdísei"
+	cont "apó H'rETE's GYM!"
 	done
 
 _Route13CooltrainerF3BattleText::
-	text "My cute #MON"
-	line "wish to make your"
-	cont "acquaintance."
+	text "Ta glyká moy #"
+	line "MON eúxontai"
+	cont "na se gnvrísoyn."
 	done
 
 _Route13CooltrainerF3EndBattleText::
-	text "Wow!"
-	line "You totally won!"
+	text "Oyáoy!"
+	line "Éxeiº nikqsei!"
 	prompt
 
 _Route13CooltrainerF3AfterBattleText::
-	text "You have to make"
-	line "#MON fight to"
-	cont "toughen them up!"
+	text "Káne máxeº #-"
+	line "mon gia na ta"
+	cont "dynamwseiº!"
 	done
 
 _Route13CooltrainerF4BattleText::
-	text "I found CARBOS in"
-	line "a cave once."
+	text "Brqka KAPBOYNO"
+	line "se sphliá kápote."
 	done
 
 _Route13CooltrainerF4EndBattleText::
-	text "Just"
-	line "messed up!"
+	text "Ìtan"
+	line "megálh sphliá!"
 	prompt
 
 _Route13CooltrainerF4AfterBattleText::
-	text "CARBOS boosted"
-	line "the SPEED of my"
-	cont "#MON."
+	text "To KAPBOYNO eni-"
+	line "sxúei TAXYTHTA"
+	cont "tvn #mon."
 	done
 
 _Route13CooltrainerM2BattleText::
-	text "The wind's blowing"
-	line "my way!"
+	text "'dynatóº o ánemoº,"
+	line "den symfvneíº?"
 	done
 
 _Route13CooltrainerM2EndBattleText::
-	text "The"
-	line "wind turned!"
+	text "O ánemoº"
+	line "állaje poreía!"
 	prompt
 
 _Route13CooltrainerM2AfterBattleText::
-	text "I'm beat. I guess"
-	line "I'll FLY home."
+	text "Nikquhka. Òa"
+	line "ÜETAÑ'v sto spíti."
 	done
 
 _Route13Beauty1BattleText::
-	text "Sure, I'll play"
-	line "with you!"
+	text "'sígoyra, ua"
+	line "paíjv mazí soy!"
 	done
 
 _Route13Beauty1EndBattleText::
-	text "Oh!"
-	line "You little brute!"
+	text "Na eísai"
+	line "eygenikóº!"
 	prompt
 
 _Route13Beauty1AfterBattleText::
-	text "I wonder which is"
-	line "stronger, male or"
-	cont "female #MON?"
+	text "Üoiá eínai pio dy-"
+	line "natá, arseniká q "
+	cont "uylhká #mon?"
 	done
 
 _Route13Beauty2BattleText::
-	text "Do you want to"
-	line "#MON with me?"
+	text "Òeº na paíjoyme"
+	line "mazí?"
 	done
 
 _Route13Beauty2EndBattleText::
-	text "It's over"
-	line "already?"
+	text "'den ua"
+	line "paíjoyme állo?"
 	prompt
 
 _Route13Beauty2AfterBattleText::
-	text "I don't know"
-	line "anything about"
-	cont "#MON. I just"
-	cont "like cool ones!"
+	text "'den jérv ta"
+	line "pánta gia ta"
+	cont "#mon. Aplwº"
+	cont "uélv ta vraía!"
 	done
 
 _Route13BikerBattleText::
-	text "What're you"
-	line "lookin' at?"
+	text "Koíta ta néa"
+	line "lástixa moy?"
 	done
 
 _Route13BikerEndBattleText::
-	text "Dang!"
-	line "Stripped gears!"
+	text "Ötoy!"
+	line "Üaliá granázia!"
 	prompt
 
 _Route13BikerAfterBattleText::
-	text "Get lost!"
+	text "'ria ftiájimo!"
 	done
 
 _Route13CooltrainerM3BattleText::
-	text "I always go with"
-	line "bird #MON!"
+	text "Üánta bázv"
+	line "#mon poyliá!"
 	done
 
 _Route13CooltrainerM3EndBattleText::
-	text "Out"
-	line "of power!"
+	text "Étoima"
+	line "na petájoyn!"
 	prompt
 
 _Route13CooltrainerM3AfterBattleText::
-	text "I wish I could"
-	line "fly like PIDGEY"
-	cont "and PIDGEOTTO..."
+	text "Makári na petoú-"
+	line "sa san to PIDGEY"
+	cont "kai to PIDGEOTTO."
 	done
 
 _Route13TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Look to the left"
-	line "of that post!"
+	para "Koíta sta ari-"
+	line "sterá thº afísaº!"
 	done
 
 _Route13TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Use SELECT to"
-	line "switch items in"
-	cont "the ITEM window!"
+	para "Üáta SELECT gia"
+	line "allagq pragmátvn"
+	cont "sto menoú!"
 	done
 
 _Route13SignText::
-	text "ROUTE 13"
-	line "North to SILENCE"
-	cont "BRIDGE"
+	text "'dPOMO's 13"
+	line "bóreia proº"
+	cont "'rEÖYPA"
 	done

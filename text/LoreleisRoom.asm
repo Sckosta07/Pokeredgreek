@@ -1,42 +1,42 @@
 _LoreleisRoomLoreleiBeforeBattleText::
-	text "Welcome to"
-	line "#MON LEAGUE!"
+	text "Kalwº qrueº sto"
+	line "ÜP'vTAÒ'lHMA!"
 
-	para "I am LORELEI of"
-	line "the ELITE FOUR!"
+	para "Eímai h LORELEI"
+	line "tvn 4 E'lIT!"
 
-	para "No one can best"
-	line "me when it comes"
-	cont "to icy #MON!"
+	para "Kaneíº den me"
+	line "niká ótan bázv"
+	cont "#mon págoy!"
 
-	para "Freezing moves"
-	line "are powerful!"
+	para "Oi kinqseiº págoy"
+	line "eínai panísxyreº!"
 
-	para "Your #MON will"
-	line "be at my mercy"
-	cont "when they are"
-	cont "frozen solid!"
+	para "Ta #mon soy ua"
+	line "ua pésoyn ótan"
+	cont "ua éxoyn"
+	cont "pagwsei teleívº!"
 
-	para "Hahaha!"
-	line "Are you ready?"
+	para "Xaxaxa!"
+	line "Eísai étoimoº?"
 	done
 
 _LoreleisRoomLoreleiEndBattleText::
-	text "How"
-	line "dare you!"
+	text "Üvº"
+	line "tólmhseº!"
 	prompt
 
 _LoreleisRoomLoreleiAfterBattleText::
-	text "You're better"
-	line "than I thought!"
-	cont "Go on ahead!"
+	text "Eísai kalúteroº"
+	line "ap' óti nómiza!"
+	cont "Üroxwra!"
 
-	para "You only got a"
-	line "taste of #MON"
-	cont "LEAGUE power!"
+	para "Üqreº móno"
+	line "mia geúsh apó"
+	cont "to ÜP'vTAÒ'lHMA!"
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Övnq kápoioy:"
+	line "Mhn feúgeiº!"
 	done

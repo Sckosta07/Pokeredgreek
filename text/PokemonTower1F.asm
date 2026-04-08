@@ -1,31 +1,31 @@
 _PokemonTower1FReceptionistText::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "O púrgoº #mon"
+	line "xtísthke sthn"
+	cont "mnqmh tvn"
+	cont "nekrwn #mon."
 	done
 
 _PokemonTower1FMiddleAgedWomanText::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Ìrueº gia na"
+	line "ta sebasteíº?"
+	cont "Na eísai kalá!"
 	done
 
 _PokemonTower1FBaldingGuyText::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "Ìrua gia proseyxq"
+	line "sto CLEFAIRY moy."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "'snif! Klaív"
+	line "astamáthta..."
 	done
 
 _PokemonTower1FGirlText::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "To GROWLITHE moy."
+	line "'riati péuaneº?"
 	done
 
 _PokemonTower1FChannelerText::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Eímai MENTIOYM!"
+	line "Káti tarázei ta"
+	cont "pneúmata edw!"
 	done

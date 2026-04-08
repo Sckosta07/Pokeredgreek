@@ -1,71 +1,71 @@
 _PokemonTower5FChanneler1Text::
-	text "Come, child! I"
-	line "sealed this space"
-	cont "with white magic!"
+	text "Éla! Éxv sfra-"
+	line "gísei ton xwro"
+	cont "me leykq mageía!"
 
-	para "You can rest here!"
+	para "Ñekoyrásoy edw!"
 	done
 
 _PokemonTower5FChanneler2BattleText::
-	text "Give...me..."
-	line "your...soul..."
+	text "Éla...Üaíje..."
+	line "Mazí...Moy..."
 	done
 
 _PokemonTower5FChanneler2EndBattleText::
-	text "Gasp!"
+	text "'rasp!"
 	prompt
 
 _PokemonTower5FChanneler2AfterBattleText::
-	text "I was under"
-	line "possession!"
+	text "Éna fántasma"
+	line "me élegxe!"
 	done
 
 _PokemonTower5FChanneler3BattleText::
-	text "You...shall..."
-	line "join...us..."
+	text "Ürépei...Na..."
+	line "Meíneiº...Edw..."
 	done
 
 _PokemonTower5FChanneler3EndBattleText::
-	text "What"
-	line "a nightmare!"
+	text "Ti"
+	line "efiálthº!"
 	prompt
 
 _PokemonTower5FChanneler3AfterBattleText::
-	text "I was possessed!"
+	text "'den qmoyn egw!"
 	done
 
 _PokemonTower5FChanneler4BattleText::
-	text "Zombies!"
+	text "Zómpi!"
 	done
 
 _PokemonTower5FChanneler4EndBattleText::
-	text "Ha?"
+	text "Ee?"
 	prompt
 
 _PokemonTower5FChanneler4AfterBattleText::
-	text "I regained my"
-	line "senses!"
+	text "Anékthsa tiº"
+	line "aisuqseiº moy!"
 	done
 
 _PokemonTower5FChanneler5BattleText::
-	text "Urgah..."
-	line "Urff...."
+	text "Oygkrax..."
+	line "Oyrff...."
 	done
 
 _PokemonTower5FChanneler5EndBattleText::
-	text "Whoo!"
+	text "'royoy!"
 	prompt
 
 _PokemonTower5FChanneler5AfterBattleText::
-	text "I fell to evil"
-	line "spirits despite"
-	cont "my training!"
+	text "Nómiza óti"
+	line "mporoúsa na"
+	cont "antistauw!"
 	done
 
 _PokemonTower5FPurifiedZoneText::
-	text "Entered purified,"
-	line "protected zone!"
+	text "Mpqkeº sthn"
+	line "zwnh prostasíaº!"
 
-	para "<PLAYER>'s #MON"
-	line "are fully healed!"
+	para "Ta #mon éxoyn"
+	line "plqrh íash twra!"
 	done

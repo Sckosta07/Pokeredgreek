@@ -1,104 +1,104 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "Üarakalw eláte janá!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "We're making"
-	line "preparations."
-	cont "Please wait."
+	text "Kánoyme"
+	line "proetoimasíeº."
+	cont "perímenete lígo."
 	done
 
 _UsedStrengthText::
 	text_ram wNameBuffer
-	text " used"
-	line "STRENGTH.@"
+	text " ébale"
+	line "'dYNAMH.@"
 	text_end
 
 _CanMoveBouldersText::
 	text_ram wNameBuffer
-	text " can"
-	line "move boulders."
+	text " mporeí na"
+	line "koynáei bráxoyº."
 	prompt
 
 _CurrentTooFastText::
-	text "The current is"
-	line "much too fast!"
+	text "To reúma eínai"
+	line "polú grqgoro!"
 	prompt
 
 _CyclingIsFunText::
-	text "Cycling is fun!"
-	line "Forget SURFing!"
+	text "To petáli éxei pláka!"
+	line "Ñéxna to 'sERÖ!"
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "Ektyflvtikq 'lAMñH"
+	line "fvtízei to méroº!"
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "Warp to the last"
-	line "#MON CENTER."
+	text "Metábash sto teley-"
+	line "taío KENTPO #MON."
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wNameBuffer
-	text " can't"
-	line "use TELEPORT now."
+	text " den mporeíº na bá-"
+	line "leiº TH'lEMETAÖOPA."
 	prompt
 
 _CannotFlyHereText::
 	text_ram wNameBuffer
-	text " can't"
-	line "FLY here."
+	text " den petáº"
+	line "edw péra."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Not healthy"
-	line "enough."
+	text "Óxi arketá"
+	line "ygiqº."
 	prompt
 
 _NewBadgeRequiredText::
-	text "No! A new BADGE"
-	line "is required."
+	text "Óxi! Néo EMB'lHMA"
+	line "apaiteítai."
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "Óxi antikeímena"
+	line "edw."
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "'den mporeíº na"
+	line "katébeiº edw."
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _SentToBoxText::
-	text "There's no more"
-	line "room for #MON!"
+	text "'den éxeiº állo"
+	line "xwro gia #mon!"
 	cont "@"
 	text_ram wBoxMonNicks
-	text " was"
-	cont "sent to #MON"
-	cont "BOX @"
+	text " éxei"
+	cont "páei sto koytí"
+	cont "#mon @"
 	text_ram wStringBuffer
-	text " on PC!"
+	text " sto PC!"
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
+	text "'den éxeiº állo"
+	line "xwro gia #mon!"
 
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
+	para "To koytí #mon"
+	line "eínai gemáto kai"
+	cont "den déxetai álla!"
 
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	para "Állaje to koytí sto"
+	line "KENTPO #mon!"
 	done

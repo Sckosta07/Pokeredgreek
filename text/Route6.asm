@@ -1,97 +1,97 @@
 _Route6CooltrainerM1BattleText::
-	text "Who's there?"
-	line "Quit listening in"
-	cont "on us!"
+	text "Üoióº eínai ekeí?"
+	line "'stamata na"
+	cont "maº akoúº!"
 	done
 
 _Route6CooltrainerM1EndBattleText::
-	text "I"
-	line "just can't win!"
+	text "Aplá"
+	line "den nikáv!"
 	prompt
 
 _Route6CooltrainerAfterBattleText::
-	text "Whisper..."
-	line "whisper..."
+	text "ñíuyroº..."
+	line "ñíuyroº..."
 	done
 
 _Route6CooltrainerF1BattleText::
-	text "Excuse me! This"
-	line "is a private"
-	cont "conversation!"
+	text "'sygnwmh! Aytq"
+	line "eínai prosvpikq"
+	cont "syzqthsh!"
 	done
 
 _Route6CooltrainerF1EndBattleText::
-	text "Ugh!"
-	line "I hate losing!"
+	text "'den moy"
+	line "arései na xánv!"
 	prompt
 
 _Route6Youngster1BattleText::
-	text "There aren't many"
-	line "bugs out here."
+	text "'den ypárxoyn"
+	line "pollá éntoma edw."
 	done
 
 _Route6Youngster1EndBattleText::
-	text "No!"
-	line "You're kidding!"
+	text "Óxi!"
+	line "Üláka káneiº!"
 	prompt
 
 _Route6Youngster1AfterBattleText::
-	text "I like bugs, so"
-	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	text "'latreúv ta éntoma!"
+	line "'ryrízv písv sto"
+	cont "'dA'sO's VIRIDIAN."
 	done
 
 _Route6CooltrainerM2BattleText::
-	text "Huh? You want"
-	line "to talk to me?"
+	text "Eee? Òeº na"
+	line "moy milqseiº?"
 	done
 
 _Route6CooltrainerM2EndBattleText::
-	text "I"
-	line "didn't start it!"
+	text "'den"
+	line "to árxisa egw!"
 	prompt
 
 _Route6CooltrainerM2AfterBattleText::
-	text "I should carry"
-	line "more #MON with"
-	cont "me for safety."
+	text "Ürépei na koyba-"
+	line "láv perissótera"
+	cont "gia sigoyriá."
 	done
 
 _Route6CooltrainerF2BattleText::
-	text "Me? Well, OK."
-	line "I'll play!"
+	text "Egw? OK, tóte."
+	line "Òa paíjv!"
 	done
 
 _Route6CooltrainerF2EndBattleText::
-	text "Just"
-	line "didn't work!"
+	text "Aplá"
+	line "den épiase!"
 	prompt
 
 _Route6CooltrainerF2AfterBattleText::
-	text "I want to get"
-	line "stronger! What's"
-	cont "your secret?"
+	text "Òélv na gínv pio"
+	line "dynatq! Üwº"
+	cont "ta kataférneiº?"
 	done
 
 _Route6Youngster2BattleText::
-	text "I've never seen"
-	line "you around!"
-	cont "Are you good?"
+	text "'den se éxv janá"
+	line "dei edw gúrv!"
+	cont "Eísai kalóº?"
 	done
 
 _Route6Youngster2EndBattleText::
-	text "You"
-	line "are too good!"
+	text "Eísai"
+	line "polú kalóº esú!"
 	prompt
 
 _Route6Youngster2AfterBattleText::
-	text "Are my #MON"
-	line "weak? Or, am I"
-	cont "just bad?"
+	text "Éxv adúnama"
+	line "#mon? Ì, eímai"
+	cont "xália se aytó?"
 	done
 
 _Route6UndergroundPathSignText::
-	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
-	cont "VERMILION CITY"
+	text "YÜO'rEIO's 'dPOMO's"
+	line "ÜO'lH CERULEAN -"
+	cont "ÜO'lH VERMILION"
 	done

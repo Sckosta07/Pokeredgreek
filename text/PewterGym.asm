@@ -1,18 +1,18 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "Eímai o BROCK!"
+	line "o H'rETH's toy"
+	cont "PEWTER GYM!"
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "Üisteúv sthn"
+	line "sklhrq ámyna"
+	cont "kai apófash!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "Étsi óla ta"
+	line "#mon moy eínai"
+	cont "túpoy pétraº!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "Òéleiº akóma na"
+	line "me prokaléseiº?"
+	cont "Kalá tóte! Káne"
+	cont "to kalútero soy!"
 	done

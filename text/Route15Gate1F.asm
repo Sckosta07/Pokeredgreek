@@ -1,7 +1,7 @@
 _Route15Gate1FGuardText::
-	text "Are you working"
-	line "on a #DEX?"
+	text "'doyleúeiº me"
+	line "éna #ntej?"
 
-	para "PROF.OAK's AIDE"
-	line "came by here."
+	para "O BOHÒO's toy"
+	line "KAÒ.OAK qtan edw."
 	done

@@ -249,7 +249,7 @@ LoadTownMap_Fly::
 	jr .pressedDown
 
 ToText:
-	db "To@"
+	db "'se@"
 
 BuildFlyLocationsList:
 	ld hl, wFlyAnimUsingCoordList

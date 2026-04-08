@@ -1,154 +1,154 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "Üqra to KOFFING"
+	line "sto CINNABAR!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "Eínai kaló, ma"
+	line "fysáei dhlhtqrio"
+	cont "ótan uymwnei!"
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Xexex! to GYM edw"
+	line "eínai ypéroxo!"
+	cont "'remáto gúnaikeº!"
 	done
 
 _CeladonCityGirlText::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "H 'r'vNIA ÜAIXNI'dIOY"
+	line "kánei kakó sthn"
+	cont "eikóna thº pólhº!"
 	done
 
 _CeladonCityGramps2Text::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "Moan! Ta édvsa óla"
+	line "sta froytákia!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "Ìjera óti éprepe"
+	line "na dwsv óla ta ké-"
+	cont "rmata gia brabeía!"
 	done
 
 _CeladonCityGramps3Text::
-	text "Hello, there!"
+	text "'reiá soy!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "'se éxv dei, ma"
+	line "poté den soy"
+	cont "mílhsa eséna!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "Oríste dwro"
+	line "epeidq péraseº!"
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
+	text "TM41 mauaí-"
+	line "nei ÒEPAÜEIA!"
+	
+	para "Móno éna #-"
+	line "MON ua to éxei!"
 
-	para "Only one #MON"
-	line "can use it!"
-
-	para "That #MON is"
-	line "CHANSEY!"
+	para "To dikó moy lé-"
+	line "getai CHANSEY!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "'v, o sáko's soy"
+	line "eínai gemátoº!"
 	done
 
 _CeladonCityFisherText::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "edw, o pistóº moy"
+	line "fíloº, POLIWRATH!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "Ejelqxuhke apó"
+	line "POLIWHIRL ótan"
+	cont "ébala ÜETRA NEPOY!"
 	done
 
 _CeladonCityPoliwrathText::
-	text "POLIWRATH: Ribi"
-	line "ribit!@"
+	text "POLIWRATH: Pímpi"
+	line "rímpit!@"
 	text_end
 
 _CeladonCityRocket1Text::
-	text "What are you"
-	line "staring at?"
+	text "Ti koitázeiº"
+	line "étsi esú?"
 	done
 
 _CeladonCityRocket2Text::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "Mhn eísai sto 'dPO-"
+	line "MO tvn ÜYPAY'l'vN!"
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOYLE's"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "H AKPIBEIA X"
+	line "anebázei akríbeia"
+	cont "texnikqº!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "AME'sO XTYÜHMA"
+	line "anebázei krísi-"
+	cont "meº zhmiéº!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Üáre óti ueº sto"
+	line "ÜO'lYKATA'sTHMA"
+	cont "CELADON!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "ÜO'lH CELADON"
+	line "H pólh tvn oyrá-"
+	cont "nivn oneírvn"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "ÜO'lH CELADON"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: ERIKA"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "H prigkípissa poy"
+	line "agapá thn fúsh!"
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "EÜAY'lH CELADON"
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "Breº óti ueº sto"
+	line "ÜO'lYKATA'sTHMA"
+	cont "CELADON!"
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "H A'sPI'dA prosta-"
+	line "teúei ta #MON"
+	cont "enántia se EI'dI-"
+	cont "KE's epiuéseiº"
+	cont "fvtiáº q neroú!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Breº óti ueº sto"
+	line "ÜO'lYKATA'sTHMA"
+	cont "CELADON!"
 	done
 
 _CeladonCityPrizeExchangeSignText::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "Antállaje kérmata"
+	line "gia brabeía!"
+	cont "ANTA'lA'rH BPABEI'vN"
 	done
 
 _CeladonCityGameCornerSignText::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "'r'vNIA ÜYPAY'l'vN"
+	line "paidikq xará"
+	cont "gia enílhkoyº!"
 	done

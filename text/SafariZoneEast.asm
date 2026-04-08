@@ -1,16 +1,16 @@
 _SafariZoneEastRestHouseSignText::
-	text "REST HOUSE"
+	text "'sÜITI HPEMIA's"
 	done
 
 _SafariZoneEastTrainerTipsText::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "The remaining time"
-	line "declines only"
-	cont "while you walk!"
+	para "O xrónoº meiw-"
+	line "netai móno ótan"
+	cont "perpatáº!"
 	done
 
 _SafariZoneEastSignText::
-	text "CENTER AREA"
-	line "NORTH: AREA 2"
+	text "KENTPIKH ÜEPIOXH"
+	line "BOPPA's: ÜEPIOXH 2"
 	done

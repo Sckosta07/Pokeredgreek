@@ -1,16 +1,16 @@
 _CardKeySuccessText1::
-	text "Bingo!@"
+	text "Mpíngko!@"
 	text_end
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "H KAPTA K'lEI'dI"
+	cont "ánoije thn pórta!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "Ötoy! Xreiázetai"
+	line "KAPTA K'lEI'dI!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "Oúte ligáki!"
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "Öaínetai pvº den"
+	line "ypárxei káti edw."
 	prompt
 
 _ItsABiteText::
-	text "Oh!"
-	line "It's a bite!"
+	text "'vx!"
+	line "Éna dágkvma!"
 	prompt
 
 _ExclamationText::
@@ -37,112 +37,112 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "Kápoy shkwuhke"
+	line "to édafoº!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "Aytó uélei 'dYNAMH"
+	line "gia na kinhueí!"
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
-	cont "#MON MART"
+	text "Óla ta antikeímena"
+	line "uéloyn gémisma!"
+	cont "MA'rAZI ÜOKEMON"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "'riátrece #MON!"
+	line "KENTPO ÜOKEMON"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
+	text "O <PLAYER> brqke"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _NoMoreRoomForItemText::
-	text "No more room for"
-	line "items!"
+	text "Xvríº xwro gia"
+	line "álla antikeímena!"
 	done
 
 _OaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "'reiá! Me uymásai?"
+	line "Eímai BOHÒO's toy"
+	cont "KAÒ.OAK!"
 
-	para "If you caught @"
+	para "Án piáseiº @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
-	cont "I'm supposed to"
-	cont "give you an"
+	line "eídh apó #mon,"
+	cont "ypotíuetai pvº ua"
+	cont "soy dwsv éna"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "!"
 
-	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	para "'loipón, <PLAYER>!"
+	line "Épiaseº méxri kai"
+	cont "@"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds of"
-	cont "#MON?"
+	text " eídh apó"
+	cont "#mon?"
 	done
 
 _OaksAideUhOhText::
-	text "Let's see..."
-	line "Uh-oh! You have"
-	cont "caught only @"
+	text "'ria na doúme..."
+	line "'vx óxi! Éxeiº"
+	cont "piásei móno @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "eídh apó #mon!"
 
-	para "You need @"
+	para "Òéleiº @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds"
-	line "if you want the"
+	text " eídh an"
+	line "uéleiº to"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideComeBackText::
-	text "Oh. I see."
+	text "'v, katálaba."
 
-	para "When you get @"
+	para "Ótan éxeiº @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds, come back"
-	cont "for @"
+	line "eídh, éla písv"
+	cont "gia to @"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Great! You have"
-	line "caught @"
+	text "'vraía! Éxeiº"
+	line "piásei @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " kinds "
-	cont "of #MON!"
-	cont "Congratulations!"
+	text " eídh "
+	cont "apó #mon!"
+	cont "'sygxarhtqria!"
 
-	para "Here you go!"
+	para "Oríste!"
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> got the"
+	text "O <PLAYER> pqre to"
 	line "@"
 	text_ram wOaksAideRewardItemName
 	text "!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
+	text "'v! Blépv pvº"
+	line "den éxeiº állo"
+	cont "xwro gia to"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."

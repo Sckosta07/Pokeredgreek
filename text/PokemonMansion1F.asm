@@ -1,29 +1,29 @@
 _PokemonMansion1FScientistBattleText::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "Üoióº eísai? Edw"
+	line "den ua éprepe"
+	cont "na eínai kaneíº."
 	done
 
 _PokemonMansion1FScientistEndBattleText::
-	text "Ouch!"
+	text "Oytº!"
 	prompt
 
 _PokemonMansion1FScientistAfterBattleText::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "Éna kleidí?"
+	line "'den jérv gia ti"
+	cont "prágma miláº."
 	done
 
 _PokemonMansion1FSwitchText::
-	text "A secret switch!"
+	text "Kryfóº diakópthº!"
 
-	para "Press it?"
+	para "Òa ton patqseiº?"
 	done
 
 _PokemonMansion1FSwitchPressedText::
-	text "Who wouldn't?"
+	text "'riatí óxi?"
 	prompt
 
 _PokemonMansion1FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Óxi akóma!"
 	done

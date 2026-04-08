@@ -1,6 +1,6 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue.
+This is a disassembly of full translated in greek language for Pokémon Red and Blue.
 
 It builds the following ROMs:
 

@@ -1,14 +1,14 @@
 _FuchsiaMartMiddleAgedManText::
-	text "Do you have a"
-	line "SAFARI ZONE flag?"
+	text "Éxeiº th shmaía"
+	line "thº Z'vNH's 'sAÖAPI?"
 
-	para "What about cards"
-	line "or calendars?"
+	para "Ti leº gia kárteº"
+	line "q hmerológia?"
 	done
 
 _FuchsiaMartCooltrainerFText::
-	text "Did you try X"
-	line "SPEED? It speeds"
-	cont "up a #MON in"
-	cont "battle!"
+	text "Mqpvº ébaleº"
+	line "TAXYTHTA X?"
+	cont "Ayjánei taxúthta"
+	cont "se máxeº!"
 	done

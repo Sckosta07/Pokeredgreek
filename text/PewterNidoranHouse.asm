@@ -1,25 +1,25 @@
 _PewterNidoranHouseNidoranText::
-	text "NIDORAN: Bowbow!@"
+	text "NIDORAN: Boyboy!@"
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "NIDORAN kátse!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "To #mon maº"
+	line "eínai jéno. 'dú-"
+	cont "skola xeirízetai."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Ñéno eínai éna"
+	line "#mon poy a-"
+	cont "ntallázeiº."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Megalwnei grqgora,"
+	line "ma agnoeí énan"
+	cont "ápeiro ekp/th"
+	cont "sthn máxh!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "An eíxame móno"
+	line "EMB'lHMATA..."
 	done

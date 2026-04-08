@@ -1,105 +1,105 @@
 _SSAnne1FRoomsWigglytuffText::
-	text "WIGGLYTUFF: Puup"
-	line "pupuu!@"
+	text "WIGGLYTUFF: Üoyp"
+	line "poypoy!@"
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Tajideúv mónoº"
+	line "sta tajídia moy!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "Móno ta #mon"
+	line "eínai fíloi moy!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "Oi, oi"
+	line "fíloi moy..."
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "Na eísai kalóº me"
+	line "toyº fíloyº soy!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Mikré! Üvº tolmáº"
+	line "na diakópteiº!"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "Xamf!"
+	line "Agenéº paidí!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Òélv na meínv"
+	line "mónoº! bgeº éjv!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "'latreúv ta #mon!"
+	line "Kai esú to ídio?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
-	text "Wow! "
-	line "You're great!"
+	text "Oyáoy! "
+	line "Eísai apíuanoº!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Áse me na eímai"
+	line "fíloº soy, OK?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "Antallássoyme"
+	line "#mon?"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Éxv sylléjei ta"
+	line "#mon ap' ólo"
+	cont "ton kósmo!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "'vx óxi!"
+	line "Üqga se ólo ton"
+	cont "kósmo gi' aytá!"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Ta #mon soy"
+	line "koyrásthkan!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Kalútera na ta"
+	line "paº se kápoio"
+	cont "KENTPO ÜOKEMON!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "'rkarsón, uélv"
+	line "mia kerasópita"
+	cont "parakalw!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "H kroyaziéra eínai"
+	line "komcq kai xalarq!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Tajideúv pánta me"
+	line "to WIGGLYTUFF!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "Tajideúoyme mazí"
+	line "se ólo ton kósmo."
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "'sss! Eímai MYsTI"
+	line "'KO's A'sTYNÓMO's!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Eímai sta íxnh thº"
+	line "OMA'dA's ÜYPAY'lOY!"
 	done

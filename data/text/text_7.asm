@@ -1,5 +1,5 @@
 _ItemUseText001::
-	text "<PLAYER> used@"
+	text "O <PLAYER> ébale@"
 	text_end
 
 _ItemUseText002::
@@ -8,7 +8,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "O <PLAYER> anébhke @"
 	text_end
 
 _GotOnBicycleText2::
@@ -17,184 +17,184 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "O <PLAYER> katébhke @"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "se @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Üétaje"
 	line "@"
 	text_ram wNameBuffer
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
-	line "@"
+	text "Eínai OK na petá-"
+	line "jeiº @"
 	text_ram wStringBuffer
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "Eínai polú shma-"
+	line "ntikó gia pétagma!"
 	prompt
 
 _AlreadyKnowsText::
 	text_ram wNameBuffer
-	text " knows"
+	text " jérei qdh"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+	text "OK, súndese"
+	line "to kalwdio!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
-	line "@"
+	text "O <PLAYER> antállaje"
+	line "to @"
 	text_ram wInGameTradeGiveMonName
-	text " for"
+	text " gia"
 	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "!@"
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "ñáxnv gia to"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text "! Òéleiº"
 
-	para "trade one for"
-	line "@"
+	para " na antallájeiº"
+	line "gia to @"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "Oh well..."
+	text "'vvvvvv!"
+	line "'v kalá..."
 	done
 
 _WrongMon1Text::
-	text "What? That's not"
+	text "Ti? 'den eínai"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "!"
 
-	para "If you get one,"
-	line "come back here!"
+	para "An páreiº éna,"
+	line "éla písv!"
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "Éi eyxarisrtw!"
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
-	line "@"
+	text "'den eínai to"
+	line "palió @"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text " moy ypéroxo?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "'reiá soy! Òeº na"
+	line "antallájeiº"
 
-	para "your @"
+	para "to @"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "for @"
+	line "gia @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "'loipón, an"
+	line "den ueº..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
+	text "Xmm? 'den eínai"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "Think of me when"
-	line "you get one."
+	para "'skécoy eména"
+	line "ótan éxeiº éna."
 	done
 
 _Thanks2Text::
-	text "Thanks!"
+	text "Eyxaristw!"
 	done
 
 _AfterTrade2Text::
-	text "The @"
+	text "To @"
 	text_ram wInGameTradeGiveMonName
-	text " you"
-	line "traded to me"
+	text " poy antálla-"
+	line "jeº me eména"
 
-	para "went and evolved!"
+	para "ejelíxuhke!" 
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
+	text "'reiá! Éxeiº to"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "?"
 
-	para "Want to trade it"
-	line "for @"
+	para "Òeº na antalájeiº"
+	line "gia @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "Üolú kríma."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "...'den eínai"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "An páreiº éna,"
+	line "antállaje to edw!"
 	done
 
 _Thanks3Text::
-	text "Thanks pal!"
+	text "Eyxaristw fíle!"
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
+	text "Üvº páei to"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "My @"
+	para "To @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	text " moy"
+	line "páei téleia!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "'den ypárxei"
+	line "káti gia KOÜH!"
 	prompt
 
 _UsedCutText::
 	text_ram wNameBuffer
-	text " hacked"
-	line "away with CUT!"
+	text " ékoce" 
+	line "me KOÜH!"
 	prompt

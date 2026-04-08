@@ -1,21 +1,21 @@
 _SSAnne1FWaiterText::
-	text "Bonjour!"
-	line "I am le waiter on"
-	cont "this ship!"
+	text "BONJOUR!"
+	line "Eímai LE gkarsón"
+	cont "toy ploíoy!"
 
-	para "I will be happy"
-	line "to serve you any-"
-	cont "thing you please!"
+	para "Òa xarw na saº"
+	line "ejyphretqsv se"
+	cont "óti uélete!"
 
-	para "Ah! Le strong"
-	line "silent type!"
+	para "A! LE túpoº"
+	line "úshxhº dúnamhº!"
 	done
 
 _SSAnne1FSailorText::
-	text "The passengers"
-	line "are restless!"
+	text "Oi epibáteº"
+	line "eínai anqsyxoi!"
 
-	para "You might be"
-	line "challenged by the"
-	cont "more bored ones!"
+	para "Mporeí na se"
+	line "prokalésoyn aytoí"
+	cont "poy barioúntai!"
 	done

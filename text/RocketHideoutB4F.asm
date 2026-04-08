@@ -1,74 +1,74 @@
 _RocketHideoutB4FGiovanniImpressedYouGotHereText::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Axá! Ürépei na pv,"
+	line "entypvsiásthka"
+	cont "poy éftaseº edw!"
 	done
 
 _RocketHideoutB4FGiovanniWhatCannotBeText::
-	text "WHAT!"
-	line "This cannot be!"
+	text "Ti! Ay-"
+	line "tó den gínetai!"
 	prompt
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Blépv pvº mega-"
+	line "lwneiº #mon"
+	cont "me polú prosoxq."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "Éna paidí ópvº"
+	line "esú den ua katalá-"
+	cont "baine ti elpízoy"
+	cont "me na petúxoyme."
 
-	para "I shall step"
-	line "aside this time!"
+	para "Òa kánv sthn"
+	line "ákrh gia twra!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Elpízv na ta"
+	line "janá poúme..."
 	done
 
 _RocketHideoutB4FRocket1BattleText::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "'se jérv! Esú xála-"
+	line "seº ta sxédia maº"
+	cont "sto BN.ÖE'r'rAPI!"
 	done
 
 _RocketHideoutB4FRocket1EndBattleText::
-	text "Burned"
-	line "again!"
+	text "Káqka"
+	line "janá!"
 	prompt
 
 _RocketHideoutB4FRocket1AfterBattleText::
-	text "Do you have"
-	line "something against"
-	cont "TEAM ROCKET?"
+	text "Éxeiº uémata"
+	line "me thn OMA'dA"
+	cont "ÜYPAY'lO?"
 	done
 
 _RocketHideoutB4FRocket2BattleText::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "'riatí den blépeiº"
+	line "thn omorfiá toy"
+	cont "kakoú maº?"
 	done
 
 _RocketHideoutB4FRocket2EndBattleText::
-	text "Ayaya!"
+	text "Agiagia!"
 	prompt
 
 _RocketHideoutB4FRocket2AfterBattleText::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "AÖENTIKO! 'sygnwmh"
+	line "se apogoqteysa!"
 	done
 
 _RocketHideoutB4FRocket3BattleText::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "To asansér den"
+	line "leitoyrgeí? Üoióº"
+	cont "éxei to K'lEI'dI?"
 	done
 
 _RocketHideoutB4FRocket3EndBattleText::
-	text "No!"
+	text "Óxi!"
 	prompt
 
 _RocketHideoutB4FRocket3AfterBattleText::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "'vx óxi! Moy"
+	line "épese to K'lEI'dI!"
 	done

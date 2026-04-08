@@ -1,108 +1,108 @@
 _Museum1FScientist1ComeAgainText::
-	text "Come again!"
+	text "Eláte janá!"
 	done
 
 _Museum1FScientist1WouldYouLikeToComeInText::
-	text "It's ¥50 for a"
-	line "child's ticket."
+	text "Eínai ¥50 to"
+	line "mikró eishtqrio."
 
-	para "Would you like to"
-	line "come in?"
+	para "Òa uélate na"
+	line "mpeíte mésa?"
 	done
 
 _Museum1FScientist1ThankYouText::
-	text "Right, ¥50!"
-	line "Thank you!"
+	text "'svsta, ¥50!"
+	line "Eyxaristw!"
 	done
 
 _Museum1FScientist1DontHaveEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "'den éxete"
+	line "arketá xrqmata."
 	prompt
 
 _Museum1FScientist1DoYouKnowWhatAmberIsText::
-	text "You can't sneak"
-	line "in the back way!"
+	text "'den mporeíº na"
+	line "érxesai kryfá!"
 
-	para "Oh, whatever!"
-	line "Do you know what"
-	cont "AMBER is?"
+	para "'v, óti na 'nai!"
+	line "Ñéreiº ti eínai"
+	cont "to KEXPIMÜAPI?"
 	done
 
 _Museum1FScientist1TheresALabSomewhereText::
-	text "There's a lab"
-	line "somewhere trying"
-	cont "to resurrect"
-	cont "ancient #MON"
-	cont "from AMBER."
+	text "Éna ergastqrio"
+	line "kápoy prospaueí"
+	cont "na anastqsei éna"
+	cont "arxaío #mon"
+	cont "apó KEXPIMÜAPI."
 	done
 
 _Museum1FScientist1AmberIsFossilizedTreeSapText::
-	text "AMBER is fossil-"
-	line "ized tree sap."
+	text "KEXPIMÜAPI eínai"
+	line "apoliuvménh rhtính."
 	done
 
 _Museum1FScientist1GoToOtherSideText::
-	text "Please go to the"
-	line "other side!"
+	text "Üarakalw pqgaine"
+	line "sthn állh pleyrá!"
 	done
 
 _Museum1FScientist1TakePlentyOfTimeText::
-	text "Take plenty of"
-	line "time to look!"
+	text "Koíta me thn"
+	line "yshxía soy!"
 	done
 
 _Museum1FGamblerText::
-	text "That is one"
-	line "magnificent"
-	cont "fossil!"
+	text "Aytó eínai"
+	line "spoydaío"
+	cont "apolíuvma!"
 	done
 
 _Museum1FScientist2TakeThisToAPokemonLabText::
-	text "Ssh! I think that"
-	line "this chunk of"
-	cont "AMBER contains"
-	cont "#MON DNA!"
+	text "'sss! Nomízv pvº"
+	line "to KEXPIMÜAPI moy"
+	cont "periéxei mésa"
+	cont "#mon DNA!"
 
-	para "It would be great"
-	line "if #MON could"
-	cont "be resurrected"
-	cont "from it!"
+	para "Òa qtan uaymásio"
+	line "an éna #mon"
+	cont "anastaínotan"
+	cont "apó aytó!"
 
-	para "But, my colleagues"
-	line "just ignore me!"
+	para "Ma, oi synádelfoi"
+	line "aplá me agnvoún!"
 
-	para "So I have a favor"
-	line "to ask!"
+	para "Opóte uélv mia"
+	line "xárh apó eséna!"
 
-	para "Take this to a"
-	line "#MON LAB and"
-	cont "get it examined!"
+	para "Üáre aytó gia to"
+	line "ergastqrio"
+	cont "gia ejétash!"
 	prompt
 
 _Museum1FScientist2ReceivedOldAmberText::
-	text "<PLAYER> received"
-	line "OLD AMBER!@"
+	text "O <PLAYER> pqre"
+	line "KEXPIMÜAPI!@"
 	text_end
 
 _Museum1FScientist2GetTheOldAmberCheckText::
-	text "Ssh! Get the OLD"
-	line "AMBER checked!"
+	text "'sss! Tsékare to"
+	line "KEXPIMÜAPI!"
 	done
 
 _Museum1FScientist2YouDontHaveSpaceText::
-	text "You don't have"
-	line "space for this!"
+	text "'den éxeiº xwro"
+	line "gi' aytó!"
 	done
 
 _Museum1FScientist3Text::
-	text "We are proud of 2"
-	line "fossils of very"
-	cont "rare, prehistoric"
-	cont "#MON!"
+	text "Eímaste perqfanoi"
+	line "gia 2 apoliuwmata"
+	cont "proìstorikwn"
+	cont "#mon!"
 	done
 
 _Museum1FOldAmberText::
-	text "The AMBER is"
-	line "clear and gold!"
+	text "To KEXPIMÜAPI eí-"
+	line "nai kauaró, gyalízei!"
 	done

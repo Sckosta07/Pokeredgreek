@@ -1,155 +1,155 @@
 _Route20Swimmer1BattleText::
-	text "The water is"
-	line "shallow here."
+	text "Ta nerá eínai"
+	line "rhxá edw."
 	done
 
 _Route20Swimmer1EndBattleText::
-	text "Splash!"
+	text "'splaº!"
 	prompt
 
 _Route20Swimmer1AfterBattleText::
-	text "I wish I could"
-	line "ride my #MON."
+	text "Eúxomai na bo-"
+	line "ltárv me #mon."
 	done
 
 _Route20Swimmer2BattleText::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "Ta AÖPO'dH einai "
+	line "qsyxoº drómoº!"
 	done
 
 _Route20Swimmer2EndBattleText::
-	text "Quit it!"
+	text "Öeúgv!"
 	prompt
 
 _Route20Swimmer2AfterBattleText::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "Ypárxei mia sphliá"
+	line "kátv apó áytó"
+	cont "to nhsáki."
 	done
 
 _Route20Swimmer3BattleText::
-	text "I love floating"
-	line "with the fishes!"
+	text "M' arései na epi-"
+	line "plév me ta cária!"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Yowch!"
+	text "Aoytº!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
-	text "Want to float"
-	line "with me?"
+	text "Òéleiº na koly-"
+	line "mpqsoyme?"
 	done
 
 _Route20Swimmer4BattleText::
-	text "Are you on"
-	line "vacation too?"
+	text "Eísai kai esú"
+	line "se diakopéº?"
 	done
 
 _Route20Swimmer4EndBattleText::
-	text "No"
-	line "mercy at all!"
+	text "Óxi?"
+	line "Ti kríma!"
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "Ta AÖPO'dH qtan"
+	line "éna nhsí paliá!"
 	done
 
 _Route20Swimmer5BattleText::
-	text "Check out my buff"
-	line "physique!"
+	text "Tsékare to foy-"
+	line "skvtó moy swma!"
 	done
 
 _Route20Swimmer5EndBattleText::
-	text "Wimpy!"
+	text "Mpa!"
 	prompt
 
 _Route20Swimmer5AfterBattleText::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "Kalútera na gy-"
+	line "mnásv ta #mon"
+	cont "moy, óxi eména!"
 	done
 
 _Route20Swimmer6BattleText::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "'riatí eísai pánv"
+	line "sto #mon? 'den"
+	cont "jéreiº kolúmpi?"
 	done
 
 _Route20Swimmer6EndBattleText::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "Áoytº!"
+	line "To parákana!"
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "Üánv se #mon"
+	line "éxei pláka!"
 	done
 
 _Route20CooltrainerMBattleText::
-	text "I rode my bird"
-	line "#MON here!"
+	text "Üétaga me to #"
+	line "mon méxri edw!"
 	done
 
 _Route20CooltrainerMEndBattleText::
-	text "Oh"
-	line "no!"
+	text "'vx"
+	line "óxi!"
 	prompt
 
 _Route20CooltrainerMAfterBattleText::
-	text "My birds can't"
-	line "FLY me back!"
+	text "'den mporw na"
+	line "ÜETAÑ'v písv!"
 	done
 
 _Route20Swimmer7BattleText::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "O fíloº moy edwse"
+	line "megáleº pérleº!"
 	done
 
 _Route20Swimmer7EndBattleText::
-	text "Don't"
-	line "touch my pearls!"
+	text "Mhn tiº"
+	line "peirázeiº!"
 	prompt
 
 _Route20Swimmer7AfterBattleText::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "Oi pérleº lámpoyn"
+	line "pio polú sto"
+	cont "CLOYSTER?"
 	done
 
 _Route20Swimmer8BattleText::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "Kolympoúsa apó to"
+	line "NH'sI CINNABAR!"
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "I'm"
-	line "so disappointed!"
+	text ""
+	line "Apogohteúthka!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "#mon éxoyn"
+	line "katalábei mia pa-"
+	cont "rathménh épaylh"
+	cont "sthn CINNABAR!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "H CINNABAR, sta"
+	line "dytiká, éxei erga-"
+	cont "stqrio #mon."
 	done
 
 _Route20Swimmer9EndBattleText::
-	text "Wait!"
+	text "'stásoy!"
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "H CINNABAR eínai"
+	line "nhsí me hfaístio!"
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEAFOAM ISLANDS"
+	text "AÖPO'dH NH'sIA"
 	done

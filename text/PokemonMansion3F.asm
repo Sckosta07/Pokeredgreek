@@ -1,37 +1,37 @@
 _PokemonMansion3FSuperNerdBattleText::
-	text "This place is"
-	line "like, huge!"
+	text "Aytó to méroº"
+	line "eínai, terástio!"
 	done
 
 _PokemonMansion3FSuperNerdEndBattleText::
-	text "Ayah!"
+	text "Agiáx!"
 	prompt
 
 _PokemonMansion3FSuperNerdAfterBattleText::
-	text "I wonder where"
-	line "my partner went."
+	text "Üoy na pqge o"
+	line "synergáthº moy?"
 	done
 
 _PokemonMansion3FScientistBattleText::
-	text "My mentor once"
-	line "lived here."
+	text "O méntoraº moy"
+	line "zoúse kápote edw."
 	done
 
 _PokemonMansion3FScientistEndBattleText::
-	text "Whew!"
-	line "Overwhelming!"
+	text "Öioy!"
+	line "Me níkhseº!"
 	prompt
 
 _PokemonMansion3FScientistAfterBattleText::
-	text "So, you're stuck?"
-	line "Try jumping off"
-	cont "over there!"
+	text "'vste, kóllhseº?"
+	line "Üése apó"
+	cont "ekeí péra!"
 	done
 
 _PokemonMansion3FDiaryText::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "Hmer.: 6 Öebr. "
+	line "To MEW zei janá."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "Onomásame to"
+	line "neogénnhto MEWTWO."
 	done

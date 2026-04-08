@@ -1,135 +1,135 @@
 _SilphCo11FSilphPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
-	cont "SILPH!"
+	text "ÜPOE'dPO's: Eyxa-"
+	line "ristw poy ésvseº"
+	cont "thn SILPH!"
 
-	para "I will never"
-	line "forget you saved"
-	cont "us in our moment"
-	cont "of peril!"
+	para "'den ua jexásv"
+	line "poté poy maº"
+	cont "ésvseº sthn"
+	cont "dúskolh stigmq!"
 
-	para "I have to thank"
-	line "you in some way!"
+	para "Ürépei na se eyxa-"
+	line "ristqsv kápvº!"
 
-	para "Because I am rich,"
-	line "I can give you"
-	cont "anything!"
+	para "Eímai ploúsioº,"
+	line "mporw ua soy"
+	cont "dwsv oti ueº!"
 
-	para "Here, maybe this"
-	line "will do!"
+	para "Óríste, mállon"
+	line "aytó kánei!"
 	prompt
 
 _SilphCo11FSilphPresidentReceivedMasterBallText::
-	text "<PLAYER> got a"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "mía @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SilphCo11FSilphPresidentMasterBallDescriptionText::
-	text "PRESIDENT: You"
-	line "can't buy that"
-	cont "anywhere!"
+	text "ÜPOE'dPO's: 'den"
+	line "ua to breiº"
+	cont "poyuená aytó!"
 
-	para "It's our secret"
-	line "prototype MASTER"
+	para "Eínai h mystikq"
+	line "prvtótyph MASTER"
 	cont "BALL!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "Òa piásei káue"
+	line "#mon xvríº"
+	cont "kamía apotyxía!"
 
-	para "You should be"
-	line "quiet about using"
-	cont "it, though."
+	para "Kalútera na mhn"
+	line "to peiº poyuená,"
+	cont "ómvº."
 	done
 
 _SilphCo11FSilphPresidentNoRoomText::
-	text "You have no"
-	line "room for this."
+	text "'den éxeiº xwro"
+	line "gi' aytó."
 	done
 
 _SilphCo11FBeautyText::
-	text "SECRETARY: Thank"
-	line "you for rescuing"
-	cont "all of us!"
+	text "'rPAMMATEA's:"
+	line "'s' eyxaristoúme"
+	cont "poy maº ésvseº!"
 
-	para "We admire your"
-	line "courage."
+	para "Òaymázoyme"
+	line "to uárroº soy."
 	done
 
 _SilphCo11FGiovanniText::
-	text "Ah <PLAYER>!"
-	line "So we meet again!"
+	text "A <PLAYER>!"
+	line "'se blépv janá!"
 
-	para "The PRESIDENT and"
-	line "I are discussing"
-	cont "a vital business"
-	cont "proposition."
+	para "O ÜPOE'dPO's kai"
+	line "egw miloúsame"
+	cont "gia shmantiká"
+	cont "uémata."
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "Kráta to urásoº"
+	line "soy éjv apó ué-"
+	cont "mata megálvn..."
 
-	para "Or, experience a"
-	line "world of pain!"
+	para "Ì, niwse ton"
+	line "kósmo toy pónoy!"
 	done
 
 _SilphCo10FGiovanniILostAgainText::
-	text "Arrgh!!"
-	line "I lost again!?"
+	text "Argkx!!"
+	line "Éxasa janá!?"
 	prompt
 
 _SilphCo11FGiovanniYouRuinedOurPlansText::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "Na párei!"
+	line "Xálaseº ta sxédia"
+	cont "maº gia thn SILPH!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "Ma, oi ÜYPAY'lOI"
+	line "den ua xauoún!"
 
-	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	para "<PLAYER>! Mh"
+	line "jexnáº óti óla ta"
+	cont "#mon anqkoyn"
+	cont "stoyº ÜYPAY'lOY's!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "Ürépei na fúgv,"
+	line "allá ua epistrécv!"
 	done
 
 _SilphCo11FRocket1BattleText::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "Meíne ekeí!"
+	line "Mhn koynhueíº!"
 	done
 
 _SilphCo11FRocket1EndBattleText::
-	text "Don't..."
-	line "Please!"
+	text "Mh..."
+	line "Üarakalw!"
 	prompt
 
 _SilphCo11FRocket1AfterBattleText::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "üste, ueº na deiº"
+	line "to AÖENTIKO moy?"
 	done
 
 _SilphCo11FRocket2BattleText::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "Alt! Éxeiº"
+	line "synánthsh me"
+	cont "to AÖENTIKO moy?"
 	done
 
 _SilphCo11FRocket2EndBattleText::
-	text "Gaah!"
-	line "Demolished!"
+	text "'rkaax!"
+	line "Nikquhka!"
 	prompt
 
 _SilphCo11FRocket2AfterBattleText::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "Ürósexe, sto"
+	line "AÖENTIKO arésoyn"
+	cont "ta dynatá #mon!"
 	done
 
 _SilphCo10FPorygonText::
-	text "The monitor has"
-	line "#MON on it!"
+	text "H ouónh éxei"
+	line "éna #mon!"
 	done

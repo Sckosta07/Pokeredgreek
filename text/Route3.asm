@@ -1,145 +1,145 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+	text "Öioú... Kalútera"
+	line "na jekoyrastw..."
+	cont "Bogkhtó..."
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
+	para "To toúnel apó thn"
+	line "CERULEAN soy"
+	cont "bgázei koúrash!"
 	done
 
 _Route3Youngster1BattleText::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	text "Éi! 'se eída sto"
+	line "'dA'sO's VIRIDIAN!"
 	done
 
 _Route3Youngster1EndBattleText::
-	text "You"
-	line "beat me again!"
+	text "Me"
+	line "níkhseº janá!"
 	prompt
 
 _Route3Youngster1AfterBattleText::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
+	text "Ypárxoyn álla"
+	line "eídh #mon"
+	cont "apó aytá poy"
+	cont "brqka sto dásoº!"
 	done
 
 _Route3Youngster2BattleText::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
+	text "'reia! Moy arésoyn"
+	line "ta sortsákia!"
+	cont "Áneta kai eúkola!"
 	done
 
 _Route3Youngster2EndBattleText::
-	text "I don't"
-	line "believe it!"
+	text "'den to"
+	line "pisteúv!"
 	prompt
 
 _Route3Youngster2AfterBattleText::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	text "Apouhkeúeiº ta"
+	line "#mon soy sto"
+	cont "PC? Káue KOYTI"
+	cont "xvráei 20 #mon!"
 	done
 
 _Route3CooltrainerF1BattleText::
-	text "You looked at me,"
-	line "didn't you?"
+	text "Koítazeº eména,"
+	line "étsi den eínai?"
 	done
 
 _Route3CooltrainerF1EndBattleText::
-	text "You're"
-	line "mean!"
+	text "Eísai"
+	line "kakóº!"
 	prompt
 
 _Route3CooltrainerF1AfterBattleText::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
+	text "Mhn arxízeiº"
+	line "áma den uéleiº"
+	cont "mia máxh!"
 	done
 
 _Route3Youngster3BattleText::
-	text "Are you a trainer?"
-	line "Let's fight!"
+	text "Eísai ekpaideytqº?"
+	line "Aº palécoyme!"
 	done
 
 _Route3Youngster3EndBattleText::
-	text "If I"
-	line "had new #MON I"
-	cont "would've won!"
+	text "An"
+	line "eíxa néa ua"
+	cont "nikoúsa!"
 	prompt
 
 _Route3Youngster3AfterBattleText::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
+	text "An to KOYTI"
+	line "sto PC gemísei,"
+	cont "aplá állaje se"
+	cont "éna állo koytí!"
 	done
 
 _Route3CooltrainerF2BattleText::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
+	text "Aytó to bléma"
+	line "poy ékaneº, eínai"
+	cont "tóso endiaférvn!"
 	done
 
 _Route3CooltrainerF2EndBattleText::
-	text "Be nice!"
+	text "kalá!"
 	prompt
 
 _Route3CooltrainerF2AfterBattleText::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
+	text "Apéfyge máxeº"
+	line "xvríº na afqneiº"
+	cont "na se blépoyn!"
 	done
 
 _Route3Youngster4BattleText::
-	text "Hey! You're not"
-	line "wearing shorts!"
+	text "Éi! 'den foráº"
+	line "sortsákia!"
 	done
 
 _Route3Youngster4EndBattleText::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "Éxasa!"
+	line "Éxasa! Éxasa!"
 	prompt
 
 _Route3Youngster4AfterBattleText::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
+	text "Üánta foráv"
+	line "sortsákia, akóma"
+	cont "kai ton xeimwna!"
 	done
 
 _Route3Youngster5BattleText::
-	text "You can fight my"
-	line "new #MON!"
+	text "Máxesai ta néa"
+	line "soy #mon?"
 	done
 
 _Route3Youngster5EndBattleText::
-	text "Done"
-	line "like dinner!"
+	text "Éxasa"
+	line "to deípno moy!"
 	prompt
 
 _Route3Youngster5AfterBattleText::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
+	text "Ta ekpaideyména"
+	line "eínai pio dynatá"
+	cont "apó ta ágria!"
 	done
 
 _Route3CooltrainerF3BattleText::
-	text "Eek! Did you"
-	line "touch me?"
+	text "Eek! Mqpvº"
+	line "me ággijeº?"
 	done
 
 _Route3CooltrainerF3EndBattleText::
-	text "That's it?"
+	text "Aytó qtan?"
 	prompt
 
 _Route3CooltrainerF3AfterBattleText::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	text "O 'dPOMO's 4 eínai"
+	line "sthn arxq boynoú."
 	done
 
 _Route3SignText::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	text "'dPOMO's 3"
+	line "BN.ÖE'r'rAPI MÜPO'sTA"
 	done

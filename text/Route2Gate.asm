@@ -1,12 +1,12 @@
 _Route2GateOaksAideFlashExplanationText::
-	text "The HM FLASH"
-	line "lights even the"
-	cont "darkest dungeons."
+	text "To HM 'lAMñH"
+	line "fvtízei akóma kai"
+	cont "ta skoteiná mérh."
 	done
 
 _Route2GateYoungsterText::
-	text "Once a #MON"
-	line "learns FLASH, you"
-	cont "can get through"
-	cont "ROCK TUNNEL."
+	text "Móliº éna #mon"
+	line "máuei thn 'lAMñH,"
+	cont "mporeí na perásei"
+	cont "to TOYNE'l BPAXO."
 	done

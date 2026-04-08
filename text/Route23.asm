@@ -1,29 +1,29 @@
 _Route23YouDontHaveTheBadgeYetText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Òa peráseiº edw"
+	line "móno áma éxeiº"
+	cont "to @"
 	text_ram wNameBuffer
 	text "!"
 
-	para "You don't have the"
+	para "'den éxeiº to"
 	line "@"
 	text_ram wNameBuffer
-	text " yet!"
+	text " akóma!"
 
-	para "You have to have"
-	line "it to get to"
-	cont "#MON LEAGUE!@"
+	para "Ürépei na to pá-"
+	line "reiº sto ÜP'vT/MA"
+	cont "#mon!@"
 	text_end
 
 _Route23OhThatIsTheBadgeText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Òa peráseiº edw"
+	line "móno an éxeiº"
+	cont "to @"
 	text_ram wNameBuffer
 	text "!"
 
-	para "Oh! That is the"
-	line "@"
+	para "'v! Aytó eínai"
+	line "to @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
@@ -31,11 +31,11 @@ _Route23OhThatIsTheBadgeText::
 _Route23GoRightAheadText::
 	text_start
 
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "OK tóte! Üarakalw,"
+	line "proxwra mprostá!"
 	done
 
 _Route23VictoryRoadGateSignText::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "ÜY'lH 'dPOMOY NIKH's"
+	line "- ÜP'vT/MA ÜOKEMON"
 	done

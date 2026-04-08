@@ -1,55 +1,55 @@
 _SilphCo5FRockerEndBattleText::
-	text "Oh"
-	line "goodness!"
+	text "'v"
+	line "Òeé moy!"
 	prompt
 
 _SilphCo5FRockerAfterBattleText::
-	text "You're only on 5F."
-	line "It's a long way"
-	cont "to my BOSS!"
+	text "Eísai ston 5o."
+	line "Éxeiº polú drómo"
+	cont "gia to AÖENTIKO!"
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
-	line "a little respect!"
+	text "'deíje lígo sebasmó"
+	line "stoyº ÜYPAY'lOY's!"
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "'rkoyx..."
+	line "'rkoyx..."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "Moy uymqzei káti."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "KOFFING ejelí-"
+	line "setai se WEEZING!"
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Eínai #mon"
+	line "ANAÖOPA!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
-	cont "the first virtual"
-	cont "reality #MON."
+	para "EP'r/PIO #mon,"
+	line "égine to prwto"
+	cont "hlektronikó #"
+	cont "mon, to PORYGON."
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Mia #mon"
+	line "ANAÖOPA!"
 
-	para "Over 160 #MON"
-	line "techniques have"
-	cont "been confirmed."
+	para "Üánv apó 160 #"
+	line "MON texnikéº"
+	cont "epibebaiwuhkan."
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Mia #mon"
+	line "ANAÖOPA!"
 
-	para "4 #MON evolve"
-	line "only when traded"
-	cont "by link-cable."
+	para "4 #mon allázoyn"
+	line "móno ótan antallá-"
+	cont "sontai me kalwdio."
 	done

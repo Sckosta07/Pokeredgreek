@@ -1,231 +1,231 @@
 _ItemUseBallText00::
-	text "It dodged the"
-	line "thrown BALL!"
+	text "Apéfyge thn"
+	line "BALL poy pétajeº!"
 
-	para "This #MON"
-	line "can't be caught!"
+	para "To #mon den"
+	line "mporeí na piasteí!"
 	prompt
 
 _ItemUseBallText01::
-	text "You missed the"
-	line "#MON!"
+	text "'soy jéfyge"
+	line "to #mon!"
 	prompt
 
 _ItemUseBallText02::
-	text "Darn! The #MON"
-	line "broke free!"
+	text "Ötoy! to #mon"
+	line "jéfyge!"
 	prompt
 
 _ItemUseBallText03::
-	text "Aww! It appeared"
-	line "to be caught! "
+	text "'vvv! Öainótan"
+	line "óti ua to épiana! "
 	prompt
 
 _ItemUseBallText04::
-	text "Shoot! It was so"
-	line "close too!"
+	text "Ötoy! Ìtan"
+	line "tóso kontá!"
 	prompt
 
 _ItemUseBallText05::
-	text "All right!"
-	line "@"
+	text "'vraía!"
+	line "To @"
 	text_ram wEnemyMonNick
-	text " was"
-	cont "caught!@"
+	text " éxei"
+	cont "piasteí!@"
 	text_end
 
 _ItemUseBallText07::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "BILL's PC!"
+	text " meta-"
+	line "féruhke sto"
+	cont "PC toy BILL!"
 	prompt
 
 _ItemUseBallText08::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "someone's PC!"
+	text " éxei meta-"
+	line "ferueî se"
+	cont "kápoioy to PC!"
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
-	cont "@"
+	text "Néa dedvména #"
+	line "ntej prostéuhkan"
+	cont "gia to @"
 	text_ram wEnemyMonNick
 	text "!@"
 	text_end
 
 _SurfingGotOnText::
-	text "<PLAYER> got on"
-	line "@"
+	text "O <PLAYER> anébhke"
+	line "se @"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _SurfingNoPlaceToGetOffText::
-	text "There's no place"
-	line "to get off!"
+	text "Kanéna méroº"
+	line "gia na katébv!"
 	prompt
 
 _VitaminStatRoseText::
 	text_ram wNameBuffer
-	text "'s"
+	text "'"
 	line "@"
 	text_ram wStringBuffer
-	text " rose."
+	text " ayjhuhke."
 	prompt
 
 _VitaminNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "'den ua éxei"
+	line "epídrash."
 	prompt
 
 _ThrewBaitText::
-	text "<PLAYER> threw"
-	line "some BAIT."
+	text "O <PLAYER> érije"
+	line "lígo 'dO'l'vMA."
 	done
 
 _ThrewRockText::
-	text "<PLAYER> threw a"
-	line "ROCK."
+	text "O <PLAYER> érije"
+	line "ÜETPA."
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
-	line "FLUTE."
+	text "Épaije to #"
+	line "Ö'lAOYTO."
 
-	para "Now, that's a"
-	line "catchy tune!"
+	para "'loipòn, eínai"
+	line "kalóº qxoº!"
 	prompt
 
 _FluteWokeUpText::
-	text "All sleeping"
-	line "#MON woke up."
+	text "Óla ta koimhsmé-"
+	line "na #mon júpnhsan."
 	prompt
 
 _PlayedFluteHadEffectText::
-	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	text "O <PLAYER> épaije"
+	line "to # Ö'lAOYTO.@"
 	text_end
 
 _CoinCaseNumCoinsText::
-	text "Coins"
+	text "kérmata"
 	line "@"
 	text_bcd wPlayerCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " "
 	prompt
 
 _ItemfinderFoundItemText::
-	text "Yes! ITEMFINDER"
-	line "indicates there's"
-	cont "an item nearby."
+	text "Nai! O ANIXNEYTHº"
+	line "deíxnei óti ypá-"
+	cont "rxei káti kontá."
 	prompt
 
 _ItemfinderFoundNothingText::
-	text "Nope! ITEMFINDER"
-	line "isn't responding."
+	text "Mpa, o ANIXNEYTHº"
+	line "den bgázei káti."
 	prompt
 
 _RaisePPWhichTechniqueText::
-	text "Raise PP of which"
-	line "technique?"
+	text "Aújhse ta ÜÜ apó"
+	line "poiá texnikq?"
 	done
 
 _RestorePPWhichTechniqueText::
-	text "Restore PP of"
-	line "which technique?"
+	text "Epanaforá ÜÜ apó"
+	line "poia texnikh?"
 	done
 
 _PPMaxedOutText::
 	text_ram wStringBuffer
-	text "'s PP"
-	line "is maxed out."
+	text "' ÜÜ"
+	line "eínai plqrhº."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
-	text "'s PP"
-	line "increased."
+	text "' ÜÜ"
+	line "ayjquhkan."
 	prompt
 
 _PPRestoredText::
-	text "PP was restored."
+	text "ÜÜ epéstrecan."
 	prompt
 
 _BootedUpTMText::
-	text "Booted up a TM!"
+	text "Öórtvse éna TM!"
 	prompt
 
 _BootedUpHMText::
-	text "Booted up an HM!"
+	text "Öórtvse éna HM!"
 	prompt
 
 _TeachMachineMoveText::
-	text "It contained"
+	text "Üeriéxei"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 
-	para "Teach @"
+	para "Máue @"
 	text_ram wStringBuffer
 	text_start
-	line "to a #MON?"
+	line "sto #mon?"
 	done
 
 _MonCannotLearnMachineMoveText::
 	text_ram wNameBuffer
-	text " is not"
-	line "compatible with"
+	text " den eínai"
+	line "symbató me"
 	cont "@"
 	text_ram wStringBuffer
 	text "."
 
-	para "It can't learn"
+	para "'den mauaínei"
 	line "@"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ItemUseNotTimeText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that! "
+	text "OAK: <PLAYER>! 'den"
+	line "eínai wra gia na"
+	cont "to káneiº aytó! "
 	prompt
 
 _ItemUseNotYoursToUseText::
-	text "This isn't yours"
-	line "to use!"
+	text "'den eínai dikó"
+	line "soy gia xrqsh!"
 	prompt
 
 _ItemUseNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "'den ua éxei"
+	line "kamía epídrash."
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "The trainer"
-	line "blocked the BALL!"
+	text "O ekpaideytqº"
+	line "mplókare th BALL!"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
-	text "Don't be a thief!"
+	text "Mhn klébeiº!"
 	prompt
 
 _NoCyclingAllowedHereText::
-	text "No cycling"
-	next "allowed here."
+	text "'den epitrépontai"
+	next "ta díkykla edw."
 	prompt
 
 _NoSurfingHereText::
-	text "No SURFing on"
+	text "Óxi 'sEPÖ se"
 	line "@"
 	text_ram wNameBuffer
-	text " here!"
+	text " edw!"
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "The #MON BOX"
-	line "is full! Can't"
-	cont "use that item!"
+	text "To KOYTI #MON"
+	line "eínai gemáto!"
+	cont "Akatállhlo aytó!"
 	prompt

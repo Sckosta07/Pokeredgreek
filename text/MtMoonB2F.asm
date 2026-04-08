@@ -1,125 +1,125 @@
 _MtMoonB2FDomeFossilYouWantText::
-	text "You want the"
-	line "DOME FOSSIL?"
+	text "Òeº to AÜO'li-"
+	line "Ò'vMA DOME?"
 	done
 
 _MtMoonB2FHelixFossilYouWantText::
-	text "You want the"
-	line "HELIX FOSSIL?"
+	text "Òeº to AÜO'li-"
+	line "Ò'vMA HELIX?"
 	done
 
 _MtMoonB2FReceivedFossilText::
-	text "<PLAYER> got the"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "to @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MtMoonB2FYouHaveNoRoomText::
-	text "Look, you've got"
-	line "no room for this.@"
+	text "Koíta, den éxeiº"
+	line "xwro gi' aytó.@"
 	text_end
 
 _MtMoonB2FSuperNerdTheyreBothMineText::
-	text "Hey, stop!"
+	text "Éi, stásoy!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "Égw brqka aytá"
+	line "ta apoliuwmata!"
+	cont "Eínai diká moy!"
 	done
 
 _MtMoonB2FSuperNerdOkIllShareText::
 	text "OK!"
-	line "I'll share!"
+	line "Òa moirastw!"
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "Òa pároyme o"
+	line "kauénaº apó éna!"
+	cont "Óxi aplhstíeº!"
 	done
 
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
-	cont "LAB."
+	text "Makriá, sto"
+	line "NH'sI CINNABAR,"
+	cont "ypárxei éna #-"
+	cont "mon ergastqrio."
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "Kánoyn éreyna"
+	line "anástashº"
+	cont "apoliuomátvn."
 	done
 
 _MtMoonB2FSuperNerdThenThisIsMineText::
-	text "All right. Then"
-	line "this is mine!@"
+	text "Entájei. Tóte aytó"
+	line "eínai dikó moy!@"
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "Oi ÜYPAY'lOI ua"
+	line "broyn apoliuwmata,"
+	cont "ua anastqsoyn kai"
+	cont "ua ta poylqsoyn!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
-	line "Now I'm mad!"
+	text "Argk!"
+	line "Twra uúmvsa!"
 	prompt
 
 _MtMoonB2FRocket1AfterBattleText::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "Me ékaneº éjalo!"
+	line "Oi ÜYPAY'lOI ua to"
+	cont "uymoúntai aytó!"
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "Emeíº, oi ÜY-"
+	line "PAY'lOI, eímaste"
+	cont "#mon lhstéº!"
 	done
 
 _MtMoonB2FRocket2EndBattleText::
-	text "I blew"
-	line "it!"
+	text "Ta"
+	line "ualássvsa!"
 	prompt
 
 _MtMoonB2FRocket2AfterBattleText::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "Na párei! Oi"
+	line "synergáteº moy"
+	cont "ua uymwsoyn!"
 	done
 
 _MtMoonB2FRocket3BattleText::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Mhn maº"
+	line "xaláº to sxédio!"
+	cont "'drómo, mikré!"
 	done
 
 _MtMoonB2FRocket3EndBattleText::
-	text "So, you"
-	line "are good."
+	text "üste,"
+	line "eísai kalóº."
 	prompt
 
 _MtMoonB2FRocket3AfterBattleText::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "An breiº kanéna"
+	line "apolíuvma, dwsto"
+	cont "se ména kai tréxa!"
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "Aytq den eínai"
+	line "doyleiá paidiwn!"
+	cont "Makriá, loipón!"
 	done
 
 _MtMoonB2FRocket4EndBattleText::
-	text "I'm"
-	line "steamed!"
+	text "Bgázv"
+	line "kapnoúº!"
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "Ta #mon zoúsan"
+	line "edw polú kairó"
+	cont "prin éruei kósmoº."
 	done

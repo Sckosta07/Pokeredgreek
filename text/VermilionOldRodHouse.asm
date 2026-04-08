@@ -1,23 +1,23 @@
 _VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "Eímai o 'rKOYPOY"
+	line "toy ñAPEMATO's!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Aplwº latreúv"
+	line "to cérema!"
 
-	para "Do you like to"
-	line "fish?"
+	para "'soy arésoyn"
+	line "ta cária?"
 	done
 
 _VermilionOldRodHouseFishingGuruTakeThisText::
-	text "Grand! I like"
-	line "your style!"
+	text "Ypéroxa! Moy aré-"
+	line "sei to styl soy!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Üáre aytó kai cá-"
+	line "rece, nearé fíle!"
 
-	para "<PLAYER> received"
-	line "an @"
+	para "O <PLAYER> pqre"
+	line "to @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,31 +25,31 @@ _VermilionOldRodHouseFishingGuruTakeThisText::
 _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "To cárema eínai"
+	line "trópoº zvqº!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "Apó uálasseº sta"
+	line "potámia, pqgaine"
+	cont "kai piáse ta kalá"
+	cont "cária, nearé fíle!"
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "'vx... Üolú"
+	line "apogohteytikó..."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
-	text "Hello there,"
+	text "'reia soy,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Üvº páei to"
+	line "cárema?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "'vx óxi!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "'den éxeiº xwro"
+	line "gia to dwro moy!"
 	done

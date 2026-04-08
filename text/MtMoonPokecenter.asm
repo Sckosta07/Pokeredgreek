@@ -1,46 +1,46 @@
 _MtMoonPokecenterYoungsterText::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "Éxv 6 ÜOKE BALLS"
+	line "sthn zwnh moy."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "Mporeíº na"
+	line "éxeiº 6 #mon."
 	done
 
 _MtMoonPokecenterGentlemanText::
-	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	text "oi ÜYPAY'lOI ká-"
+	line "noyn lhsteíeº"
+	cont "sth CERULEAN..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "H OMA'dA ÜYPAY'lO's"
+	line "eínai pánta stiº"
+	cont "efhmerídeº!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanIGotADealText::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "ANTPA's: 'reia soy!"
+	line "Éxv mia prosforá"
+	cont "móno gia eséna!"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "Òa soy dwsv éna"
+	line "foyskvtó MAGIKARP"
+	cont "móno gia ¥500!"
+	cont "Ti éxeiº na peiº?"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "Óxi? To kánv"
+	line "aytó móno vº"
+	cont "xárh gia eséna!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "Òéleiº kai álla"
+	line "xrqmata apó aytá!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoRefundsText::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "ANTPA's: 'vraía, den"
+	line "kánv epistroféº!"
 	done
 
 _MtMoonPokecenterClipboardText::

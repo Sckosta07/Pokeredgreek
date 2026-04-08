@@ -1,173 +1,173 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: 'reiá"
+	line "<PLAYER>! O"
+	cont "pappoúº leípei!"
 	done
 
 _OaksLabRivalGoAheadAndChooseText::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: Xex, den"
+	line "uélv na gínv kai"
+	cont "egw áplhstoº!"
 
-	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	para "Üqgaine kai"
+	line "diáleje, <PLAYER>!"
 	done
 
 _OaksLabRivalMyPokemonLooksStrongerText::
-	text "<RIVAL>: My"
-	line "#MON looks a"
-	cont "lot stronger."
+	text "<RIVAL>: To #mon"
+	line "moy faínetai"
+	cont "pio dynató."
 	done
 
 _OaksLabThoseArePokeBallsText::
-	text "Those are #"
-	line "BALLs. They"
-	cont "contain #MON!"
+	text "Aytéº eínai ÜOKE"
+	line "BALLS. Üeriéxoyn"
+	cont "mésa #mon!"
 	done
 
 _OaksLabYouWantCharmanderText::
-	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	text "'vste! Òéleiº to"
+	line "#mon fvtiáº,"
+	cont "to CHARMANDER?"
 	done
 
 _OaksLabYouWantSquirtleText::
-	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	text "vste! Òéleiº to"
+	line "#mon neroú,"
+	cont "to SQUIRTLE?"
 	done
 
 _OaksLabYouWantBulbasaurText::
-	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	text "vste! Òéleiº to"
+	line "#mon fytó,"
+	cont "to BULBASAUR?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "Aytó to #mon"
+	line "eínai polú zvhró!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
-	line "last #MON!"
+	text "Eínai to teleytaío"
+	line "#mon toy KAÒ."
 	done
 
 _OaksLabOak1WhichPokemonDoYouWantText::
-	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
-	cont "you want?"
+	text "OAK: Twra, <PLAYER>"
+	line "poió #mon ua"
+	cont "queleº?"
 	done
 
 _OaksLabOak1YourPokemonCanFightText::
-	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
-	cont "fight against it!"
+	text "OAK: An deiº éna"
+	line "ágrio #mon,"
+	cont "to dikó soy ua"
+	cont "palécei mazí toy!"
 	done
 
 _OaksLabOak1RaiseYourYoungPokemonText::
 	text "OAK: <PLAYER>,"
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	line "dynámvse to"
+	cont "#mon soy káno-"
+	cont "ntaº máxeº!"
 	done
 
 _OaksLabOak1DeliverParcelText::
-	text "OAK: Oh, <PLAYER>!"
+	text "OAK: 'v, <PLAYER>!"
 
-	para "How is my old"
-	line "#MON?"
+	para "Üvº páei to palió"
+	line "moy #mon?"
 
-	para "Well, it seems to"
-	line "like you a lot."
+	para "'loipón, faínetai"
+	line "na se sympaueí."
 
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
+	para "Ürépei na éxeiº"
+	line "talénto vº"
+	cont "ekpaideytqº!"
 
-	para "What? You have"
-	line "something for me?"
+	para "Ti? Éxeiº káti"
+	line "gia eména?"
 
-	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@"
+	para "O <PLAYER> édvse"
+	line "to 'dEMA toy OAK.@"
 	text_end
 
 _OaksLabOak1ParcelThanksText::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "A! Eínai h"
+	line "eidikq ÜOKE BALL"
+	cont "poy parqggeila!"
+	cont "Eyxaristw!"
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::
-	text "#MON around the"
-	line "world wait for"
-	cont "you, <PLAYER>!"
+	text "Ta #mon pantoú"
+	line "ston kósmo anypo-"
+	cont "mvnoún, <PLAYER>!"
 	done
 
 _OaksLabOak1ReceivedPokeballsText::
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "OAK: 'den ua éxete"
+	line "leptoméreieº sta"
+	cont "#mon aplwº"
+	cont "koitwntaº ta."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "Ürépei na ta"
+	line "piásete! Üárte"
+	cont "aytá gia ta"
+	cont "ágria #mon."
 
-	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	para "<PLAYER> pqre 5"
+	line "# BALLS!@"
 	text_end
 
 _OaksLabGivePokeballsExplanationText::
 	text_start
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "Ótan éna ágrio"
+	line "#mon emfanh-"
+	cont "steí, eínai stóxoº."
 
-	para "Just throw a #"
-	line "BALL at it and try"
-	line "to catch it!"
+	para "Aplá petájte mia"
+	line "#BALL pánv toy"
+	line "kai piáste to!"
 
-	para "This won't always"
-	line "work, though."
+	para "Aytó den ua piánei"
+	line "pánta, ómvº."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "To ygiéº #mon"
+	line "ua jefúgei. Ürépei"
+	cont "na eíste tyxeroí!"
 	done
 
 _OaksLabOak1ComeSeeMeSometimesText::
-	text "OAK: Come see me"
-	line "sometimes."
+	text "OAK: Éla na me"
+	line "blépeiº katá kairoúº."
 
-	para "I want to know how"
-	line "your #DEX is"
-	cont "coming along."
+	para "Òélv na jérv pvs"
+	line "to #ntej soy"
+	cont "proxvráei."
 	done
 
 _OaksLabOak1HowIsYourPokedexComingText::
-	text "OAK: Good to see "
-	line "you! How is your "
-	cont "#DEX coming? "
-	cont "Here, let me take"
-	cont "a look!"
+	text "OAK: Xaíromai poy"
+	line "se blépv! Üvº"
+	cont "páei to #ntej?"
+	cont "Oríste, áse me"
+	cont "na to dv!"
 	prompt
 
 _OaksLabPokedexText::
-	text "It's encyclopedia-"
-	line "like, but the"
-	cont "pages are blank!"
+	text "Eínai egkyklopé-"
+	line "deia, ma oi selí-"
+	cont "deº eínai leykéº!"
 	done
 
 _OaksLabOak2Text::
@@ -175,190 +175,190 @@ _OaksLabOak2Text::
 	done
 
 _OaksLabGirlText::
-	text "PROF.OAK is the"
-	line "authority on"
-	cont "#MON!"
+	text "o KAÒ.OAK"
+	line "eínai ayuentía"
+	cont "sta #mon!"
 
-	para "Many #MON"
-	line "trainers hold him"
-	cont "in high regard!"
+	para "Üolloí #mon"
+	line "ekpaideytéº ton"
+	cont "uaymázoyn!"
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>: Üappoú!"
+	line "Bariémai na"
+	cont "periménv!"
 	done
 
 _OaksLabOakChooseMonText::
 	text "OAK: <RIVAL>?"
-	line "Let me think..."
+	line "'ria na skeftw..."
 
-	para "Oh, that's right,"
-	line "I told you to"
-	cont "come! Just wait!"
+	para "'v, svstá, egw soy"
+	line "eípa na érueiº!"
+	cont "Aplá perímene!"
 
-	para "Here, <PLAYER>!"
+	para "Oríste, <PLAYER>!"
 
-	para "There are 3"
-	line "#MON here!"
+	para "Ekeí eínai 3"
+	line "#mon!"
 
-	para "Haha!"
+	para "Xaxa!"
 
-	para "They are inside"
-	line "the # BALLs."
+	para "Eínai mésa"
+	line "stiº ÜOKE BALLS."
 
-	para "When I was young,"
-	line "I was a serious"
-	cont "#MON trainer!"
+	para "Ótan qmoyn néoº,"
+	line "qmoyn kalóº"
+	cont "#mon ekp/thº!"
 
-	para "In my old age, I"
-	line "have only 3 left,"
-	cont "but you can have"
-	cont "one! Choose!"
+	para "Twra gérasa, éxv"
+	line "móno 3 pia, ma"
+	cont "mporeíº na páreiº"
+	cont "th mía! 'diáleje!"
 	done
 
 _OaksLabRivalWhatAboutMeText::
-	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	text "<RIVAL>: Éi!"
+	line "Üappoú! Ti ua"
+	cont "gínv egw?"
 	done
 
 _OaksLabOakBePatientText::
-	text "OAK: Be patient!"
-	line "<RIVAL>, you can"
-	cont "have one too!"
+	text "OAK: Ypomonq!"
+	line "<RIVAL>, mporeíº"
+	cont "na éxeiº kai esú!"
 	done
 
 _OaksLabOakDontGoAwayYetText::
-	text "OAK: Hey! Don't go"
-	line "away yet!"
+	text "OAK: Éi! Mhn"
+	line "feúgeiº apó twra!"
 	done
 
 _OaksLabRivalIllTakeThisOneText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: Òa párv"
+	line "egw aytó, tóte!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "O <RIVAL> pqre"
+	line "éna @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _OaksLabRivalIllTakeYouOnText::
-	text "<RIVAL>: Wait"
+	text "<RIVAL>: 'stásoy"
 	line "<PLAYER>!"
-	cont "Let's check out"
-	cont "our #MON!"
+	cont "Aº tsekároyme"
+	cont "ta #mon maº!"
 
-	para "Come on, I'll take"
-	line "you on!"
+	para "Éla gia mia"
+	line "kóntra!"
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::
-	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	text "TI?"
+	line "Apísteyto!"
+	cont "'diáleja to"
+	cont "láuoº #mon!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Nai! Eímai"
+	line "foberóº q óxi?"
 	prompt
 
 _OaksLabRivalSmellYouLaterText::
-	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
+	text "<RIVAL>: Éntajei!"
+	line "Òa kánv th máxh"
+	cont "#mon moy pio"
+	cont "dynatq twra!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>! Üappoú!"
+	line "Ta léme argótera!"
 	done
 
 _OaksLabRivalGrampsText::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: Üappoú!"
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
-	text "<RIVAL>: What did"
-	line "you call me for?"
+	text "<RIVAL>: 'riatí me"
+	line "káleseº edw péra?"
 	done
 
 _OaksLabOakIHaveARequestText::
-	text "OAK: Oh right! I"
-	line "have a request"
-	cont "of you two."
+	text "OAK: 'v svstá!"
+	line "Éxv mia apostolq"
+	cont "gia toyº dyó saº."
 	done
 
 _OaksLabOakMyInventionPokedexText::
-	text "On the desk there"
-	line "is my invention,"
-	cont "#DEX!"
+	text "'sto grafeío moy"
+	line "eínai h anakálych"
+	cont "moy, to #ntej!"
 
-	para "It automatically"
-	line "records data on"
-	cont "#MON you've"
-	cont "seen or caught!"
+	para "Aytómata katagrá-"
+	line "fei dedvména gia"
+	cont "#mon poy blé-"
+	cont "pete q piánete!"
 
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	para "Eínai egkyklopé-"
+	line "deia xaì tek!"
 	done
 
 _OaksLabOakGotPokedexText::
-	text "OAK: <PLAYER> and"
-	line "<RIVAL>! Take"
-	cont "these with you!"
+	text "OAK: <PLAYER> kai"
+	line "<RIVAL>! Üárte"
+	cont "aytá mazí saº!"
 
-	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	para "O <PLAYER> pqre #-"
+	line "ntej apó ton OAK!@"
 	text_end
 
 _OaksLabOakThatWasMyDreamText::
-	text "To make a complete"
-	line "guide on all the"
-	cont "#MON in the"
-	cont "world..."
+	text "'ria na kánete énan"
+	line "plqrh odhgó sta"
+	cont "#mon toy"
+	cont "kósmoy..."
 
-	para "That was my dream!"
+	para "Aytó oneireúthka!"
 
-	para "But, I'm too old!"
-	line "I can't do it!"
+	para "Ma, gérasa pia!"
+	line "'den mporw!"
 
-	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
+	para "Étsi, uélv éseiº"
+	line "na ekplhrwsete"
+	cont "to óneiro moy!"
 
-	para "Get moving, you"
-	line "two!"
+	para "Ñekinqste,"
+	line "eseíº oi dúo!"
 
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	para "Eínai éna megálo"
+	line "egxeírhma sthn"
+	cont "#mon istoría!"
 	done
 
 _OaksLabRivalLeaveItAllToMeText::
-	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
+	text "<RIVAL>: Entájei"
+	line "pappoú! Ásta óla"
+	cont "se eména!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER>, misw poy"
+	line "to lév, ma den se"
+	cont "xreiázomai!"
 
-	para "I know! I'll"
-	line "borrow a TOWN MAP"
-	cont "from my sis!"
+	para "Ñérv! Òa daneistw"
+	line "énan XAPTH apó"
+	cont "thn adelfq moy!"
 
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	para "Òa thº pv na mhn"
+	line "soy dwsei énan,"
+	cont "<PLAYER>! Xaxaxa!"
 	done
 
 _OaksLabScientistText::
-	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	text "Meletw #mon vº"
+	line "BOHÒO's toy KAÒ."
 	done

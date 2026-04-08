@@ -1,5 +1,5 @@
 _UndergroundPathRoute6GirlText::
-	text "People often lose"
-	line "things in that"
-	cont "UNDERGROUND PATH."
+	text "O kósmoº syxná xá-"
+	line "nei prágmata ston"
+	cont "YÜO'rEIO 'dPOMO."
 	done

@@ -1,64 +1,64 @@
 _CinnabarLabMetronomeRoomScientist1Text::
-	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	text "Tº-tº-tº!"
+	line "Éftiaja koyl TM!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "Ürokaleí ólvn tvn"
+	line "eidwn thº plákaº!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
+	text "O <PLAYER> pqre "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	text "Tº-tº-tº!"
+	line "Aytóº eínai qxoº"
+	cont "enóº METPONOMOY!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Üeirázei to myaló"
+	line "toy #mon soy"
+	cont "bázontaº kinqseiº"
+	cont "poy den jérei!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "O sakoº soy eínai"
+	line "entelwº gemátoº!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "To EEVEE ejelíse-"
+	line "tai se 1 apó ta"
+	cont "3 eídh #mon."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "Ypárxei éna E-MAIL"
+	line "múnhma!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
+	para "Ta 3 uryliká #"
+	line "mon poyliá eínai"
 	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	cont "kai MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Oi topouesíeº"
+	line "eínai ágnvsteº."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "'skopeúoyme na"
+	line "páme sth sphliá"
+	cont "thº CERULEAN."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "Apó: OMA'dA"
+	line "EPEYNA's #mon"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "Üortakalí svlqnaº!"
 	done

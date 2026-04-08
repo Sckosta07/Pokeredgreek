@@ -1,50 +1,50 @@
 _CinnabarGymBlainePreBattleText::
-	text "Hah!"
+	text "Xax!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
+	para "Eímai o BLAINE!"
+	line "Hgoúmai toy"
 	cont "CINNABAR GYM!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "Ta #mon fvtiáº"
+	line "moy kaíoyn óloyº"
+	cont "toyº ekp/teº!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "Xax! Kalúterh h"
+	line "ÖEPAÜ. KAñIMOY!"
 	done
 
 _CinnabarGymBlaineReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "To éxv"
+	line "kácei twra!"
 
-	para "You have earned"
-	line "the VOLCANOBADGE!@"
+	para "Éxeiº kerdísei to"
+	line "Ö'lO'rOEMB'lHMA!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "H EKPHÑH Ö'vTIA's"
+	line "eínai h apólyth"
+	cont "texnikq fvtiáº!"
 
-	para "Don't waste it on"
-	line "water #MON!"
+	para "Mhn to xaláseiº"
+	line "se #mon neroú!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
-	text "Hah!"
+	text "Xax!"
 
-	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	para "To Ö'lO'rOEMB'lHMA"
+	line "ayjánei eidikéº"
+	cont "ikanóthteº sta"
+	cont "diká soy #mon!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "Oríste, páre kai"
+	line "aytó mazí soy!"
 	done
 
 _CinnabarGymBlaineReceivedTM38Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "to @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -52,161 +52,161 @@ _CinnabarGymBlaineReceivedTM38Text::
 _CinnabarGymBlaineTM38ExplanationText::
 	text_start
 
-	para "TM38 contains"
-	line "FIRE BLAST!"
+	para "TM38 periéxei"
+	line "EKPHÑH Ö'vTIA's!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "To mauainei"
+	line "#MON fvtiáº!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "CHARMELEON q"
+	line "PONYTA ua qtan"
+	cont "kalá katoikídia!"
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::
-	text "Make room for my"
-	line "gift!"
+	text "Káne xwro gia"
+	line "to dwro moy!"
 	done
 
 _CinnabarGymSuperNerd1BattleText::
-	text "Do you know how"
-	line "hot #MON fire"
-	cont "breath can get?"
+	text "Ñéreiº póso"
+	line "kaytq eínai h aná-"
+	cont "sa #mon fvtiáº?"
 	done
 
 _CinnabarGymSuperNerd1EndBattleText::
-	text "Yow!"
-	line "Hot, hot, hot!"
+	text "'rioy!"
+	line "Kaíei, kaíei!"
 	prompt
 
 _CinnabarGymSuperNerd1AfterBattleText::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
+	text "Övtiá, q pio"
+	line "sygkekriména,"
+	cont "kaúsh..."
 
-	para "Blah, blah, blah,"
-	line "blah..."
+	para "Mpla, mpla"
+	line "mpla..."
 	done
 
 _CinnabarGymSuperNerd2BattleText::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "Ìmoyn kléfthº,"
+	line "ma twra éstrvsa"
+	cont "vº ekpaideytqº!"
 	done
 
 _CinnabarGymSuperNerd2EndBattleText::
-	text "I"
-	line "surrender!"
+	text ""
+	line "Üaradínomai!"
 	prompt
 
 _CinnabarGymSuperNerd2AfterBattleText::
-	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	text "Akóma moy"
+	line "érxetai na klébv"
+	cont "ta #mon állvn!"
 	done
 
 _CinnabarGymSuperNerd3BattleText::
-	text "You can't win!"
-	line "I have studied"
-	cont "#MON totally!"
+	text "'den ua nikqseiº!"
+	line "Éxv meletqsei ta"
+	cont "#mon téleia!"
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
-	text "Waah!"
-	line "My studies!"
+	text "'raax!"
+	line "Oi meléteº moy!"
 	prompt
 
 _CinnabarGymSuperNerd3AfterBattleText::
-	text "My theories are"
-	line "too complicated"
-	cont "for you!"
+	text "Oi uevríeº moy ei-"
+	line "nai polú períplo-"
+	cont "keº gia eséna!"
 	done
 
 _CinnabarGymSuperNerd4BattleText::
-	text "I just like using"
-	line "fire #MON!"
+	text "Moy arései na bá-"
+	line "zv #mon fvtiáº!"
 	done
 
 _CinnabarGymSuperNerd4EndBattleText::
-	text "Too hot"
-	line "to handle!"
+	text "Kaíei"
+	line "pára polú twra!"
 	prompt
 
 _CinnabarGymSuperNerd4AfterBattleText::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "Makári na y-"
+	line "pqrxan kléfteº"
+	cont "#mon!"
 	done
 
 _CinnabarGymSuperNerd5BattleText::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "Ñérv giatí"
+	line "égine ekpaideytqº!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::
-	text "Ow!"
+	text "'vvv!"
 	prompt
 
 _CinnabarGymSuperNerd5AfterBattleText::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "O BLAINE xáuhke"
+	line "sta boyná ótan"
+	cont "éna flógino poylí"
+	cont "#mon fánhke."
 
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	para "To fvº boquhse"
+	line "ton BLAINE na"
+	cont "brei to drómo toy!"
 	done
 
 _CinnabarGymSuperNerd6BattleText::
-	text "I've been to many"
-	line "GYMs, but this is"
-	cont "my favorite!"
+	text "Ìmoyn se pollá"
+	line "GYM, ma aytó"
+	cont "to latreúv!"
 	done
 
 _CinnabarGymSuperNerd6EndBattleText::
-	text "Yowza!"
-	line "Too hot!"
+	text "Áoytº!"
+	line "Üolú kaytó!"
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "Emeíº agapáme ta"
+	line "PONYTA kai ta"
+	cont "NINETALES!"
 	done
 
 _CinnabarGymSuperNerd7BattleText::
-	text "Fire is weak"
-	line "against H2O!"
+	text "H fvtiá eínai"
+	line "adúnamh sto H2O!"
 	done
 
 _CinnabarGymSuperNerd7EndBattleText::
-	text "Oh!"
-	line "Snuffed out!"
+	text "'vx!"
+	line "Ésbhsa!"
 	prompt
 
 _CinnabarGymSuperNerd7AfterBattleText::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "Neró niká fvtiá!"
+	line "Ma h fvtiá niká"
+	cont "ta #mon págoy!"
 	done
 
 _CinnabarGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	para "O uermóaimoº"
+	line "BLAINE, kalóº se"
+	cont "#mon fvtiáº!"
 
-	para "Douse his spirits"
-	line "with water!"
+	para "'sbqse thn fvtiá"
+	line "toy me neró!"
 
-	para "You better take"
-	line "some BURN HEALs!"
+	para "Kálytera na éxeiº"
+	line "ÖEPAÜ. KAñIMOY!"
 	done
 
 _CinnabarGymGymGuideBeatBlaineText::
-	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	text "<PLAYER>! Níkhseº ton"
+	line "mágo thº fvtiáº!"
 	done

@@ -1,38 +1,38 @@
 _SaffronGateGuardGeeImThirstyText::
-	text "I'm on guard duty."
-	line "Gee, I'm thirsty,"
-	cont "though!"
+	text "'doyleúv twra."
+	line "Öíle, dicáv,"
+	cont "polú!"
 
-	para "Oh wait there,"
-	line "the road's closed."
+	para "'v perímene, o"
+	line "drómoº ékleise."
 	done
 
 _SaffronGateGuardImParchedText::
-	text "Whoa, boy!"
-	line "I'm parched!"
+	text "Üv, mikré!"
+	line "'dicáv polú!"
 	cont "..."
-	cont "Huh? I can have"
-	cont "this drink?"
-	cont "Gee, thanks!@"
+	cont "E? Mporw na"
+	cont "párv to potó?"
+	cont "Eyxaristw!@"
 	text_end
 
 _SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
 	para "..."
-	line "Glug glug..."
+	line "'rkloyk, 'rkloyk..."
 	cont "..."
-	cont "Gulp..."
-	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "'rkloyk..."
+	cont "An ueº na paº sth"
+	cont "ÜO'lH SAFFRON..."
 	cont "..."
-	cont "You can go on"
-	cont "through. I'll"
-	cont "share this with"
-	cont "the other guards!"
+	cont "Mporeíº apó"
+	cont "edw. Òa moirastw"
+	cont "aytó me toyº"
+	cont "álloyº froyroúº!"
 	done
 
 _SaffronGateGuardThanksForTheDrinkText::
-	text "Hi, thanks for"
-	line "the cool drinks!"
+	text "'reia, eyxaristw"
+	line "gia to vraío potó!"
 	done

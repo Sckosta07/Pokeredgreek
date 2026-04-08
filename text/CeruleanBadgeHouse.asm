@@ -1,97 +1,97 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+	text "EMB'lHMATA ÜOKEMON"
+	line "dínontai móno"
+	cont "stoyº émpeiroyº."
 
-	para "I see you have"
-	line "at least one."
+	para "Blépv éxeiº to"
+	line "ligótero éna."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "Aytá éxoyn"
+	line "apísteya mystiká!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Now then..."
+	text "'loípon..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
+	para "Üoió apó ta 8"
+	line "EMB'lHMATA na"
+	cont "perigrácv?"
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Come visit me any"
-	line "time you wish."
+	text "Éla na me deiº"
+	line "ópote uéleiº."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "H EÜIÒE'sH ólvn"
+	line "tvn #mon soy"
+	cont "megalwnei lígo."
 
-	para "It also lets you"
-	line "use FLASH any"
-	cont "time you desire."
+	para "Mporeíº epíshº"
+	line "na bázeiº thn"
+	cont "'lAMñH ópote ueº."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON up to L30"
-	line "will obey you."
+	text "#mon sto L30"
+	line "ua se ypakoún."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Üio pánv, den"
+	line "ua se ypakoún!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "Epíshº se afqnei"
+	line "na káneiº KOÜH"
+	cont "ektóº maxwn."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "H TAXYTHTA ólvn"
+	line "tvn #mon"
+	cont "megalwnei lígo."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "Epíshº se afqnei"
+	line "na ÜETA's ektóº"
+	cont "apó tiº máxeº."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON up to L50"
-	line "will obey you."
+	text "#mon sto L50"
+	line "ua se ypakoún."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Üio pánv, den"
+	line "ua se ypakoún!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "Epíshº se afqnei"
+	line "na bázeiº 'dYNAMH,"
+	cont "ektóº maxwn."
 	prompt
 
 _CeruleanBadgeHouseSoulBadgeText::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "H AMYNA ólvn tvn"
+	line "#mon megalwnei"
+	cont "lígo pio polú."
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	para "Epíshº se afqnei"
+	line "na káneiº 'sERÖ"
+	cont "ektóº maxwn."
 	prompt
 
 _CeruleanBadgeHouseMarshBadgeText::
-	text "#MON up to L70"
-	line "will obey you."
+	text "#mon sto L70"
+	line "ua se ypakoún."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Üio pánv, den"
+	line "ua se ypakoún!"
 	prompt
 
 _CeruleanBadgeHouseVolcanoBadgeText::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	text "Oi EI'dIKE's epiué-"
+	line "seiº tvn #MON"
+	cont "ayjánvntai lígo."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "All #MON will"
-	line "obey you!"
+	text "Óla ta #mon"
+	line "ua se ypakoún!"
 	prompt

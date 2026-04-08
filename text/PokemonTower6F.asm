@@ -1,49 +1,49 @@
 _PokemonTower6FGhostWasCubonesMotherText::
-	text "The GHOST was the"
-	line "restless soul of"
-	cont "CUBONE's mother!"
+	text "To ÖANTA'sMA qtan"
+	line "h anqsyxh cyxq"
+	cont "mhtéraº CUBONE!"
 	done
 
 _PokemonTower6FSoulWasCalmedText::
-	text "The mother's soul"
-	line "was calmed."
+	text "H cyxq thº"
+	line "mhtéraº ysqxase."
 
-	para "It departed to"
-	line "the afterlife!"
+	para "Éfyge gia ton"
+	line "Üarádeiso!"
 	done
 
 _PokemonTower6FChanneler1BattleText::
-	text "Give...me..."
-	line "blood..."
+	text "Éla...Üaíje..."
+	line "Mazí moy..."
 	done
 
 _PokemonTower6FChanneler1EndBattleText::
-	text "Groan!"
+	text "'rkroan!"
 	prompt
 
 _PokemonTower6FChanneler1AfterBattleText::
-	text "I feel anemic and"
-	line "weak..."
+	text "Niwuv"
+	line "koyrasménh..."
 	done
 
 _PokemonTower6FChanneler2BattleText::
-	text "Urff... Kwaah!"
+	text "Oyrff... Kgaax!"
 	done
 
 _PokemonTower6FChanneler2EndBattleText::
-	text "Some-"
-	line "thing fell out!"
+	text "Káti"
+	line "éfyge!"
 	prompt
 
 _PokemonTower6FChanneler2AfterBattleText::
-	text "Hair didn't fall"
-	line "out! It was an"
-	cont "evil spirit!"
+	text "Ìtan éna ponhró"
+	line "pneúma! Twra"
+	cont "óla kalá!"
 	done
 
 _PokemonTower6FChanneler3BattleText::
-	text "Ke..ke...ke..."
-	line "ke..ke...ke!!"
+	text "Ke..Ke...Ke..."
+	line "Ke..Ke...Ke!!"
 	done
 
 _PokemonTower6FChanneler3EndBattleText::
@@ -51,11 +51,11 @@ _PokemonTower6FChanneler3EndBattleText::
 	prompt
 
 _PokemonTower6FChanneler3AfterBattleText::
-	text "What's going on"
-	line "here?"
+	text "Ti symbaínei"
+	line "edw péra?"
 	done
 
 _PokemonTower6FBeGoneText::
-	text "Be gone..."
-	line "Intruders..."
+	text "Öúgete..."
+	line "Eisboleíº..."
 	done

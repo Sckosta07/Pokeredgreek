@@ -1,27 +1,27 @@
 _SaffronPidgeyHouseBrunetteGirlText::
-	text "Thank you for"
-	line "writing. I hope"
-	cont "to see you soon!"
+	text "Eyxaristw gia to"
+	line "grámma. Elpízv"
+	cont "se dv janá!"
 
-	para "Hey! Don't look"
-	line "at my letter!"
+	para "Éi! Mhn koitáº"
+	line "to grámma moy!"
 	done
 
 _SaffronPidgeyHousePidgeyText::
-	text "PIDGEY: Kurukkoo!@"
+	text "PIDGEY: Koyroykoy!@"
 	text_end
 
 _SaffronPidgeyHouseYoungsterText::
-	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	text "H MHMHTPIA eí-"
+	line "nai ómorfh! Òa"
+	cont "thº dwsv mia KOYK'lA!"
 	done
 
 _SaffronPidgeyHousePaperText::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "Édvsa ena PP"
+	line "UP vº dwro."
 
-	para "It's used for"
-	line "increasing the PP"
-	cont "of techniques!"
+	para "Xrhsimopoiqtai"
+	line "gia aújhsh thº"
+	cont "ÜÜ texnikqº!"
 	done

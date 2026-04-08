@@ -1,45 +1,45 @@
 _SafariZoneSecretHouseFishingGuruYouHaveWonText::
-	text "Ah! Finally!"
+	text "A! Epitéloyº!"
 
-	para "You're the first"
-	line "person to reach"
-	cont "the SECRET HOUSE!"
+	para "Eísai o prwtoº poy"
+	line "katáfere na ftásei"
+	cont "to 'sÜITI HPEMIA's!"
 
-	para "I was getting"
-	line "worried that no"
-	cont "one would win our"
-	cont "campaign prize."
+	para "Anyshxoúsa pvº"
+	line "kanénaº den ua"
+	cont "kérdize to bra-"
+	cont "beío 'sAÖAPI."
 
-	para "Congratulations!"
-	line "You have won!"
+	para "'sygxarhtqria!"
+	line "Éxeiº nikqsei!"
 	prompt
 
 _SafariZoneSecretHouseFishingGuruReceivedHM03Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "to @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SafariZoneSecretHouseFishingGuruHM03ExplanationText::
-	text "HM03 is SURF!"
+	text "HM03 eínai 'sERÖ!"
 
-	para "#MON will be"
-	line "able to ferry you"
-	cont "across water!"
+	para "Ta #mon mpo-"
+	line "roún na se páne"
+	cont "mésv ualásshº!"
 
-	para "And, this HM isn't"
-	line "disposable! You"
-	cont "can use it over"
-	cont "and over!"
+	para "Kai, to HM den"
+	line "xaláei! Mporeíº"
+	cont "na to xrhsimo-"
+	cont "poiqseiº janá!"
 
-	para "You're super lucky"
-	line "for winning this"
-	cont "fabulous prize!"
+	para "Eísai ypér tyxeróº"
+	line "poy kerdízei aytó"
+	cont "to ypéroxo dwro!"
 	done
 
 _SafariZoneSecretHouseFishingGuruHM03NoRoomText::
-	text "You don't have"
-	line "room for this"
-	cont "fabulous prize!"
+	text "'den éxeiº xwro"
+	line "gi' aytó to"
+	cont "ypéroxo dwro!"
 	done

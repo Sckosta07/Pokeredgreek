@@ -1,235 +1,235 @@
 _CeruleanCityRivalPreBattleText::
-	text "<RIVAL>: Yo!"
+	text "<RIVAL>: Éi!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+	para "Akóma agvnízesai"
+	line "ekeí pio"
+	cont "písv, e?"
 
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
+	para "Egw ta páv téleia!"
+	line "Épiasa pollá"
+	cont "dynatá kai"
+	cont "éjypna #mon!"
 
-	para "Here, let me see"
-	line "what you caught,"
+	para "Oríste, áse me"
+	line "na dv ti épiaseº,"
 	cont "<PLAYER>!"
 	done
 
 _CeruleanCityRivalDefeatedText::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "Éi!"
+	line "Ysqxase! Éxeiº"
+	cont "qdh nikqsei!"
 	prompt
 
 _CeruleanCityRivalVictoryText::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
+	text "Xex! 'den"
+	line "eísai arketóº"
+	cont "gia eména!"
 	prompt
 
 _CeruleanCityRivalIWentToBillsText::
-	text "<RIVAL>: Hey,"
-	line "guess what?"
+	text "<RIVAL>: Éi,"
+	line "mántece ti?"
 
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
+	para "Üqga ston BILL"
+	line "kai moy édeije"
+	cont "ta spánia #mon"
+	cont "poy éxei!"
 
-	para "That added a lot"
-	line "of pages to my"
-	cont "#DEX!"
+	para "Aytó prósuese"
+	line "polléº selídeº"
+	cont "sto #ntej moy!"
 
-	para "After all, BILL's"
-	line "world famous as a"
-	cont "#MANIAC!"
+	para "Ejálloy, o BILL"
+	line "eínai gnvstóº vº"
+	cont "Üokemaniakóº!"
 
-	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+	para "Aytóº efhúre to"
+	line "apouhkeytikó"
+	cont "xwro sta PC!"
 
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
+	para "Afoú bázeiº se"
+	line "xrqsh to sústhma"
+	cont "eyxarísthse ton!"
 
-	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
+	para "'loipón, kalútera"
+	line "na feúgv! Ta"
+	cont "léme metá!"
 	done
 
 _CeruleanCityRocketText::
-	text "Hey! Stay out!"
-	line "It's not your"
-	cont "yard! Huh? Me?"
+	text "Éi! bgeº éjv!"
+	line "'den eísai sthn"
+	cont "aylq soy! E? Egw?"
 
-	para "I'm an innocent"
-	line "bystander! Don't"
-	cont "you believe me?"
+	para "Eímai auwoº"
+	line "perastikóº! 'den"
+	cont "me pisteúeiº?"
 	done
 
 _CeruleanCityRocketReceivedTM28Text::
-	text "<PLAYER> recovered"
+	text "O <PLAYER> pqre"
 	line "TM28!@"
 	text_end
 
 _CeruleanCityRocketIBetterGetMovingText::
 	text_start
 
-	para "I better get"
-	line "moving! Bye!@"
+	para "Ürépei na"
+	line "feúgv! Antío!@"
 	text_end
 
 _CeruleanCityRocketTM28NoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Káne xwro"
+	line "gi' aytó!"
 
-	para "I can't run until"
-	line "I give it to you!"
+	para "'den feúgv mé-"
+	line "xri na sto dwsv!"
 	done
 
 _CeruleanCityRocketIGiveUpText::
-	text "Stop!"
-	line "I give up! I'll"
-	cont "leave quietly!"
+	text "'stásoy!"
+	line "Ta paratáv! Òa"
+	cont "fúgv úshxa!"
 	prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
-	text "OK! I'll return"
-	line "the TM I stole!"
+	text "OK! Epistréfv"
+	line "to TM poy ékleca!"
 	prompt
 
 _CeruleanCityCooltrainerMText::
-	text "You're a trainer"
-	line "too? Collecting,"
-	cont "fighting, it's a"
-	cont "tough life."
+	text "Eísai ki esú"
+	line "ekp/thº? 'syllé-"
+	cont "geiº, máxesai."
+	cont "Eínai dúskolh zvq."
 	done
 
 _CeruleanCitySuperNerd1Text::
-	text "That bush in"
-	line "front of the shop"
-	cont "is in the way."
+	text "Aytóº o uámnoº"
+	line "eínai mprostá"
+	cont "apó to magazí."
 
-	para "There might be a"
-	line "way around."
+	para "Ürépei na ypá-"
+	line "rxei parákamch."
 	done
 
 _CeruleanCitySuperNerd2Text::
-	text "You're making an"
-	line "encyclopedia on"
-	cont "#MON? That"
-	cont "sounds amusing."
+	text "Káneiº mia egky-"
+	line "kopaídeia me"
+	cont "#mon? Aytó a-"
+	cont "koúgetai ypéroxo."
 	done
 
 _CeruleanCityGuardText::
-	text "The people here"
-	line "were robbed."
+	text "O kósmoº edw"
+	line "éxei klapeí."
 
-	para "It's obvious that"
-	line "TEAM ROCKET is"
-	cont "behind this most"
-	cont "heinous crime!"
+	para "Eínai profanéº"
+	line "óti oi ÜYPAY'lOI"
+	cont "krúbontai písv"
+	cont "apó to égklhma!"
 
-	para "Even our POLICE"
-	line "force has trouble"
-	cont "with the ROCKETs!"
+	para "H A'sTYNOMIA kai"
+	line "edw exei problq-"
+	cont "mata mazí toyº!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
 	text "OK! SLOWBRO!"
-	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
-	cont "pay attention!"
+	line "Kane YÜEPHXO!"
+	cont "Éla twra, SLOWBRO"
+	cont "dwse prosoxq!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
-	text "SLOWBRO punch!"
-	line "No! You blew it"
-	cont "again!"
+	text "SLOWBRO grouiá!"
+	line "Óxi! Ta ékaneº"
+	cont "uálassa janá!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
-	text "SLOWBRO, WITHDRAW!"
-	line "No! That's wrong!"
+	text "SLOWBRO, XA'sE!"
+	line "Óxi! Eínai láuoº!"
 
-	para "It's so hard to"
-	line "control #MON!"
+	para "Eínai tóso dúskolo"
+	line "na ta xeirízesai!"
 
-	para "Your #MON's"
-	line "obedience depends"
-	cont "on your abilities"
-	cont "as a trainer!"
+	para "H ypakoq tvn"
+	line "dikwn soy basí-"
+	cont "zetai stiº ika-"
+	cont "nóthteº soy!"
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
-	text "SLOWBRO took a"
-	line "snooze..."
+	text "To SLOWBRO épese"
+	line "gia úpno..."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
-	text "SLOWBRO is"
-	line "loafing around..."
+	text "To SLOWBRO "
+	line "xazologáei..."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
-	text "SLOWBRO turned"
-	line "away..."
+	text "To SLOWBRO"
+	line "gúrise pleyró..."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
-	text "SLOWBRO"
-	line "ignored orders..."
+	text "To SLOWBRO"
+	line "agnoeí entoléº..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
-	text "I want a bright"
-	line "red BICYCLE!"
+	text "Òelv éna"
+	line "kókkino 'dIKYK'lO!"
 
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+	para "Òa to kratw sto"
+	line "spíti, wste na"
+	cont "mhn laspvueí!"
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
-	cont "live in there!"
+	text "Einai h 'sÜH'lIA"
+	line "CERULEAN!"
+	cont "Üolú dynatá #"
+	cont "mon zoyn ekeí!"
 
-	para "The #MON LEAGUE"
-	line "champion is the"
-	cont "only person who"
-	cont "is allowed in!"
+	para "O prvtaulhtqº"
+	line "toy ÜPVT/MATO's"
+	cont "eínai eyprósde-"
+	cont "ktoº edw péra!"
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+	text "ÜO'lH CERULEAN"
+	line "Mia mystqria,"
+	cont "mple aúra thn"
+	cont "peribállei"
 	done
 
 _CeruleanCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Pressing B Button"
-	line "during evolution"
-	cont "cancels the whole"
-	cont "process."
+	para "Üatwntaº to koy-"
+	line "mpí B katá thn ejé-"
+	cont "lijh akyrwnei thn"
+	cont "diadikasía."
 	done
 
 _CeruleanCityBikeShopSign::
-	text "Grass and caves"
-	line "handled easily!"
-	cont "BIKE SHOP"
+	text "'rrasídi kai sph-"
+	line "liéº me eykolía!"
+	cont "MA'rAZI 'dIKYK'l'vN"
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
-	line "#MON GYM"
-	cont "LEADER: MISTY"
+	text "ÜO'lH CERULEAN"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: MISTY"
 
-	para "The Tomboyish"
-	line "Mermaid!"
+	para "Agorokóritso"
+	line "gorgóna!"
 	done

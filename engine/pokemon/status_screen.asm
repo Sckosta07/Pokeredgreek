@@ -205,11 +205,11 @@ NamePointers2:
 	dw wDayCareMonName
 
 Type1Text:
-	db   "TYPE1/"
+	db   "TYÜO's1/"
 	next ""
 	; fallthrough
 Type2Text:
-	db   "TYPE2/"
+	db   "TYÜO's2/"
 	next ""
 	; fallthrough
 IDNoText:
@@ -290,10 +290,10 @@ PrintStat:
 	ret
 
 StatsText:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPEED"
-	next "SPECIAL@"
+	db   "EÜIÒE'sH"
+	next "AMYNA"
+	next "TAXYTHTA"
+	next "EI'dIKO@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]
@@ -464,7 +464,7 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "EXP POINTS"
+	db   "ÜONTOI EMÜ"
 	next "LEVEL UP@"
 
 StatusScreen_ClearName:

@@ -1,37 +1,37 @@
 _RedsHouse1FMomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "MAMA: 'svstá. Óla"
+	line "ta agória feúgoyn"
+	cont "mia méra."
+	cont "To eípe h TV."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "O geítonaº, o"
+	line "KAÒ.OAK, se"
+	cont "cáxnei."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "MAMA: <PLAYER>!"
+	line "Kalútera na"
+	cont "jekoyrasteíº."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "MAMA: 'v vraía!"
+	line "Esú kai to"
+	cont "#mon soy"
+	cont "díxnete télioi!"
+	cont "Na proséxete!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "Ypárxei mia tainía"
+	line "sthn TV. 4 agória"
+	cont "perpatoún pánv"
+	cont "se rágeº traínoy."
 
-	para "I better go too."
+	para "Kalútera na feúgv."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Oops, wrong side."
+	text "Oypº, láuoº óch."
 	done

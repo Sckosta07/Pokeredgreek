@@ -1,22 +1,22 @@
 _CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
-	text "Give her which"
-	line "drink?"
+	text "'dwse poió"
+	line "potó?"
 	done
 
 _CeladonMartRoofLittleGirlYayFreshWaterText::
-	text "Yay!"
+	text "'rioúpi!"
 
-	para "FRESH WATER!"
+	para "Ö'rE'sKO NEPO!"
 
-	para "Thank you!"
+	para "Eyxaristw!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Üáre aytá"
+	line "apó eména!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM13Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -26,27 +26,27 @@ _CeladonMartRoofLittleGirlTM13ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
-	line "ICE BEAM!"
+	text " Üeriéxei"
+	line "ÜA'rAKTINA!"
 
-	para "It can freeze the"
-	line "target sometimes!@"
+	para "Üagwnei ton stó-"
+	line "xo merikéº foréº!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYaySodaPopText::
-	text "Yay!"
+	text "'rioúpi!"
 
-	para "SODA POP!"
+	para "'sO'dA ÜOÜ!"
 
-	para "Thank you!"
+	para "Eyxaristw!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Üáre aytó"
+	line "apó eména!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM48Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -56,97 +56,97 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
-	line "ROCK SLIDE!"
+	text " periéxei"
+	line "KATO'lI'sÒH'sH!"
 
-	para "It can spook the"
-	line "target sometimes!@"
+	para "Tromázei ton stó"
+	line "xo merikéº foréº!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYayLemonadeText::
-	text "Yay!"
+	text "'rioúpi!"
 
-	para "LEMONADE!"
+	para "'lEMONA'dA!"
 
-	para "Thank you!"
+	para "Eyxaristw!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Üáre aytó"
+	line "apó eména!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM49Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "TM49!@"
 	text_end
 
 _CeladonMartRoofLittleGirlTM49ExplanationText::
 	text_start
 
-	para "TM49 contains"
-	line "TRI ATTACK!@"
+	para "TM49 periexei"
+	line "TPIÜ'lH EÜIÒE'sH!@"
 	text_end
 
 _CeladonMartRoofLittleGirlNoRoomText::
-	text "You don't have"
-	line "space for this!@"
+	text "'den éxeiº xwro"
+	line "gi' aytó!@"
 	text_end
 
 _CeladonMartRoofLittleGirlImNotThirstyText::
-	text "No thank you!"
-	line "I'm not thirsty"
-	cont "after all!@"
+	text "Óxi eyxaristw!"
+	line "'den dicáv"
+	cont "twra pia!@"
 	text_end
 
 _CeladonMartRoofSuperNerdText::
-	text "My sister is a"
-	line "trainer, believe"
-	cont "it or not."
+	text "H adelfq moy"
+	line "eínai ekp/thº,"
+	cont "se noiázei q óxi."
 
-	para "But, she's so"
-	line "immature, she"
-	cont "drives me nuts!"
+	para "Ma, eínai tóso"
+	line "anwrimh, me"
+	cont "trelaínei!"
 	done
 
 _CeladonMartRoofLittleGirlImThirstyText::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "'dicáv!"
+	line "Òélv na piv"
+	cont "káti twra!"
 	done
 
 _CeladonMartRoofLittleGirlGiveHerADrinkText::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "'dicáv!"
+	line "Òélv na piv"
+	cont "káti twra!"
 
-	para "Give her a drink?"
+	para "'dwse thº na piei?"
 	done
 
 _CeladonMartRoofCurrentFloorSignText::
-	text "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	text "OPOÖH KTHPIOY:"
+	line "AYTOMATOI Ü'v'lHTE's"
 	done
 
 _VendingMachineText1::
-	text "A vending machine!"
-	line "Here's the menu!"
+	text "Aytómatoº pvlhtqº!"
+	line "Oríste to menoú!"
 	prompt
 
 _VendingMachineText4::
-	text "Oops, not enough"
-	line "money!"
+	text "Oypº, den éxeiº"
+	line "arketá xrqmata!"
 	done
 
 _VendingMachineText5::
 	text_ram wStringBuffer
 	text_start
-	line "popped out!"
+	line "petáxthke éjv!"
 	done
 
 _VendingMachineText6::
-	text "There's no more"
-	line "room for stuff!"
+	text "'den éxeiº állo"
+	line "xwro gi' aytó!"
 	done
 
 _VendingMachineText7::
-	text "Not thirsty!"
+	text "'den dicáv!"
 	done

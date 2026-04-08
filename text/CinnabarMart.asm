@@ -1,10 +1,10 @@
 _CinnabarMartSilphWorkerFText::
-	text "Don't they have X"
-	line "ATTACK? It's good"
-	cont "for battles!"
+	text "'den exoyn"
+	line "EÜIÒE'sH X? Eínai"
+	cont "kaló gia máxeº!"
 	done
 
 _CinnabarMartScientistText::
-	text "It never hurts to"
-	line "have extra items!"
+	text "Kánei kakó gia"
+	line "éjtra prágmata!"
 	done

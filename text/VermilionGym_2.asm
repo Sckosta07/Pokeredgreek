@@ -1,30 +1,30 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "Mia mikrq"
+	line "symboylq, mikré!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "O hlektrismóº"
+	line "eínai dynatóº!"
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "Ma, eínai adúna-"
+	line "moº sta #mon"
+	cont "túpoy ghº!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "To ENEP'rOEMB'lHMA"
+	line "ayjánei TAXYTHTA"
+	cont "tvn #mon soy!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "Epíshº se afqnei"
+	line "na ÜETA's ektóº"
+	cont "máxhº, mikré!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "Eísai polú kalóº,"
+	line "mikré! Üáre aytó!"
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
-	text "<PLAYER> received "
+	text "O <PLAYER> pqre "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,113 +33,113 @@ _VermilionGymLTSurgeReceivedTM24Text::
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "TM24 periéxei"
+	line "KEPAYNO's!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "Máue to se éna"
+	line "hlektrikó #MON!"
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "Éi mikré, káne"
+	line "xwro sto sáko soy!"
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Whoa!"
+	text "Oyáoy!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "Eísai to káti"
+	line "állo, mikré!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "kalá tóte, páre to"
+	line "ENEP'rOEMB'lHMA!"
 	prompt
 
 _VermilionGymGentlemanBattleText::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "Ótan qmoyn stra-"
+	line "tó, 'lOXIA's 'sOK"
+	cont "qtan to ónoma toy!"
 	done
 
 _VermilionGymGentlemanEndBattleText::
-	text "Stop!"
-	line "You're very good!"
+	text "'stamáta!"
+	line "Eísai polú kalóº!"
 	prompt
 
 _VermilionGymGentlemanAfterBattleText::
-	text "The door won't"
-	line "open?"
+	text "H pórta den"
+	line "ánoije?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "O 'lOXIA's 'sOK qtan"
+	line "pánta prosektikóº!"
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "Eímai elafrúº,"
+	line "ma eímai kalóº"
+	cont "me ton hlektrismó!"
 	done
 
 _VermilionGymSuperNerdEndBattleText::
-	text "Fried!"
+	text "Épaua sok!"
 	prompt
 
 _VermilionGymSuperNerdAfterBattleText::
-	text "OK, I'll talk!"
+	text "OK, ua to pv!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "O 'lOXIA's 'sOK ébale"
+	line "toyº diakópteº mé-"
+	cont "sa se káti állo!"
 	done
 
 _VermilionGymSailorBattleText::
-	text "This is no place"
-	line "for kids!"
+	text "'den eínai méroº"
+	line "gia paidiá!"
 	done
 
 _VermilionGymSailorEndBattleText::
-	text "Wow!"
-	line "Surprised me!"
+	text "Oyáoy!"
+	line "Me ejéplhjeº!"
 	prompt
 
 _VermilionGymSailorAfterBattleText::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "O 'lOXIA's ébale"
+	line "dúo kleidariéº!"
+	cont "Óríste stoixeío!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "Ótan anoígeiº thn"
+	line "1h kleidariá, h 2h"
+	cont "eínai akribwº"
+	cont "dípla thº!"
 	done
 
 _VermilionGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "o 'lOXIA's 'sOK éxei"
+	line "ceydwnymo. Óloi"
+	cont "ton apokaloún"
+	cont "Hlektrikó"
+	cont "Amerikáno!"
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "Eínai ejpér sta"
+	line "hlektriká #mon!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "Üoyliá kai neroú"
+	line "éxoyn rísko!"
+	cont "Ürósexe epíshº"
+	cont "thn parálysh!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "o 'lOXIA's 'sOK"
+	line "eínai prosektikóº!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "Breº ton kvdikó"
+	line "gia na ton"
+	cont "plhsiáseiº!"
 	done
 
 _VermilionGymGymGuideBeatLTSurgeText::
-	text "Whew! That match"
-	line "was electric!"
+	text "Öioy! O agwnaº"
+	line "eíxe hlektrismó!"
 	done

@@ -1,21 +1,21 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Éi, mikré! Ti"
+	line "nomízeiº óti"
+	cont "káneiº edw?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "'den ua antéjeiº"
+	line "polú sthn máxh!"
+	cont "'sígoyra!"
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "'sto lév mikré,"
+	line "ta hlektriká #"
+	cont "mon me ésvsan"
+	cont "stiº máxeº!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "'sókaran toyº"
+	line "exuroúº moy"
+	cont "me parálysh!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "To ídio ua kánoyn"
+	line "kai se eséna!"
 	done

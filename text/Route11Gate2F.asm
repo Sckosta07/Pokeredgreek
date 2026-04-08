@@ -1,40 +1,40 @@
 _Route11Gate2FOaksAideItemfinderDescriptionText::
-	text "There are items on"
-	line "the ground that"
-	cont "can't be seen."
+	text "Ypárxoyn prágma-"
+	line "ta sto pátvma poy"
+	cont "den faínontai."
 
-	para "ITEMFINDER will"
-	line "detect an item"
-	cont "close to you."
+	para "O ANIXNEYTH's"
+	line "deíxnei to prá-"
+	cont "gma kontá soy."
 
-	para "It can't pinpoint"
-	line "it, so you have"
-	cont "to look yourself!"
+	para "'den ua entopísei"
+	line "móno toy, opóte"
+	cont "cáje esú o ídioº!"
 	done
 
 _Route11Gate2FLeftBinocularsSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitázeiº me"
+	line "ta kiália."
 
-	para "A big #MON is"
-	line "asleep on a road!"
+	para "Éna megálo #mon"
+	line "poy koimátai!"
 	done
 
 _Route11Gate2FLeftBinocularsNoSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitáº me"
+	line "ta kiália."
 
-	para "It's a beautiful"
-	line "view!"
+	para "Eínai ómorfh"
+	line "h uéa!"
 	done
 
 _Route11Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitáº me"
+	line "ta kiália."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	para "Mporeíº na paº"
+	line "apo thn CERULEAN"
+	cont "sthn LAVENDER"
+	cont "apó to"
+	cont "TOYNE'l BPAXOY."
 	done

@@ -1,22 +1,22 @@
 _CeladonChiefHouseChiefText::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Xéxe! Oi uéseiº"
+	line "gyrnoún me ta"
+	cont "leftá, epityxía!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "CHIEF!"
+	text "APXH'rE!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Móliº steílame"
+	line "2000 #mon vº"
+	cont "brabeía uésevn!"
 	done
 
 _CeladonChiefHouseSailorText::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "Mhn aggízete"
+	line "thn afqsa sthn"
+	cont "'r'vNIA ÜAIXNI'dIOY!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "'den ypárxei kryfóº"
+	line "diakópthº písv!"
 	done

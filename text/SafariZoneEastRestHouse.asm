@@ -1,18 +1,18 @@
 _SafariZoneEastRestHouseScientistText::
-	text "How many did you"
-	line "catch? I'm bushed"
-	cont "from the work!"
+	text "Üósa éxeiº piásei?"
+	line "Koyrásthka apó"
+	cont "thn doyleiá!"
 	done
 
 _SafariZoneEastRestHouseRockerText::
-	text "I caught a"
+	text "Épiasa éna"
 	line "CHANSEY!"
 
-	para "That makes this"
-	line "all worthwhile!"
+	para "Aytó kánei na"
+	line "ajízei ton kópo!"
 	done
 
 _SafariZoneEastRestHouseSilphWorkerMText::
-	text "Whew! I'm tired"
-	line "from all the fun!"
+	text "Öioú! Koyrásthka"
+	line "apó th diaskédash!"
 	done

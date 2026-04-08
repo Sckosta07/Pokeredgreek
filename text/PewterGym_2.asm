@@ -1,146 +1,146 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Ypárxoyn óla ta"
+	line "eídh ekpaideytwn"
+	cont "ston kósmo!"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "Öaínesai gia polú"
+	line "xarismatikóº"
+	cont "ekpaideyqº!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Tréxa sto GYM thº"
+	line "CERULEAN kai deº"
+	cont "tiº dynámeiº soy!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
-	line "with you!"
+	text "'stásoy! Üáre kai"
+	line "aytó mazí soy!"
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> phqre"
 	line "TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "Ta TM periéxoyn"
+	line "texnikéº poy tiº"
+	cont "mauaínoyn ta"
+	cont "#mon!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "Éna TM eínai gia"
+	line "mia forá! Ótan"
+	cont "bázeiº éna gia na"
+	cont "máuei káti néo,"
+	cont "epéleje #mon"
+	cont "prosektiká!"
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "TM34 periéxei"
+	line "ANAMONH!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Ta #mon soy poy"
+	line "aporrofoún zhmiá"
+	cont "sth máxh ua dí-"
+	cont "noyn písv diplq!"
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "'den éxeiº xwro"
+	line "gi' aytó!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "'den se pqra"
+	line "sta sobará."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "'vº apódeijh thº"
+	line "níkhº soy, oríste"
+	cont "to BPAXOMB'lHMA!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "O <PLAYER> pqre"
+	line "to BPAXOMB'lHMA!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "Eínai éna epíshmo"
+	line "émblhma"
+	cont "prvtaulqmatoº!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Ta #mon toy"
+	line "katóxoy gínontai"
+	cont "pio dynatá!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Mporeíº na xrh-"
+	line "simopoieíº thn"
+	cont "'lAMñH ópote ueº!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
+	text "'stasoy ekeí poy"
+	line "eísai, mikré!"
 
-	para "You're still light"
-	line "years from facing"
+	para "Apéxeiº akóma éth"
+	line "fvtóº apó ton"
 	cont "BROCK!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text ""
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Ta éth fvtóº den"
+	line "eínai xrónoº!"
+	cont "Metrá apóstash!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Eísai kalóº,"
+	line "ma óxi óso o"
+	cont "BROCK!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Xaìgiá! 'lév óti"
+	line "éxeiº óti prépei"
+	cont "gia na gíneiº"
+	cont "prvtaulhtqº!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "'den eímai ekp/thº,"
+	line "ma mporw na pv"
+	cont "pvº ua nikqseiº!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Áse me na se"
+	line "páv sthn koryfq!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "Entájei! Aº"
+	line "to kánoyme!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "To 1o #mon"
+	line "sth máxh eínai"
+	cont "sthn koryfq thº"
+	cont "'lI'sTA's #mon!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Allázontaº thn"
+	line "seirá tvn #mon,"
+	cont "oi máxeº ua"
+	cont "gínontai eúkoleº!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "'dínv dvreán"
+	line "symboyléº!"
+	cont "Aº to kánoyme!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Ópvº to nómiza!"
+	line "'rennhménoº gia"
+	cont "prvtaulhthº!"
 	done

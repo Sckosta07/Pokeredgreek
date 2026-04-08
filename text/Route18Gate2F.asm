@@ -1,15 +1,15 @@
 _Route18Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitáº me"
+	line "ta kiália."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "H ÜO'lH PALLET"
+	line "eínai dytíka!"
 	done
 
 _Route18Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "koitáº me"
+	line "ta kiália."
 
-	para "There are people"
-	line "swimming!"
+	para "Kápoioi"
+	line "kolympáne!"
 	done

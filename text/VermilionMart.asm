@@ -1,23 +1,23 @@
 _VermilionMartCooltrainerMText::
-	text "There are evil"
-	line "people who will"
-	cont "use #MON for"
-	cont "criminal acts."
+	text "Ypárxoyn kakoí"
+	line "túpoi poy bázoyn"
+	cont "ta #mon gia"
+	cont "kakó skopó."
 
-	para "TEAM ROCKET"
-	line "traffics in rare"
-	cont "#MON."
+	para "H OMA'dA ÜYPAY'lO's"
+	line "piánei spánia"
+	cont "#mon."
 
-	para "They also abandon"
-	line "#MON that they"
-	cont "consider not to"
-	cont "be popular or"
-	cont "useful."
+	para "Epíshº paratáne"
+	line "#mon poy"
+	cont "pisteúoyn pvº"
+	cont "den eínai"
+	cont "xrqsima."
 	done
 
 _VermilionMartCooltrainerFText::
-	text "I think #MON"
-	line "can be good or"
-	cont "evil. It depends"
-	cont "on the trainer."
+	text "Üisteúv den pvº"
+	line "aytá eínai kalá"
+	cont "q kaká. Ejartátai"
+	cont "ton ekpaideytq."
 	done

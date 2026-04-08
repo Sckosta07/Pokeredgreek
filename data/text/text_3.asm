@@ -1,141 +1,141 @@
 _FileDataDestroyedText::
-	text "The file data is"
-	line "destroyed!"
+	text "To arxeío éxei"
+	line "katastrafeí!"
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "Òa queleº na sw-"
+	line "seiº to paixnídi?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "O <PLAYER> ésvse"
+	line "to paixnídi!"
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "To palió arxeío ua"
+	line "diagrafteí twra."
+	cont "Entájei?"
 	done
 
 _WhenYouChangeBoxText::
-	text "When you change a"
-	line "#MON BOX, data"
-	cont "will be saved."
+	text "Ótan allájeiº to"
+	line "koytí soy, óla ua"
+	cont "apouhkeytoún."
 
-	para "Is that okay?"
+	para "Eísai OK me aytó?"
 	done
 
 _ChooseABoxText::
-	text "Choose a"
-	line "<PKMN> BOX.@"
+	text "'diáleje éna"
+	line "koytí <PKMN>.@"
 	text_end
 
 _EvolvedText::
 	text_ram wStringBuffer
-	text " evolved"
+	text " állaje"
 	done
 
 _IntoText::
 	text_start
-	line "into @"
+	line "se @"
 	text_ram wNameBuffer
 	text "!"
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "Eee? to @"
 	text_ram wStringBuffer
 	text_start
-	line "stopped evolving!"
+	line "akúrvse thn ejélijh!"
 	prompt
 
 _IsEvolvingText::
-	text "What? @"
+	text "Ti? To @"
 	text_ram wStringBuffer
 	text_start
-	line "is evolving!"
+	line "ejelíssetai!"
 	done
 
 _FellAsleepText::
 	text "<TARGET>"
-	line "fell asleep!"
+	line "apokoimquhke!"
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text " <TARGET>"
+	line "qdh koimátai!"
 	prompt
 
 _PoisonedText::
 	text "<TARGET>"
-	line "was poisoned!"
+	line "dhlhthriásthke!"
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET> bariá"
+	line "dhlhthriasméno!"
 	prompt
 
 _BurnedText::
 	text "<TARGET>"
-	line "was burned!"
+	line "káhke!"
 	prompt
 
 _FrozenText::
 	text "<TARGET>"
-	line "was frozen solid!"
+	line "entelwº pagvméno!"
 	prompt
 
 _FireDefrostedText::
-	text "Fire defrosted"
-	line "<TARGET>!"
+	text "H fvtiá jepágvse"
+	line "to <TARGET>!"
 	prompt
 
 _MonsStatsRoseText::
-	text "<USER>'s"
+	text "<USER>"
 	line "@"
 	text_ram wStringBuffer
 	text "@"
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>polú@"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text " ayjquhke!"
 	prompt
 
 _MonsStatsFellText::
-	text "<TARGET>'s"
+	text "<TARGET>"
 	line "@"
 	text_ram wStringBuffer
 	text "@"
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>polú@"
 	text_end
 
 _FellText::
-	text " fell!"
+	text " épese!"
 	prompt
 
 _RanFromBattleText::
-	text "<USER>"
-	line "ran from battle!"
+	text "<USER> éfyge"
+	line "apó thn máxh!"
 	prompt
 
 _RanAwayScaredText::
 	text "<TARGET>"
-	line "ran away scared!"
+	line "étreje fobisméno!"
 	prompt
 
 _WasBlownAwayText::
 	text "<TARGET>"
-	line "was blown away!"
+	line "parasúruhke!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -144,181 +144,181 @@ _ChargeMoveEffectText::
 
 _MadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "ékane anemostróbylo!"
 	prompt
 
 _TookInSunlightText::
 	text_start
-	line "took in sunlight!"
+	line "pqre hliakó fvº!"
 	prompt
 
 _LoweredItsHeadText::
 	text_start
-	line "lowered its head!"
+	line "xamqlvse kefáli!"
 	prompt
 
 _SkyAttackGlowingText::
 	text_start
-	line "is glowing!"
+	line "gyalízei!"
 	prompt
 
 _FlewUpHighText::
 	text_start
-	line "flew up high!"
+	line "pétaje chlá!"
 	prompt
 
 _DugAHoleText::
 	text_start
-	line "dug a hole!"
+	line "éskace mia trúpa!"
 	prompt
 
 _BecameConfusedText::
 	text "<TARGET>"
-	line "became confused!"
+	line "mperdeúthke!"
 	prompt
 
 _MimicLearnedMoveText::
 	text "<USER>"
-	line "learned"
+	line "émaue sto"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _MoveWasDisabledText::
-	text "<TARGET>'s"
+	text "'sto <TARGET>"
 	line "@"
 	text_ram wNameBuffer
-	text " was"
-	cont "disabled!"
+	text " éxei"
+	cont "bgei ektóº!"
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "'den égine típota!"
 	prompt
 
 _NoEffectText::
-	text "No effect!"
+	text "Kamía epídrash!"
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "Ma, apétyxe! "
 	prompt
 
 _DidntAffectText::
-	text "It didn't affect"
-	line "<TARGET>!"
+	text "'den ephréase"
+	line "to <TARGET>!"
 	prompt
 
 _IsUnaffectedText::
 	text "<TARGET>"
-	line "is unaffected!"
+	line "eínai anephréasto!"
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET>"
+	line "parélyse! Mporeí"
+	cont "na mhn epiteueí!"
 	prompt
 
 _SubstituteText::
-	text "It created a"
-	line "SUBSTITUTE!"
+	text "Éftiaje mia"
+	line "ANTIKATÁ'sTA'sH!"
 	prompt
 
 _HasSubstituteText::
-	text "<USER>"
-	line "has a SUBSTITUTE!"
+	text "<USER> éxei"
+	line "mia ANTIKATÁ'sTA'sH!"
 	prompt
 
 _TooWeakSubstituteText::
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "Üolú adúnamo gia na"
+	line "kánei ANTIKATÁ'sTA'sH!"
 	prompt
 
 _CoinsScatteredText::
-	text "Coins scattered"
-	line "everywhere!"
+	text "Kérmata skórpisan"
+	line "pantoú!"
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER>"
+	line "éxei royfhxueí!"
 	prompt
 
 _WasSeededText::
 	text "<TARGET>"
-	line "was seeded!"
+	line "éxei fyteyteí!"
 	prompt
 
 _EvadedAttackText::
 	text "<TARGET>"
-	line "evaded attack!"
+	line "apéfyge epíuesh!"
 	prompt
 
 _HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "<USER>"
+	line "xtypquhke éntona!"
 	prompt
 
 _ConvertedTypeText::
-	text "Converted type to"
-	line "<TARGET>'s!"
+	text "Állaje ston túpo"
+	line "toy <TARGET>!"
 	prompt
 
 _StatusChangesEliminatedText::
-	text "All STATUS changes"
-	line "are eliminated!"
+	text "Óla ta STATUS"
+	line "poy állajan xáuhkan!"
 	prompt
 
 _StartedSleepingEffect::
 	text "<USER>"
-	line "started sleeping!"
+	line "koimátai!"
 	done
 
 _FellAsleepBecameHealthyText::
-	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
+	text "<USER> apo-"
+	line "koimquhke kai"
+	cont "énivse ygiéº!"
 	done
 
 _RegainedHealthText::
 	text "<USER>"
-	line "regained health!"
+	line "anákthse zvq!"
 	prompt
 
 _TransformedText::
 	text "<USER>"
-	line "transformed into"
+	line "állaje se"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
+	text "<USER>"
+	line "eínai kaló se"
+	cont "eidikéº epiuéseiº!"
 	prompt
 
 _ReflectGainedArmorText::
 	text "<USER>"
-	line "gained armor!"
+	line "pqre panoplía!"
 	prompt
 
 _ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
+	text "<USER> kalú-"
+	line "fthke apó omúxlh!"
 	prompt
 
 _SuckedHealthText::
-	text "Sucked health from"
-	line "<TARGET>!"
+	text "Poúfyje zvq apó"
+	line "to <TARGET>!"
 	prompt
 
 _DreamWasEatenText::
-	text "<TARGET>'s"
-	line "dream was eaten!"
+	text "To óneiro toy"
+	line "<TARGET> fagwuhke!"
 	prompt
 
 _TradeCenterOpponentText::

@@ -1,133 +1,133 @@
 _Route11Gambler1BattleText::
-	text "Win, lose or draw!"
+	text "Níka q xáse!"
 	done
 
 _Route11Gambler1EndBattleText::
-	text "Atcha!"
-	line "Didn't go my way!"
+	text "Ataa! 'den"
+	line "pqge ópvº quela!"
 	prompt
 
 _Route11Gambler1AfterBattleText::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "Ta #mon eínai"
+	line "zvq! Kai h zvq"
+	cont "eínai paixnídi!"
 	done
 
 _Route11Gambler2BattleText::
-	text "Competition! I"
-	line "can't get enough!"
+	text "Anamétrhsh!"
+	line "'den tiº xortaínv!"
 	done
 
 _Route11Gambler2EndBattleText::
-	text "I had"
-	line "a chance!"
+	text "Eíxa mia"
+	line "eykairía!"
 	prompt
 
 _Route11Gambler2AfterBattleText::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "Mhn eísai deilóº"
+	line "ston kósmo"
+	cont "tvn #mon!"
 	done
 
 _Route11Youngster1BattleText::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Üáme, ma"
+	line "mhn klébeiº!"
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Huh?"
-	line "That's not right!"
+	text "Eee? 'den"
+	line "eínai díkaio!"
 	prompt
 
 _Route11Youngster1AfterBattleText::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "Aytó mporoúsa,"
+	line "'den metaniwnv!"
 	done
 
 _Route11SuperNerd1BattleText::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "Ürósexe!"
+	line "Afqnv kátv me-"
+	cont "riká kalwdia!"
 	done
 
 _Route11SuperNerd1EndBattleText::
-	text "That"
-	line "was electric!"
+	text "Aytó ua"
+	line "pei hlekrismóº!"
 	prompt
 
 _Route11SuperNerd1AfterBattleText::
-	text "Spread the word"
-	line "to save energy!"
+	text "'diádvse ta néa gia"
+	line "na svueí enérgeia!"
 	done
 
 _Route11Youngster2BattleText::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "Móliº égina ekpai-"
+	line "deytqº! Ma, nomí-"
+	cont "zv pvº ua nikqsv!"
 	done
 
 _Route11Youngster2EndBattleText::
-	text "My"
-	line "#MON couldn't!"
+	text "Ta #mon"
+	line "moy den písteyan!"
 	prompt
 
 _Route11Youngster2AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "Ti uéleiº esú?"
+	line "Áse me úshxo!"
 	done
 
 _Route11Gambler3BattleText::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Öoyxaxa! 'den éxv"
+	line "xásei poté!"
 	done
 
 _Route11Gambler3EndBattleText::
-	text "My"
-	line "first loss!"
+	text "H prwth"
+	line "moy qtta!"
 	prompt
 
 _Route11Gambler3AfterBattleText::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Òéma túxhº!"
+	line "Aplá túxh!"
 	done
 
 _Route11Gambler4BattleText::
-	text "I have never won"
-	line "before..."
+	text "'den éxv nikqsei"
+	line "poté prin..."
 	done
 
 _Route11Gambler4EndBattleText::
-	text "I saw"
-	line "this coming..."
+	text "To eída"
+	line "na érxetai aytó."
 	prompt
 
 _Route11Gambler4AfterBattleText::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Eínai aplá túxh."
+	line "Òéma túxhº."
 	done
 
 _Route11Youngster3BattleText::
-	text "I'm the best in"
-	line "my class!"
+	text "Eímai o kalúteroº"
+	line "sthn tájh moy!"
 	done
 
 _Route11Youngster3EndBattleText::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "Ötoy! Üré-"
+	line "pei na ta kánv"
+	cont "pio dynatá!"
 	prompt
 
 _Route11Youngster3AfterBattleText::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "Ypárxei éna xontró"
+	line "#mon poy qrue"
+	cont "edw kátv apó"
+	cont "ta boyná."
 
-	para "It's strong if"
-	line "you can get it."
+	para "Eínai dynató"
+	line "an to pisteúeiº."
 	done
 
 _Route11SuperNerd2BattleText::
-	text "Watch out for"
-	line "live wires!"
+	text "Ürósexe gia"
+	line "ta kalwdia!"
 	done

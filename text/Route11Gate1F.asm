@@ -1,14 +1,14 @@
 _Route11Gate1FGuardText::
-	text "When you catch"
-	line "lots of #MON,"
-	cont "isn't it hard to"
-	cont "think up names?"
+	text "Ótan piáseiº"
+	line "pollá #mon,"
+	cont "den eínai dúsko-"
+	cont "la ta onómata?"
 
-	para "In LAVENDER TOWN,"
-	line "there's a man who"
-	cont "rates #MON"
-	cont "nicknames."
+	para "H ÜO'lH LAVENDER,"
+	line "éxei énan túpo"
+	cont "poy ajiologeí"
+	cont "onómata."
 
-	para "He'll help you"
-	line "rename them too!"
+	para "Òa se bohuqsei"
+	line "polú se aytá!"
 	done

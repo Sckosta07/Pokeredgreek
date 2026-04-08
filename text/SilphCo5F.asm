@@ -1,51 +1,51 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
-	line "in an uproar over"
-	cont "some intruder."
-	cont "That's you right?"
+	text "Oi ÜYPAY'lOI éxoyn"
+	line "envxlhueí me"
+	cont "énan eisboléa."
+	cont "aytóº eísai esú?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
-	line "off! You're our"
-	cont "hero! Thank you!"
+	text "Oi ÜYPAY'lOI éfygan!"
+	line "Eísai o qrvaº maº!"
+	cont "'se eyxaristoúme!"
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "Ákoysa pvº éna pai"
+	line "di qtan edw gúrv."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "Mpoym!"
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "'den eínai éjypno"
+	line "na prokaleíº thn"
+	cont "OMA'dA ÜYPAY'lO!"
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study #"
-	line "BALL technology"
-	cont "on this floor!"
+	text "Meletáme thn"
+	line "texnología ÜOKE"
+	cont "BALL edw!"
 	done
 
 _SilphCo5FScientistEndBattleText::
-	text "Dang!"
-	line "Blast it!"
+	text "Ötoy!"
+	line "Na párei!"
 	prompt
 
 _SilphCo5FScientistAfterBattleText::
-	text "We worked on the"
-	line "ultimate #"
-	cont "BALL which would"
-	cont "catch anything!"
+	text "Ergazómaste sthn"
+	line "apólyth ÜOKE BALL"
+	cont "ópoy piáneiº"
+	cont "otidqpote ueº!"
 	done
 
 _SilphCo5FRockerBattleText::
-	text "Whaaat? There"
-	line "shouldn't be any"
-	cont "children here?"
+	text "Tiiiiii? 'den ua"
+	line "éprepe na ypár-"
+	cont "xoyn paidiá edw!"
 	done

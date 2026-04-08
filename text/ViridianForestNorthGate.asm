@@ -1,19 +1,19 @@
 _ViridianForestNorthGateSuperNerdText::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "Üollá #mon zoyn"
+	line "móno se dásh"
+	cont "kai sphliéº."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "Ürépei na cájeiº"
+	line "pantoú gia"
+	cont "diáfora eídh!"
 	done
 
 _ViridianForestNorthGateGrampsText::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "Éxeiº parathrqsei"
+	line "toyº uámnoyº thn"
+	cont "ákrh toy drómoy?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "Mporoún na kopoún"
+	line "me mia eidikq"
+	cont "#mon kínhsh."
 	done

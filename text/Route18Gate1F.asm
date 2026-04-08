@@ -1,14 +1,14 @@
 _Route18Gate1FGuardYouNeedABicycleText::
-	text "You need a BICYCLE"
-	line "for CYCLING ROAD!"
+	text "Xreiázesai 'dIKYK'lO"
+	line "ston 'dPOMO 'dIKYK'l'vN!"
 	done
 
 _Route18Gate1FGuardCyclingRoadUphillText::
-	text "CYCLING ROAD is"
-	line "all uphill from"
-	cont "here."
+	text "O 'dPOMO's 'dIKYK'l'vN"
+	line "eínai anhforikóº"
+	cont "apó edw."
 	done
 
 _Route18Gate1FGuardExcuseMeText::
-	text "Excuse me!"
+	text "Me sygxvreíº!"
 	done

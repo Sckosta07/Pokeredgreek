@@ -1,190 +1,190 @@
 _GameCornerBeauty1Text::
-	text "Welcome!"
+	text "Kalvº qruate!"
 
-	para "You can exchange"
-	line "your coins for"
-	cont "fabulous prizes"
-	cont "next door."
+	para "Mporeíte na anta-"
+	line "llájete kérmata"
+	cont "me ypéroxa"
+	cont "dwra dípla."
 	done
 
 _GameCornerClerk1DoYouNeedSomeGameCoinsText::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "Kalwº qruate sthn"
+	line "'r'vNIA ÜYPAY'l'vN!"
 
-	para "Do you need some"
-	line "game coins?"
+	para "Òélete meriká ker-"
+	line "rmata paixnidioú?"
 
-	para "It's ¥1000 for 50"
-	line "coins. Would you"
-	cont "like some?"
+	para "Eínai ¥1000 gia 50"
+	line "kérmata. Òélete"
+	cont "meriká apó aytá?"
 	done
 
 _GameCornerClerk1ThanksHereAre50CoinsText::
-	text "Thanks! Here are"
-	line "your 50 coins!"
+	text "Eyxaristoúme!"
+	line "Oríste 50 kérmata!"
 	done
 
 _GameCornerClerk1PleaseComePlaySometimeText::
-	text "No? Please come"
-	line "play sometime!"
+	text "Óxi? Eláte na"
+	line "paíjete janá!"
 	done
 
 _GameCornerClerk1CantAffordTheCoinsText::
-	text "You can't afford"
-	line "the coins!"
+	text "'den mporw na saº"
+	line "dwsv kérmata!"
 	done
 
 _GameCornerClerk1CoinCaseIsFullText::
-	text "Oops! Your COIN"
-	line "CASE is full."
+	text "Oypº! H ÒHKH"
+	line "KEPMAT'vN gémise."
 	done
 
 _GameCornerClerk1DontHaveCoinCaseText::
-	text "You don't have a"
-	line "COIN CASE!"
+	text "'den éxete ÒHKH"
+	line "KEPMAT'vN!"
 	done
 
 _GameCornerMiddleAgedMan1Text::
-	text "Keep this quiet."
+	text "'ss. eínai mystikó."
 
-	para "It's rumored that"
-	line "this place is run"
-	cont "by TEAM ROCKET."
+	para "Bgqkan fqmeº óti"
+	line "éxei to méroº h"
+	cont "OMA'dA ÜYPAY'lO's."
 	done
 
 _GameCornerBeauty2Text::
-	text "I think these"
-	line "machines have"
-	cont "different odds."
+	text "Üisteúv pvº aytéº"
+	line "oi mhxanéº éxoyn"
+	cont "diaforetiká moná."
 	done
 
 _GameCornerFishingGuruWantToPlayText::
-	text "Kid, do you want"
-	line "to play?"
+	text "Mikré, ua queleº"
+	line "na paíjeiº?"
 	prompt
 
 _GameCornerFishingGuruReceived10CoinsText::
-	text "<PLAYER> received"
-	line "10 coins!@"
+	text "O <PLAYER> pqre"
+	line "10 kérmata!@"
 	text_end
 
 _GameCornerFishingGuruDontNeedMyCoinsText::
-	text "You don't need my"
-	line "coins!"
+	text "'den xreiázesai"
+	line "ta kérmata moy!"
 	done
 
 _GameCornerFishingGuruWinsComeAndGoText::
-	text "Wins seem to come"
-	line "and go."
+	text "Níkeº érxontai"
+	line "kai feúgoyn."
 	done
 
 _GameCornerMiddleAgedWomanText::
-	text "I'm having a"
-	line "wonderful time!"
+	text "Egw pernáv"
+	line "ypéroxa twra!"
 	done
 
 _GameCornerGymGuideChampInMakingText::
-	text "Hey!"
+	text "Éi!"
 
-	para "You have better"
-	line "things to do,"
-	cont "champ in making!"
+	para "Éxeiº kalútera"
+	line "prágmata twra"
+	cont "nikhtq toy aúrio!"
 
-	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
-	cont "She uses grass-"
-	cont "type #MON!"
+	para "H H'rETH's toy GYM"
+	line "edw légetai EPIKA!"
+	cont "Bázei #mon"
+	cont "túpoy grasidioú!"
 
-	para "She might appear"
-	line "docile, but don't"
-	cont "be fooled!"
+	para "Mporeí na faínetai"
+	line "qremh, ma mhn"
+	cont "se jegeláei!"
 	done
 
 _GameCornerGymGuideTheyOfferRarePokemonText::
-	text "They offer rare"
-	line "#MON that can"
-	cont "be exchanged for"
-	cont "your coins."
+	text "'dínoyn spánia"
+	line "#mon poy"
+	cont "antallázontai"
+	cont "me kérmata soy."
 
-	para "But, I just can't"
-	line "seem to win!"
+	para "Allá, den blépv"
+	line "na kerdízv!"
 	done
 
 _GameCornerGamblerText::
-	text "Games are scary!"
-	line "It's so easy to"
-	cont "get hooked!"
+	text "Aytá me tromázoyn!"
+	line "Eínai eúkolo na"
+	cont "euisteíº!"
 	done
 
 _GameCornerClerk2WantSomeCoinsText::
-	text "What's up? Want"
-	line "some coins?"
+	text "Ti léei? uéleiº"
+	line "meriká kérmata?"
 	prompt
 
 _GameCornerClerk2Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "O <PLAYER> pqre"
+	line "20 kérmata!@"
 	text_end
 
 _GameCornerClerk2YouHaveLotsOfCoinsText::
-	text "You have lots of"
-	line "coins!"
+	text "Éxeiº pollá"
+	line "kérmata!"
 	done
 
 _GameCornerClerk2INeedMoreCoinsText::
-	text "Darn! I need more"
-	line "coins for the"
-	cont "#MON I want!"
+	text "Ötoy! Òelv kai"
+	line "álla kérmata gia"
+	cont "aytó to #mon!"
 	done
 
 _GameCornerGentlemanThrowingMeOffText::
-	text "Hey, what? You're"
-	line "throwing me off!"
-	cont "Here are some"
-	cont "coins, shoo!"
+	text "Éi, ti? Me"
+	line "divxnete!"
+	cont "Oríste meriká"
+	cont "kérmata, feúgv!"
 	prompt
 
 _GameCornerGentlemanReceived20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "Ó <PLAYER> pqre"
+	line "20 kérmata!@"
 	text_end
 
 _GameCornerGentlemanYouGotYourOwnCoinsText::
-	text "You've got your"
-	line "own coins!"
+	text "Na páreiº ta"
+	line "diká soy kérmata!"
 	done
 
 _GameCornerGentlemanCloselyWatchTheReelsText::
-	text "The trick is to"
-	line "watch the reels"
-	cont "closely!"
+	text "To kólpo eínai"
+	line "na blépeiº pvº"
+	cont "gyrnáei!"
 	done
 
 _GameCornerRocketImGuardingThisPosterText::
-	text "I'm guarding this"
-	line "poster!"
-	cont "Go away, or else!"
+	text "Öroyrw aytq thn"
+	line "afqsa!"
+	cont "Öúge, alliwº!"
 	done
 
 _GameCornerRocketBattleEndText::
-	text "Dang!"
+	text "Ötoy!"
 	prompt
 
 _GameCornerRocketAfterBattleText::
-	text "Our hideout might"
-	line "be discovered! I"
-	cont "better tell BOSS!"
+	text "Mporeí h krycwna"
+	line "maº na faneí!"
+	cont "Üáv sto AÖENTIKO!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::
-	text "Hey!"
+	text "Éi!"
 
-	para "A switch behind"
-	line "the poster!?"
-	cont "Let's push it!@"
+	para "Énaº diakópthº"
+	line "písv thº afqsaº!?"
+	cont "Katébase ton!@"
 	text_end
 
 _GameCornerOopsForgotCoinCaseText::
-	text "Oops! Forgot the"
-	line "COIN CASE!"
+	text "Oypº! Ñéxasa th"
+	line "ÒHKH KEPMAT'vN!"
 	done

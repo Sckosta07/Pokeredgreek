@@ -1,25 +1,25 @@
 _IndigoPlateauLobbyGymGuideText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "At #MON LEAGUE,"
-	line "you have to face"
-	cont "the ELITE FOUR in"
-	cont "succession."
+	para "'sto ÜP'vTAÒ'lHMA,"
+	line "ua antimetvpíseiº"
+	cont "toyº 4 E'lIT me"
+	cont "epityxía."
 
-	para "If you lose, you"
-	line "have to start all"
-	cont "over again! This"
-	cont "is it! Go for it!"
+	para "An xáseiº, prépei"
+	line "na arxíseiº"
+	cont "janá! Aytó"
+	cont "eínai! Mporeíº!"
 	done
 
 _IndigoPlateauLobbyCooltrainerFText::
-	text "From here on, you"
-	line "face the ELITE"
-	cont "FOUR one by one!"
+	text "Apó edw kai péra,"
+	line "ta bázeiº me toyº"
+	cont "4 E'lIT énan énan!"
 
-	para "If you win, a"
-	line "door opens to the"
-	cont "next trainer!"
-	cont "Good luck!"
+	para "An nikqseiº, h"
+	line "pórta anoígei gia"
+	cont "ton epómeno!"
+	cont "Kalq túxh!"
 	done

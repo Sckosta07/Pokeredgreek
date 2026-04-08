@@ -1,27 +1,27 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "O ÖY'lAKA's edw"
+	line "eínai géroº, ma"
+	cont "akóma energóº!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "Ta dóntia toy"
+	line "ómvº, ceútika."
 	done
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
-	text "Hmm? You've met"
-	line "BILL?"
+	text "Xmm? 'synánthseº"
+	line "ton BILL?"
 
-	para "He's my grandson!"
+	para "Eínai eggonóº moy!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Üánta toy árese"
+	line "na syllégei prá-"
+	cont "gmata vº paidí!"
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "O BILL kánei ta"
+	line "diká toy arxeía"
+	cont "sto PC toy!"
 
-	para "Did he show you?"
+	para "'soy édeije?"
 	done

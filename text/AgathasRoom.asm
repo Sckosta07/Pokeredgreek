@@ -1,44 +1,44 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Eímai h AGATHA"
+	line "tvn 4 E'lIT!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "O OAK deíxnei"
+	line "polú endiaféron"
+	cont "se eséna, mikré!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Aytóº o gerákoº,"
+	line "paliá sklhróº kai"
+	cont "ómorfoº! Aytó"
+	cont "qtan xrónia prin!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Twra aplwº uélei"
+	line "na paízei me to"
+	cont "#ntej toy!"
+	cont "'láuoº! Ta #mon"
+	cont "eínai gia máxeº!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Òa soy"
+	line "deíjv thn alhuinq"
+	cont "máxh!"
 	done
 
 _AgathaEndBattleText::
-	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	text "Eísai"
+	line "to káti állo,"
+	cont "míkre!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Níkhseº! Blépv ti"
+	line "blépei o gerákoº"
+	cont "se eséna twra!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "'den exv na pv"
+	line "tipota allo! pro-"
+	cont "xwra tvra, mikre!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Övnq kápoioy:"
+	line "Mhn feúgeiº!"
 	done

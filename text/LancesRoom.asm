@@ -1,64 +1,64 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "A! Éxv akoúsei gia"
+	line "eséna <PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Hgoúmai tvn 4"
+	line "E'lIT! Mporeíº na"
+	cont "me leº LANCE ton"
+	cont "drakoekpaideytq!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Ìjereº óti oi"
+	line "drákoi eínai"
+	cont "myuiká #mon?"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "Eínai dúskolo na"
+	line "ta piáseiº q mega-"
+	cont "lwseiº, ma éxoyn"
+	cont "anwtereº dynámeiº!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Eínai sxedón"
+	line "átrvta!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Eísai étoimoº"
+	line "na xáseiº?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "H próklhsh toy"
+	line "prvt/toº telei-"
+	cont "wnei edw, <PLAYER>!"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "Aytó qtan!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "'lypámai poy to"
+	line "lév, ma eísai o"
+	cont "#mon MASTER!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "'den pisteúv pvº"
+	line "oi drákoi moy"
+	cont "éxasan apó"
+	cont "eséna, <PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Eísai twra o"
+	line "ÜP'vTAÒ'lHTH's"
+	cont "tvn #MON!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...Ì, ua qsoyn,"
+	line "ma éxeiº akóma"
+	cont "mia próklhsh"
+	cont "mprostá soy."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Òa antimetopíseiº"
+	line "állon énan ekp/th!"
+	cont "Ton léne..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Níkhse toyº 4"
+	cont "E'lIT prin érueiº!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "Aytóº eínai o "
+	line "ÜP'vTAÒ'lHTH's"
+	cont "twn #MON!@"
 	text_end

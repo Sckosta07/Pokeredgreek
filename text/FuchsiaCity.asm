@@ -1,30 +1,30 @@
 _FuchsiaCityYoungster1Text::
-	text "Did you try the"
-	line "SAFARI GAME? Some"
-	cont "#MON can only"
-	cont "be caught there."
+	text "Eídeº to ÜAIXNI-"
+	line "'dI 'sAÖAPI? Kápoia"
+	cont "#mon piánontai"
+	cont "móno ekeí."
 	done
 
 _FuchsiaCityGamblerText::
-	text "SAFARI ZONE has a"
-	line "zoo in front of"
-	cont "the entrance."
+	text "To 'sAÖAPI eínai"
+	line "zvologikóº kqpoº"
+	cont "sthn eísodo."
 
-	para "Out back is the"
-	line "SAFARI GAME for"
-	cont "catching #MON."
+	para "Üísv eínai to ÜAI-"
+	line "XNI'dI 'sAÖARI gia"
+	cont "piásimo #mon."
 	done
 
 _FuchsiaCityErikText::
-	text "ERIK: Where's"
-	line "SARA? I said I'd"
-	cont "meet her here."
+	text "EPIK: Üoy eínai"
+	line "h 'sAPA? Thº eípa"
+	cont "óti ua thn dv edw."
 	done
 
 _FuchsiaCityYoungster2Text::
-	text "That item ball in"
-	line "there is really a"
-	cont "#MON."
+	text "H mpála ekeí"
+	line "eínai pragmatiká"
+	cont "éna #mon."
 	done
 
 _FuchsiaCityPokemonText::
@@ -32,86 +32,86 @@ _FuchsiaCityPokemonText::
 	done
 
 _FuchsiaCitySignText::
-	text "FUCHSIA CITY"
-	line "Behold! It's"
-	cont "Passion Pink!"
+	text "ÜO'lH FUCHSIA"
+	line "Idoú! Éxei páuoº"
+	cont "me to roz!"
 	done
 
 _FuchsiaCitySafariGameSignText::
-	text "SAFARI GAME"
-	line "#MON-U-CATCH!"
+	text "ÜAIXNI'dI 'sAÖAPI"
+	line "ÜIA'sE O'sA MÜOPEI's!"
 	done
 
 _FuchsiaCityWardensHomeSignText::
-	text "SAFARI ZONE"
-	line "WARDEN's HOME"
+	text "Z'vNH 'sAÖAPI"
+	line "'sÜITI toy ÖY'lAKA"
 	done
 
 _FuchsiaCitySafariZoneSignText::
-	text "#MON PARADISE"
-	line "SAFARI ZONE"
+	text "ÜAPA'dEI'sO's ÜOKEMON"
+	line "Z'vNH 'sAÖAPI"
 	done
 
 _FuchsiaCityGymSignText::
-	text "FUCHSIA CITY"
-	line "#MON GYM"
-	cont "LEADER: KOGA"
+	text "ÜO'lH FUCHSIA"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: KOGA"
 
-	para "The Poisonous"
-	line "Ninja Master"
+	para "O dhlhthriwdhº"
+	line "afénthº níntza"
 	done
 
 _FuchsiaCityChanseySignText::
-	text "Name: CHANSEY"
+	text "Ónoma: CHANSEY"
 
-	para "Catching one is"
-	line "all up to chance."
+	para "To na piáseiº éna"
+	line "eínai uéma túxhº."
 	prompt
 
 _FuchsiaCityVoltorbSignText::
-	text "Name: VOLTORB"
+	text "Ónoma: VOLTORB"
 
-	para "The very image of"
-	line "a # BALL."
+	para "Üistó antígrafo"
+	line "miaº ÜOKE BALL."
 	prompt
 
 _FuchsiaCityKangaskhanSignText::
-	text "Name: KANGASKHAN"
+	text "Ónoma: KANGASKHAN"
 
-	para "A maternal #MON"
-	line "that raises its"
-	cont "young in a pouch"
-	cont "on its belly."
+	para "To mhtrikó #mon"
+	line "poy megalwnei to "
+	cont "mikró toy sto má-"
+	cont "rsipo sth koiliá."
 	prompt
 
 _FuchsiaCitySlowpokeSignText::
-	text "Name: SLOWPOKE"
+	text "Ónoma: SLOWPOKE"
 
-	para "Friendly and very"
-	line "slow moving."
+	para "Öilikó kai polú"
+	line "argokínhto."
 	prompt
 
 _FuchsiaCityLaprasSignText::
-	text "Name: LAPRAS"
+	text "Ónoma: LAPRAS"
 
-	para "A.K.A. the king"
-	line "of the seas."
+	para "Epíshº gnvstó vº"
+	line "o basiliáº neroú."
 	prompt
 
 _FuchsiaCityFossilSignOmanyteText::
-	text "Name: OMANYTE"
+	text "Ónoma: OMANYTE"
 
-	para "A #MON that"
-	line "was resurrected"
-	cont "from a fossil."
+	para "To #mon poy"
+	line "gennquhke janá"
+	cont "apó apolíuvma."
 	prompt
 
 _FuchsiaCityFossilSignKabutoText::
-	text "Name: KABUTO"
+	text "Ónoma: KABUTO"
 
-	para "A #MON that"
-	line "was resurrected"
-	cont "from a fossil."
+	para "To #mon poy"
+	line "gennquhke janá"
+	cont "apó apolíuvma."
 	prompt
 
 _FuchsiaCityFossilSignUndeterminedText::

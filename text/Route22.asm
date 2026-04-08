@@ -1,104 +1,104 @@
 _Route22RivalBeforeBattleText1::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Éi!"
 	line "<PLAYER>!"
 
-	para "You're going to"
-	line "#MON LEAGUE?"
+	para "Üaº sto ÜP'vT/MA"
+	line "#mon?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any BADGEs!"
+	para "Ñéxna to! Üiuanwn"
+	line "den éxeiº kauóloy"
+	cont "EMB'lHMATA!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "O fúlakaº den"
+	line "ua se afqsei!"
 
-	para "By the way, did"
-	line "your #MON"
-	cont "get any stronger?"
+	para "En tv metajú,"
+	line "ta #mon soy"
+	cont "éginan dynatá?"
 	done
 
 _Route22RivalAfterBattleText1::
-	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	text "Ákoysa óti to"
+	line "ÜP'vT/MA éxei"
+	cont "dynatoúº ekp/teº!"
 
-	para "I have to figure"
-	line "out how to get"
-	cont "past them!"
+	para "Ürépei na dv"
+	line "pvº ua toyº"
+	cont "nikqsv!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "'stamáta na"
+	line "me kauystereíº"
+	cont "kai proxwra!"
 	done
 
 _Route22Rival1DefeatedText::
-	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	text "'vvvv!"
+	line "Aplwº qsoyn"
+	cont "tyxeróº!"
 	prompt
 
 _Route22Rival1VictoryText::
-	text "<RIVAL>: What?"
-	line "Why do I have 2"
-	cont "#MON?"
+	text "<RIVAL>: Ti?"
+	line "'riatí na éxv 2"
+	cont "#mon?"
 
-	para "You should catch"
-	cont "some more too!"
+	para "Kalútera na éxeiº"
+	cont "perissótera!"
 	prompt
 
 _Route22RivalBeforeBattleText2::
-	text "<RIVAL>: What?"
-	line "<PLAYER>! What a"
-	cont "surprise to see"
-	cont "you here!"
+	text "<RIVAL>: Ti?"
+	line "<PLAYER>! Ti"
+	cont "ékplhjh poy se"
+	cont "blépv edw!"
 
-	para "So you're going to"
-	line "#MON LEAGUE?"
+	para "üste paº gia to"
+	line "ÜP'vT/MA #mon?"
 
-	para "You collected all"
-	line "the BADGEs too?"
-	cont "That's cool!"
+	para "'súllejeº kai esy"
+	line "ola ta EMB'lHMATA?"
+	cont "Téleia!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
-	cont "#MON LEAGUE!"
+	para "Tóte ua se nikqsv"
+	line "<PLAYER> vº"
+	cont "zéstama gia to"
+	cont "ÜP'vT/MA #MON!"
 
-	para "Come on!"
+	para "Éla!"
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	text "Aytó me xalárvse!"
+	line "Eímai étoimoº gia"
+	cont "to ÜP'vTAÒ'lHMA!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "<PLAYER>, uéleiº kai"
+	line "állh propónhsh!"
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "Ma, to jéreiº"
+	line "aytó! Öeúgv apó"
+	cont "edw. Ta léme!"
 	done
 
 _Route22Rival2DefeatedText::
-	text "What!?"
+	text "Ti!?"
 
-	para "I was just"
-	line "careless!"
+	para "Aplwº qmoyn"
+	line "aprósektoº!"
 	prompt
 
 _Route22Rival2VictoryText::
-	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	text "<RIVAL>: Xaxaxa!"
+	line "<PLAYER>! Aytó"
+	cont "eínai poy mporeíº?"
+	cont "Kaneíº den eínai"
+	cont "tóso kalóº óso egw!"
 
-	para "Go train some"
-	line "more! You loser!"
+	para "Üroponqsoy kai"
+	line "állo! Xaméne!"
 	prompt
 
 _Route22PokemonLeagueSignText::
-	text "#MON LEAGUE"
-	line "Front Gate"
+	text "ÜP'vT/MA #mon"
+	line "Mprostinq Üúlh"
 	done

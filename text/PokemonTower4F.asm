@@ -1,45 +1,45 @@
 _PokemonTower4FChanneler1BattleText::
-	text "GHOST! No!"
-	line "Kwaaah!"
+	text "ÖANTÁ'sMA! Óxi!"
+	line "Kgaaax!"
 	done
 
 _PokemonTower4FChanneler1EndBattleText::
-	text "Where"
-	line "is the GHOST?"
+	text "Üoy eí-"
+	line "nai to ÖANTÁ'sMA?"
 	prompt
 
 _PokemonTower4FChanneler1AfterBattleText::
-	text "I must have been"
-	line "dreaming..."
+	text "Ürépei na"
+	line "oneireyómoyn..."
 	done
 
 _PokemonTower4FChanneler2BattleText::
-	text "Be cursed with"
-	line "me! Kwaaah!"
+	text "Éla sto skotádi"
+	line "moy! Kgaaax!"
 	done
 
 _PokemonTower4FChanneler2EndBattleText::
-	text "What!"
+	text "Ti!"
 	prompt
 
 _PokemonTower4FChanneler2AfterBattleText::
-	text "We can't crack"
-	line "the identity of"
-	cont "the GHOSTs."
+	text "'den mporoúme na"
+	line "broúme ti eínai"
+	cont "to ÖANTÁ'sMA."
 	done
 
 _PokemonTower4FChanneler3BattleText::
-	text "Huhuhu..."
-	line "Beat me not!"
+	text "Xoyxoyxoy..."
+	line "Mh me nikqseiº!"
 	done
 
 _PokemonTower4FChanneler3EndBattleText::
-	text "Huh?"
-	line "Who? What?"
+	text "Eee?"
+	line "Üoióº? Ti?"
 	prompt
 
 _PokemonTower4FChanneler3AfterBattleText::
-	text "May the departed"
-	line "souls of #MON"
-	cont "rest in peace..."
+	text "Makári oi cyxéº"
+	line "tvn #mon na"
+	cont "anapaytoún..."
 	done

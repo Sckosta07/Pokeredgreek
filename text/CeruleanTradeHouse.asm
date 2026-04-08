@@ -1,9 +1,9 @@
 _CeruleanTradeHouseGrannyText::
-	text "My husband likes"
-	line "trading #MON."
+	text "O súzhgoº moy"
+	line "syllégei #mon."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "An syllégeiº,"
+	line "ua mporoúseº"
+	cont "na antallájeiº"
+	cont "mazí toy?"
 	done

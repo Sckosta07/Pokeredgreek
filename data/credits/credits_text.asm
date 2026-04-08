@@ -69,10 +69,10 @@ CreditsTextPointers:
 
 CredVersion:
 IF DEF(_RED)
-	db -8, "RED VERSION STAFF@"
+	db -8, "OMA'dA ANAÜT. KOKK.@"
 ENDC
 IF DEF(_BLUE)
-	db -8, "BLUE VERSION STAFF@"
+	db -8, "OMA'dA ANAÜT. MÜ'lE@"
 ENDC
 CredTajiri:
 	db -6, "SATOSHI TAJIRI@"
@@ -129,37 +129,37 @@ CredTaNakamura:
 CredYuda:
 	db -6, "MASAMITSU YUDA@"
 CredMon:
-	db -3, "#MON@"
+	db -3, "#mon@"
 CredDirector:
-	db -3, "DIRECTOR@"
+	db -3, "'dIEYÒ. ÉP'rOY@"
 CredProgrammers:
-	db -5, "PROGRAMMERS@"
+	db -5, "ÜPO'rPAMMATI'sTE's@"
 CredCharDesign:
-	db -7, "CHARACTER DESIGN@"
+	db -7, "'sXE'd. XAPAKTHP'vN@"
 CredMusic:
-	db -2, "MUSIC@"
+	db -2, "MOY'sIKH@"
 CredSoundEffects:
-	db -6, "SOUND EFFECTS@"
+	db -6, "HXHTIKA EÖE@"
 CredGameDesign:
-	db -5, "GAME DESIGN@"
+	db -5, "'sXE'd. ÜAIXNI'dIOY@"
 CredMonsterDesign:
-	db -6, "MONSTER DESIGN@"
+	db -6, "'sXE'd. MONSTER@"
 CredGameScene:
-	db -6, "GAME SCENARIO@"
+	db -6, "'sENAPIO GAME@"
 CredParam:
-	db -8, "PARAMETRIC DESIGN@"
+	db -8, "'sXE'd. ÜAPAMETP'vN@"
 CredMap:
-	db -4, "MAP DESIGN@"
+	db -4, "'sXE'dIA'sH XAPTH@"
 CredTest:
-	db -7, "PRODUCT TESTING@"
+	db -7, "TE'sT ÜPOöONTO's@"
 CredSpecial:
-	db -6, "SPECIAL THANKS@"
+	db -6, "EI'd. EYXAPI'sTIE's@"
 CredProducers:
-	db -4, "PRODUCERS@"
+	db -4, "ÜAPA'r'v'rOI@"
 CredProducer:
-	db -4, "PRODUCER@"
+	db -4, "ÜAPA'r'v'rO's@"
 CredExecutive:
-	db -8, "EXECUTIVE PRODUCER@"
+	db -8, "EKTE'l. ÜAPA'r'v'rO's@"
 CredTamada:
 	db -6, "SOUSUKE TAMADA@"
 CredSaOota:
@@ -169,9 +169,9 @@ CredYoshikawa:
 CredToOota:
 	db -6, "TOMOMICHI OOTA@"
 CredUSStaff:
-	db -7, "US VERSION STAFF@"
+	db -7, "OM. ANAÜTHÑH's HÜA@"
 CredUSCoord:
-	db -7, "US COORDINATION@"
+	db -7, "'sYNTONI'sMO's HÜA@"
 CredTilden:
 	db -5, "GAIL TILDEN@"
 CredKawakami:
@@ -183,9 +183,9 @@ CredGiese:
 CredOsborne:
 	db -5, "SARA OSBORNE@"
 CredTrans:
-	db -7, "TEXT TRANSLATION@"
+	db -7, "E'l'lHNIKH METAÖPA'sH@"
 CredOgasawara:
-	db -6, "NOB OGASAWARA@"
+	db -6, "SCKOSTA@"
 CredIwata:
 	db -5, "SATORU IWATA@"
 CredIzushi:

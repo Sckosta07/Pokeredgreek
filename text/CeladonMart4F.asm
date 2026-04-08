@@ -1,26 +1,26 @@
 _CeladonMart4FSuperNerdText::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Üaírnv mia #"
+	line "KOYK'lA gia thn"
+	cont "fílh moy!"
 	done
 
 _CeladonMart4FYoungsterText::
-	text "I heard something"
-	line "useful."
+	text "Ákoysa káti"
+	line "xrqsimo."
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "Mporeíº na je-"
+	line "fúgeiº apó ágria"
+	cont "#mon bázontaº"
+	cont "mía ÜOKE KOYK'lA!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Express yourself"
-	line "with gifts!"
+	text "Ekfrásoy me"
+	line "dwra!"
 
-	para "4F: WISEMAN GIFTS"
+	para "4oº:'d'vPA toy 'sOÖOY"
 
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "Eidikq ejélijh!"
+	line "Twra diauésimeº"
+	cont "ÜETPE's stoixeívn!"
 	done

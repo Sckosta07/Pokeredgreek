@@ -1,86 +1,86 @@
 _WardensHouseWardenGibberish1Text::
-	text "WARDEN: Hif fuff"
-	line "hefifoo!"
+	text "ÖY'lAKA's: xif faf"
+	line "xefifoy!"
 
-	para "Ha lof ha feef ee"
-	line "hafahi ho. Heff"
-	cont "hee fwee!"
+	para "xa lof xa fif ee"
+	line "xafaxi xo. xeff"
+	cont "xee fgee!"
 	done
 
 _WardensHouseWardenGibberish2Text::
-	text "Ah howhee ho hoo!"
-	line "Eef ee hafahi ho!"
+	text "Ax xoyxee xo xoy!"
+	line "eef ee xafaxi xo!"
 	done
 
 _WardensHouseWardenGibberish3Text::
-	text "Ha? He ohay heh"
-	line "ha hoo ee haheh!"
+	text "xa? xe oxay xex"
+	line "xa xoo ee xaxex!"
 	done
 
 _WardensHouseWardenGaveTheGoldTeethText::
-	text "<PLAYER> gave the"
-	line "GOLD TEETH to the"
-	cont "WARDEN!@"
+	text "o <PLAYER> édvse"
+	line "xrysó dónti ston"
+	cont "fúlaka!@"
 	text_end
 
 _WardensHouseWardenTeethPoppedInHisTeethText::
 	text_start
 
-	para "The WARDEN popped"
-	line "in his teeth!"
+	para "o fúlakaº ébale"
+	line "to dónti toy!"
 	prompt
 
 _WardensHouseWardenThanksText::
-	text "WARDEN: Thanks,"
-	line "kid! No one could"
-	cont "understand a word"
-	cont "that I said."
+	text "ÖY'lAKA's: Eyxaristw"
+	line "mikré! Kaneíº den"
+	cont "katalábaine oúte"
+	cont "léjh poy eípa."
 
-	para "I couldn't work"
-	line "that way."
-	cont "Let me give you"
-	cont "something for"
-	cont "your trouble."
+	para "'den mporoúsa"
+	line "na ergastw étsi."
+	cont "Áse me na dwsv"
+	cont "káti gia ton"
+	cont "kópo soy."
 	prompt
 
 _WardensHouseWardenReceivedHM04Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _WardensHouseWardenHM04ExplanationText::
-	text "WARDEN: HM04"
-	line "teaches STRENGTH!"
+	text "ÖY'lAKA's: To HM04"
+	line "mauaínei 'dYNAMH!"
 
-	para "It lets #MON"
-	line "move boulders"
-	cont "when you're out-"
-	cont "side of battle."
+	para "Ta #mon"
+	line "kinoún bráxoyº"
+	cont "ótan eísai"
+	cont "ektóº máxhº."
 
-	para "Oh yes, did you"
-	line "find SECRET HOUSE"
-	cont "in SAFARI ZONE?"
+	para "'v nai, brqkeº to"
+	line "mystikó spíti sthn"
+	cont "zwnh 'sAÖAPI?"
 
-	para "If you do, you"
-	line "win an HM!"
+	para "An to breiº,"
+	line "paírneiº HM!"
 
-	para "I hear it's the"
-	line "rare SURF HM."
+	para "Ákoysa pvº"
+	line "eínai to 'sEPÖ HM."
 	done
 
 _WardensHouseWardenHM04NoRoomText::
-	text "Your pack is"
-	line "stuffed full!"
+	text "O sákoº soy"
+	line "eínai gemátoº!"
 	done
 
 _WardensHouseDisplayPhotosAndFossilsText::
-	text "#MON photos"
-	line "and fossils."
+	text "Övtografíeº"
+	line "kai apoliuwmata."
 	done
 
 _WardensHouseDisplayMerchandiseText::
-	text "Old #MON"
-	line "merchandise."
+	text "Üalia proìónta"
+	line "#mon."
 	done

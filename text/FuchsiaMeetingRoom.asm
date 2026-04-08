@@ -1,26 +1,26 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
-	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	text "Bgálame ceydwnymo,"
+	line "ÖY'lAKA's SLOWPOKE."
 
-	para "He and SLOWPOKE"
-	line "both look vacant!"
+	para "Aytóº kai to SLOW-"
+	line "POKE eínai ídioi!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "SLOWPOKE is very"
-	line "knowledgeable"
-	cont "about #MON!"
+	text "O SLOWPOKE jérei"
+	line "pára pollá gia"
+	cont "ta #mon!"
 
-	para "He even has some"
-	line "fossils of rare,"
-	cont "extinct #MON!"
+	para "Éxei kai meriká"
+	line "apoliuwmata,"
+	cont "xaménvn #mon!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
-	line "but I couldn't"
-	cont "understand him."
+	text "O SLOWPOKE qrue,"
+	line "ma den mporoúsa"
+	cont "na ton katalábv."
 
-	para "I think he's got"
-	line "a speech problem!"
+	para "Nomízv pvº éxei"
+	line "problqma omilíaº!"
 	done

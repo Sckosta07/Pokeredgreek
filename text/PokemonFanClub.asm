@@ -1,90 +1,90 @@
 _PokemonFanClubPikachuFanNormalText::
-	text "Won't you admire"
-	line "my PIKACHU's"
-	cont "adorable tail?"
+	text "'den uaymázeiº"
+	line "thn glykoúla oyrá"
+	cont "toy PIKACHU?"
 	done
 
 _PokemonFanClubPikachuFanBetterText::
-	text "Humph! My PIKACHU"
-	line "is twice as cute"
-	cont "as that one!"
+	text "Xamf! To PIKACHU"
+	line "moy eínai diplá"
+	cont "xaritvméno!"
 	done
 
 _PokemonFanClubSeelFanNormalText::
-	text "I just love my"
-	line "SEEL!"
+	text "'latreúv to"
+	line "SEEL moy!"
 
-	para "It squeals when I"
-	line "hug it!"
+	para "Övnázei ótan"
+	line "to agkaliázv!"
 	done
 
 _PokemonFanClubSeelFanBetterText::
-	text "Oh dear!"
+	text "'v fíle!"
 
-	para "My SEEL is far"
-	line "more attractive!"
+	para "To SEEL moy eínai"
+	line "pio gohteytikó!"
 	done
 
 _PokemonFanClubPikachuText::
-	text "PIKACHU: Chu!"
-	line "Pikachu!"
+	text "PIKACHU: Tsoy!"
+	line "Üíkatsoy!"
 	done
 
 _PokemonFanClubSeelText::
-	text "SEEL: Kyuoo!"
+	text "SEEL: Kyoyoy!"
 	done
 
 _PokemonFanClubChairmanIntroText::
-	text "I chair the"
-	line "#MON Fan Club!"
+	text "Eímai o próedroº"
+	line "toy fan klamp!"
 
-	para "I have collected"
-	line "over 100 #MON!"
+	para "Éxv sylléjei pánv"
+	line "apó 100 #mon!"
 
-	para "I'm very fussy"
-	line "when it comes to"
-	cont "#MON!"
+	para "Eímai polú sxo-"
+	line "lastikóº ótan eí-"
+	cont "nai gia #mon!"
 
-	para "So..."
+	para "'loipón..."
 
-	para "Did you come"
-	line "visit to hear"
-	cont "about my #MON?"
+	para "Ìrueº na"
+	line "akoúseiº gia"
+	cont "ta #mon moy?"
 	done
 
 _PokemonFanClubChairmanStoryText::
-	text "Good!"
-	line "Then listen up!"
+	text "'vraía!"
+	line "Ákoyse me tóte!"
 
-	para "My favorite"
-	line "RAPIDASH..."
+	para "To agaphméno"
+	line "RAPIDASH moy..."
 
-	para "It...cute..."
-	line "lovely...smart..."
-	cont "plus...amazing..."
-	cont "you think so?..."
-	cont "oh yes...it..."
-	cont "stunning..."
-	cont "kindly..."
-	cont "love it!"
+	para "...Xaritvméno..."
+	line "'rlykó...Éjypno..."
+	cont "'syn...Ypéroxo..."
+	cont "'den nomízeiº?..."
+	cont "'v nai..."
+	cont "Üanémorfo..."
+	cont "Aplá...To..."
+	cont "'latreúv!"
 
-	para "Hug it...when..."
-	cont "sleeping...warm"
-	cont "and cuddly..."
-	cont "spectacular..."
-	cont "ravishing..."
-	cont "...Oops! Look at"
-	cont "the time! I kept"
-	cont "you too long!"
+	para "Agkáliase...To..."
+	cont "Koimátai...Zestó"
+	cont "kai xnoydvtó..."
+	cont "Entypvsiakó..."
+	cont "Òaymásio..."
+	cont "...Oypº! Koíta"
+	cont "thn wra! 'se"
+	cont "kráthsa polú!"
 
-	para "Thanks for hearing"
-	line "me out! I want"
-	cont "you to have this!"
+	para "Eyxaristw poy"
+	line "me ákoyseº! Òélv"
+	cont "na páreiº aytó!"
 	prompt
 
 _PokemonFanClubReceivedBikeVoucherText::
-	text "<PLAYER> received"
-	line "a @"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -92,54 +92,54 @@ _PokemonFanClubReceivedBikeVoucherText::
 _PokemonFanClubExplainBikeVoucherText::
 	text_start
 
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "Antállaje to me"
+	line "éna 'dIKYK'lO!"
 
-	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	para "Mhn skaº, to"
+	line "FEAROW me páei"
+	cont "pantoú ÜETüNTA's!"
 
-	para "So, I don't need a"
-	line "BICYCLE!"
+	para "Étsi, den uélv"
+	line "kanéna 'dIKYK'lO!"
 
-	para "I hope you like"
-	line "cycling!"
+	para "Elpízv na"
+	line "soy arései!"
 	done
 
 _PokemonFanClubNoStoryText::
-	text "Oh. Come back"
-	line "when you want to"
-	cont "hear my story!"
+	text "'v, éla janá otan"
+	line "uéleiº na akoúº"
+	cont "thn istoría moy!"
 	done
 
 _PokemonFanClubChairFinalText::
-	text "Hello, <PLAYER>!"
+	text "'reia, <PLAYER>!"
 
-	para "Did you come see"
-	line "me about my"
-	cont "#MON again?"
+	para "Ìrueº gia na"
+	line "deiº ta #mon"
+	cont "moy janá?"
 
-	para "No? Too bad!"
+	para "Óxi? polú kríma!"
 	done
 
 _PokemonFanClubBagFullText::
-	text "Make room for"
-	line "this!"
+	text "Káne xwro"
+	line "gi' aytó!"
 	done
 
 _PokemonFanClubReceptionistText::
-	text "Our Chairman is"
-	line "very vocal about"
-	cont "#MON."
+	text "O próedroº maº"
+	line "miláei polú"
+	cont "gia #mon."
 	done
 
 _PokemonFanClubSign1Text::
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers!"
+	text "Aº akoúsoyme"
+	line "eygeniká álloyº"
+	cont "ekpaideytéº!"
 	done
 
 _PokemonFanClubSign2Text::
-	text "If someone brags,"
-	line "brag right back!"
+	text "Kayxiétai kápoioº?"
+	line "'riatí óxi kai esú!"
 	done

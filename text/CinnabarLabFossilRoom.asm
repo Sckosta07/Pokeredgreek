@@ -1,78 +1,78 @@
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hiya!"
+	text "Xaìgia!"
 
-	para "I am important"
-	line "doctor!"
+	para "Eímai shmantikóº"
+	line "dwktor!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "Meletw spánia"
+	line "apoliuwmata!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "Esú! Éxeiº apo-"
+	line "líuvma gia eména?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No! Is too bad!"
+	text "Óxi! Kakó aytó!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "I take a little"
-	line "time!"
+	text "Òa párei"
+	line "lígo xróno!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Üqgaine mia"
+	line "mikrq bólta!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Where were you?"
+	text "Üoy qsoyn esú?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "To apolíuvma soy"
+	line "epéstrece sth zvq!"
 
-	para "It was @"
+	para "Ìtan éna @"
 	text_ram wStringBuffer
 	text_start
-	line "like I think!"
+	line "ópvº nómiza!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! That is"
+	text "'v! Eínai éna"
 	line "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "It is fossil of"
+	para "einai apoliuvma"
 	line "@"
 	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text ", éna"
+	cont "#mon poy"
+	cont "éxei ejafanisteí!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "H mhxanq aná-"
+	line "stashº moy ua"
+	cont "dwsei sto #mon"
+	cont "zvq janá!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "So! You hurry and"
-	line "give me that!"
+	text "Opóte! 'dwse moy"
+	line "grqgora aytó!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "O <PLAYER> édvse"
+	line "to @"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "I take a little"
-	line "time!"
+	text "Òa párei"
+	line "lígo xróno!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Üqgaine mia"
+	line "mikrq bólta!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Aiyah! You come"
-	line "again!"
+	text "Aùgiax! Ìrueº"
+	line "janá!"
 	done

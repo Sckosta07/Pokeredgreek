@@ -1,22 +1,22 @@
 _VermilionPidgeyHouseYoungsterText::
-	text "I'm getting my"
-	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
-	cont "in the north!"
+	text "Mauaínv sto"
+	line "PIDGEY moy na"
+	cont "petájei me grámma"
+	cont "sth SAFFRON!"
 	done
 
 _VermilionPidgeyHousePidgeyText::
-	text "PIDGEY: Kurukkoo!@"
+	text "PIDGEY: Koyroykoy!@"
 	text_end
 
 _VermilionPidgeyHouseLetterText::
-	text "Dear PIPPI, I hope"
-	line "to see you soon."
+	text "Agaphte PIPPI,"
+	line "elpízv na se dv."
 
-	para "I heard SAFFRON"
-	line "has problems with"
-	cont "TEAM ROCKET."
+	para "Ákoysa pvº h"
+	line "SAFFRON éxei"
+	cont "problqmata."
 
-	para "VERMILION appears"
-	line "to be safe."
+	para "H VERMILION"
+	line "eínai asfalqº."
 	done

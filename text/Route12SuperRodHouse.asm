@@ -1,23 +1,23 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "O 'rKOYPOY eínai "
+	line "adelfóº moy!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Aplwº latreúv"
+	line "to cárema!"
 
-	para "Do you like to"
-	line "fish?"
+	para "'soy arésoyn"
+	line "ta cária?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "'spoydaía! 'se"
+	line "sympáuhsa!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Üáre aytó kai"
+	line "cárece, fíle moy!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,38 +25,38 @@ _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "To cárema eínai"
+	line "trópoº zvqº!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "Apó uálasseº sta"
+	line "potámia, pqgaine"
+	cont "kai piáse éna"
+	cont "megálo cári!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "'v... Aytó eínai"
+	line "apogohteytikó..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hello there,"
+	text "'reia soy,"
 	line "<PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Bále to YÜEPKA'lAMI"
+	line "se káue neró!"
+	cont "Mporeí na piásei"
+	cont "diaforetiká eídh"
+	cont "apó #mon."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "ñárece ópote"
+	line "mporeíº!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "'vx óxi!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Éxv éna dwro gia"
+	line "eséna, ma den"
+	cont "éxeiº állo xwro!"
 	done

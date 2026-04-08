@@ -1,20 +1,20 @@
 _FuchsiaPokecenterRockerText::
-	text "You can't win"
-	line "with just one"
-	cont "strong #MON."
+	text "'den ua nikq-"
+	line "seiº me éna"
+	cont "dynató #mon."
 
-	para "It's tough, but"
-	line "you have to raise"
-	cont "them evenly."
+	para "Eínai sklhró, ma"
+	line "prépei na ta me-"
+	cont "galwseiº díkaia."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
-	text "There's a narrow"
-	line "trail west of"
-	cont "VIRIDIAN CITY."
+	text "Eínai énaº stenóº"
+	line "drómoº dytiká thº"
+	cont "ÜO'lH's VIRIDIAN."
 
-	para "It goes to #MON"
-	line "LEAGUE HQ."
-	cont "The HQ governs"
-	cont "all trainers."
+	para "paei sta KENTPIKA"
+	line "ÜP'vTAÒ'lHMATO's."
+	cont "Aytá ephreázoyn"
+	cont "toyº ekpaideytéº."
 	done

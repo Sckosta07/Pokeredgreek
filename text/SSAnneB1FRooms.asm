@@ -1,114 +1,114 @@
 _SSAnneB1FRoomsMachokeText::
-	text "MACHOKE: Gwoh!"
-	line "Goggoh!@"
+	text "MACHOKE: 'rkgox!"
+	line "'rogkox!@"
 	text_end
 
 _SSAnneB1FRoomsSailor1BattleText::
-	text "You know what they"
-	line "say about sailors"
-	cont "and fighting!"
+	text "Ñéreiº ti léne"
+	line "gia toyº naúteº"
+	cont "kai tiº máxeº!"
 	done
 
 _SSAnneB1FRoomsSailor1EndBattleText::
-	text "Right!"
-	line "Good fight, mate!"
+	text "'svstá!"
+	line "Kalq máxh, fíle!"
 	prompt
 
 _SSAnneB1FRoomsSailor1AfterBattleText::
-	text "Haha! Want to be"
-	line "a sailor, mate?"
+	text "Xaxa! Òa gíneiº"
+	line "naúthº, fíle?"
 	done
 
 _SSAnneB1FRoomsSailor2BattleText::
-	text "My sailor's pride"
-	line "is at stake!"
+	text "H perhfánia moy"
+	line "vº naúthº xálase!"
 	done
 
 _SSAnneB1FRoomsSailor2EndBattleText::
-	text "Your"
-	line "spirit sank me!"
+	text "To pneúma"
+	line "soy eínai dynató!"
 	prompt
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
-	text "Did you see the"
-	line "FISHING GURU in"
-	cont "VERMILION CITY?"
+	text "Eídeº ton 'rKOYPOY"
+	line "toy ñAPEMATO's sth"
+	cont "ÜO'lH VERMILION?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
-	text "Us sailors have"
-	line "#MON too!"
+	text "Emeíº oi naúteº"
+	line "éxoyme #mon!"
 	done
 
 _SSAnneB1FRoomsSailor3EndBattleText::
 	text "OK, "
-	line "you're not bad."
+	line "eísai kalóº."
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
-	text "We caught all our"
-	line "#MON while"
-	cont "out at sea!"
+	text "Üiásame óla ta"
+	line "#mon apó thn"
+	cont "uálassa!"
 	done
 
 _SSAnneB1FRoomsSailor4BattleText::
-	text "I like feisty"
-	line "kids like you!@"
+	text "'vraía ta dynamiká"
+	line "paidiá ópvº esú!@"
 	text_end
 
 _SSAnneB1FRoomsSailor4EndBattleText::
-	text "Argh!"
-	line "Lost it!"
+	text "Argkx!"
+	line "Éxasa!"
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Sea #MON live"
-	line "in deep water."
-	cont "You'll need a ROD!"
+	text "Òalássia #mon"
+	line "zoyn sth uálassa."
+	cont "Xreiázesai KA'lAMI!"
 	done
 
 _SSAnneB1FRoomsSailor5BattleText::
-	text "Matey, you're"
-	line "walking the plank"
-	cont "if you lose!"
+	text "Öíle, perpatáº"
+	line "sth sanída an"
+	cont "xáseiº twra!"
 	done
 
 _SSAnneB1FRoomsSailor5EndBattleText::
-	text "Argh!"
-	line "Beaten by a kid!"
+	text "Nikquhka"
+	line "apó éna paidí!"
 	prompt
 
 _SSAnneB1FRoomsSailor5AfterBattleText::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "Oi tsoúxtreº me-"
+	line "rikéº foréº páne"
+	cont "mazí me to ploío."
 	done
 
 _SSAnneB1FRoomsFisherBattleText::
-	text "Hello stranger!"
-	line "Stop and chat!"
+	text "'reia jéne! Kátse"
+	line "na milqsoyme!"
 
-	para "All my #MON"
-	line "are from the sea!"
+	para "Óla ta #mon moy"
+	line "eínai ualassiná!"
 	done
 
 _SSAnneB1FRoomsFisherEndBattleText::
-	text "Darn!"
-	line "I let that one"
-	cont "get away!"
+	text "Ötoy! Áfhsa"
+	line "éna na moy"
+	cont "jefúgei!"
 	prompt
 
 _SSAnneB1FRoomsFisherAfterBattleText::
-	text "I was going to"
-	line "make you my"
-	cont "assistant too!"
+	text "Òa se ékana"
+	line "bohuó moy"
+	cont "prin apó lígo!"
 	done
 
 _SSAnneB1FRoomsSuperNerdText::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "To MACHOKE, eínai"
+	line "soúper dynató!"
 
-	para "He has enough"
-	line "STRENGTH to move"
-	cont "big rocks!"
+	para "Éxei arketq 'dYNAMH"
+	line "gia na koynqsei"
+	cont "dúo bráxoyº!"
 	done

@@ -1,35 +1,35 @@
 _UndergroundPathRoute7CopyUnusedGirlText::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Òélv na páv sto"
+	line "PO'lYKATA'sTHMA thº"
+	cont "CELADON allá..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "Ypárxoyn pollá"
+	line "agenq blémata"
+	cont "ekeí péra."
 	done
 
 _UndergroundPathRoute7CopyUnusedTeamRocketHadAHideoutText::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
-	cont "CELADON CITY?"
+	text "H OMA'dA ÜYPAY'lO's"
+	line "éxei krycwna sth"
+	cont "CELADON?"
 	done
 
 _UndergroundPathRoute7CopyUnusedMiddleAgedManText::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Eísai edw gia"
+	line "cwnia sth CELADON?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Aplá bgeº éjv"
+	line "kai tréxa dytiká!"
 	done
 
 _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "O YÜO'rEIO'S 'dPOMO's"
+	line "páei kátv apó th"
+	cont "SAFFRON kai odh-"
+	cont "geí sth LAVENDER."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "An phgaíneiº sth"
+	line "CERULEAN, tréxa"
+	cont "sto ktqrio poy"
+	cont "odhgeí ston drómo."
 	done

@@ -1,7 +1,7 @@
 _SSAnne3FSailorText::
-	text "Our CAPTAIN is a"
-	line "sword master!"
+	text "O KAÜETANIO's eínai"
+	line "dáskaloº spauiwn!"
 
-	para "He even teaches"
-	line "CUT to #MON!"
+	para "'didáskei kai to"
+	line "KOÜH se #mon!"
 	done

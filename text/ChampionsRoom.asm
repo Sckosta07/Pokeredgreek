@@ -1,84 +1,84 @@
 _ChampionsRoomRivalIntroText::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Éi!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "Écaxna gia"
+	line "eséna twra,"
+	cont "<PLAYER>!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "O antípaloº moy"
+	line "prépei na eínai"
+	cont "dynatóº twra!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "Óso doúleya me to"
+	line "#ntej, écaxna"
+	cont "pantoú gia"
+	cont "dynatá #mon!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "Óxi móno aytó,"
+	line "éftiaja omádeº!"
+	cont "Nikáne káue"
+	cont "túpo #mon!"
 
-	para "And now!"
+	para "Kai twra!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "Eímai o ÜP'vTAÒ'lH-"
+	line "TH's tvn #mon!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "<PLAYER>! Ñéreiº"
+	line "ti shmaínei"
+	cont "aytó?"
 
-	para "I'll tell you!"
+	para "Egw ua soy pv!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "Eímai o pio"
+	line "dynatóº ekp/thº"
+	cont "ston kósmo!"
 	done
 
 _RivalDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "Óxi! 'den"
+	line "gínetai!"
+	cont "Nikquhka páli!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "Metá ap' ólh"
+	line "th doyleia na"
+	cont "gínv ÜP'vTAÒ'lHTH's?"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "H basileía moy"
+	line "teleívse qdh?"
+	cont "Adikía!"
 	prompt
 
 _RivalVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "Xaxaxa!"
+	line "Níkhsa, níkhsa!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "Eímai polú ka-"
+	line "lóº gia eséna, e?"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "Kalá ékanes"
+	line "na me ftáseiº."
+	cont "O <RIVAL>, o éjy-"
+	cont "pnos sta #mon!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "Apétyxeº, xaméne!"
+	line "Xaxaxa!"
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Why?"
-	line "Why did I lose?"
+	text "'riatí?"
+	line "'riatí na xásv?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "'den ékana poté"
+	line "láuh dynamónv-"
+	cont "ntaº ta #mon."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "Ötoy! Eísai o"
+	line "néoº ÜP'vTAÒ'lHTH's"
+	cont "tvn #mon!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "Óso kai an den"
+	line "uélv na to dextw."
 	done
 
 _ChampionsRoomOakText::
@@ -86,61 +86,61 @@ _ChampionsRoomOakText::
 	done
 
 _ChampionsRoomOakCongratulatesPlayerText::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "OAK: Níkhseº!"
+	line "'sygxarhtqria!"
+	cont "Eísai o néoº"
+	cont "ÜP'vTAÒ'lHTH's tvn"
+	cont "#mon!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
-	cont "@"
+	para "Éxeiº megalwsei"
+	line "tóso apó tóte"
+	cont "poy éfygeº me"
+	cont "to @"
 	text_ram wNameBuffer
 	text "!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
+	para "<PLAYER>, éxeiº"
+	line "enhlikivueí pia!"
 	done
 
 _ChampionsRoomOakDisappointedWithRivalText::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+	text "OAK: <RIVAL>!"
+	line "Apogohteúthka!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "Ìrua ótan ákoy-"
+	line "sa óti níkhseº"
+	cont "toyº 4 E'lIT!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "Ma, ótan"
+	line "éftasa, eíxeº"
+	cont "qdh xásei!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+	para "<RIVAL>! Mqpvº"
+	line "katalabaíneiº"
+	cont "giatí éxaseº?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "Ñéxaseº na"
+	line "ferueíº sta"
+	cont "#mon soy me"
+	cont "agáph kai písth!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "Xvríº aytá, den"
+	line "ua gíneiº janá"
+	cont "prvtaulhtqº!"
 	done
 
 _ChampionsRoomOakComeWithMeText::
 	text "OAK: <PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "Katalabaíneiº"
+	line "óti h níkh soy"
+	cont "den qtan aplwº"
+	cont "dikq soy!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "O desmóº poy"
+	line "moirázesai mazí"
+	cont "toyº uaymázetai!"
 
 	para "<PLAYER>!"
-	line "Come with me!"
+	line "Éla mazí moy!"
 	done

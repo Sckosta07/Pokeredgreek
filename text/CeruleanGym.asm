@@ -1,133 +1,133 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "'reia, eísai"
+	line "néa fátsa!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "Ekpaideytéº poy"
+	line "eínai kaloí éxoyn"
+	cont "taktikq sxetiká"
+	cont "me ta #mon!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "Üoiá eínai h"
+	line "taktikq soy otan"
+	cont "piáneiº #mon?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "H dikq moy eínai"
+	line "polú epiuetikq"
+	cont "me túpoy neroú"
+	cont "#mon!"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "TM11 mauainei"
+	line "AKTINA ÒOY'sKA!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Bálto se éna"
+	line "#mon Neroú!"
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "to NEPOEMB'lHMA"
+	line "kánei óla ta #"
+	cont "mon L30 ypákoya!"
 
-	para "That includes"
-	line "even outsiders!"
+	para "Akóma kai aytá"
+	line "poy ua piáseiº!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "Epipléon, mporeíº"
+	line "na káneiº KOÜH"
+	cont "ópote uéleiº!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "Òa kóbeiº twra"
+	line "uámnoyº gia"
+	cont "néoyº drómoyº!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "Üáre epíshº to ag"
+	line "gaphméno moy TM!"
 	done
 
 _CeruleanGymMistyReceivedTM11Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "TM11!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "Káne xwro gia"
+	line "aytó twra!"
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
-	text "Wow!"
-	line "You're too much!"
+	text "Oyáoy!"
+	line "Eísai apísteytoº!"
 
-	para "All right!"
+	para "Entájei!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+	para "Mporeíº na páreiº"
+	line "to NEPOMB'lHMA"
+	cont "epeidq níkhseº!@"
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Eímai arketq"
+	line "gia eséna!"
 
-	para "MISTY can wait!"
+	para "Òa se stamatqsv!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text "Esú,"
+	line "me katatrópvseº!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Ürépei na nikqseiº"
+	line "kai álloyº gia"
+	cont "na deiº póso"
+	cont "kalóº eísai."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "'splaº!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Egw prwta!"
+	line "Üáme!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "'den"
+	line "gínetai aytó!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "H MI'sTY synexízei"
+	line "na beltiwnetai!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "'den ua xásei apó"
+	line "kápoion san eséna!"
 	done
 
 _CeruleanGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "Here's my advice!"
+	para "Oríste symboylq!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "H H'rETH's, h MI'sTY,"
+	line "eínai kalq sto na"
+	cont "bázei túpoy neroú!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Mporeíº na ste-"
+	line "gnwseiº to neró"
+	cont "me #mon fytá!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "Ì, sókare ta me"
+	line "hlektrismó!"
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Níkhseº thn MI'sTY!"
+	line "Ti soy élega?"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Esú kai egw mikré,"
+	line "kánoyme polú"
+	cont "kalq omáda!"
 	done

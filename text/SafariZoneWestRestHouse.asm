@@ -1,19 +1,19 @@
 _SafariZoneWestRestHouseScientistText::
-	text "Tossing ROCKs at"
-	line "#MON might"
-	cont "make them run,"
-	cont "but they'll be"
-	cont "easier to catch."
+	text "Üetwntaº ÜETPE's"
+	line "se #mon ta"
+	cont "kánei na tréxoyn,"
+	cont "ma eínai pio"
+	cont "eúkola."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
-	text "Using BAIT will"
-	line "make #MON"
-	cont "easier to catch."
+	text "Bázontaº 'dO'l'vMA"
+	line "se #mon ua ta"
+	cont "piásei pio eúkola."
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::
-	text "I hiked a lot, but"
-	line "I didn't see any"
-	cont "#MON I wanted."
+	text "Üerpáthsa polú,"
+	line "ma den eída ka-"
+	cont "néna poy na quela."
 	done

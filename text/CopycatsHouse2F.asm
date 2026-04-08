@@ -1,34 +1,34 @@
 _CopycatsHouse2FCopycatDoYouLikePokemonText::
-	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	text "<PLAYER>: 'reia! 'soy a-"
+	line "résoyn ta #mon?"
 
-	para "<PLAYER>: Uh no, I"
-	line "just asked you."
+	para "<PLAYER>: 'vx óxi,"
+	line "móliº se rwthsa."
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+	para "<PLAYER>: Eee?"
+	line "Eísai parájenoº!"
 
-	para "COPYCAT: Hmm?"
-	line "Quit mimicking?"
+	para "MIMHTPIA: Xmm?"
+	line "Na stamatqsv?"
 
-	para "But, that's my"
-	line "favorite hobby!"
+	para "Ma, aytó eínai to"
+	line "kaló moy xómpy!"
 	prompt
 
 _CopycatsHouse2FCopycatTM31PreReceiveText::
-	text "Oh wow!"
-	line "A # DOLL!"
+	text "'v oyáoy!"
+	line "Mia ÜOKE KOYK'lA!"
 
-	para "For me?"
-	line "Thank you!"
+	para "'ria eména?"
+	line "Eyxaristw!"
 
-	para "You can have"
-	line "this, then!"
+	para "Üáre aytó mazí"
+	line "soy, tóte!"
 	prompt
 
 _CopycatsHouse2FCopycatReceivedTM31Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -36,65 +36,65 @@ _CopycatsHouse2FCopycatReceivedTM31Text::
 _CopycatsHouse2FCopycatTM31Explanation1Text::
 	text_start
 
-	para "TM31 contains my"
-	line "favorite, MIMIC!"
+	para "To TM31 periéxei"
+	line "to kaló MIMH'sH!"
 
-	para "Use it on a good"
-	line "#MON!@"
+	para "Máue to se kaló"
+	line "#mon!@"
 	text_end
 
 _CopycatsHouse2FCopycatTM31Explanation2Text::
-	text "<PLAYER>: Hi!"
-	line "Thanks for TM31!"
+	text "<PLAYER>: 'reia! Ey-"
+	line "xaristw gia TM31!"
 
-	para "<PLAYER>: Pardon?"
+	para "<PLAYER>: 'sygnwmh?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+	para "<PLAYER>: Éxei polú"
+	line "ppláka na mi-"
+	cont "moúmai káue ti?"
 
-	para "COPYCAT: You bet!"
-	line "It's a scream!"
+	para "MIMHTPIA: 'sígoyra!"
+	line "Éxei polú gélio!"
 	done
 
 _CopycatsHouse2FCopycatTM31NoRoomText::
-	text "Don't you want"
-	line "this?@"
+	text "'den to uéleiº"
+	line "aytó?@"
 	text_end
 
 _CopycatsHouse2FDoduoText::
-	text "DODUO: Giiih!"
+	text "DODUO: 'riiix!"
 
-	para "MIRROR MIRROR ON"
-	line "THE WALL, WHO IS"
-	cont "THE FAIREST ONE"
-	cont "OF ALL?"
+	para "Kaureúth,"
+	line "magikó, poió #-"
+	cont "mon eínai to"
+	cont "pio glykó?"
 	done
 
 _CopycatsHouse2FRareDollText::
-	text "This is a rare"
-	line "#MON! Huh?"
-	cont "It's only a doll!"
+	text "Eínái éna spánio"
+	line "#mon! Eee? Eí-"
+	cont "nai aplwº koúkla!"
 	done
 
 _CopycatsHouse2FSNESText::
-	text "A game with MARIO"
-	line "wearing a bucket"
-	cont "on his head!"
+	text "Üaixnídi me ton"
+	line "MARIO poy foráei"
+	cont "koybá sto kefáli!"
 	done
 
 _CopycatsHouse2FPCMySecretsText::
 	text "..."
 
-	para "My Secrets!"
+	para "Ta mystiká moy!"
 
-	para "Skill: Mimicry!"
-	line "Hobby: Collecting"
-	cont "dolls!"
-	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
+	para "Ikanóthta: Mímhsh"
+	line "Xómpy: 'syllogq"
+	cont "apó koúkleº!"
+	cont "Agaphméno #-"
+	cont "mon: CLEFAIRY!"
 	done
 
 _CopycatsHouse2FPCCantSeeText::
-	text "Huh? Can't see!"
+	text "Eee? 'den blépv!"
 	done

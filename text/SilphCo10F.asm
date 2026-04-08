@@ -1,42 +1,42 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
-	cont "I'm scared!"
+	text "Aaaaaa!"
+	cont "Öobquhka!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "Mhn peiº poyuená"
+	line "gia ta dákrya moy!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Kalwº qrueº ston"
+	line "10o! Xaíromai poy"
+	cont "ua paíjoyme!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "Me"
+	line "sókareº!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Kaló, ma h aíuoysa"
+	line "syskécevn eínai"
+	cont "énan órofo pánv!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "Baréuhka tiº"
+	line "xazomáreº soy!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "Ñémei"
+	line "na apó #mon!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "'den qtan kai polú"
+	line "xazá ta diká soy!"
+	cont "Üroxwra twra!"
 	done

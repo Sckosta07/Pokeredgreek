@@ -1,27 +1,27 @@
 _SafariZoneNorthRestHouseScientistText::
-	text "You can keep any"
-	line "item you find on"
-	cont "the ground here."
+	text "Kratáº káue prá-"
+	line "gma poy brískeiº"
+	cont "sto pátvma edw."
 
-	para "But, you'll run"
-	line "out of time if"
-	cont "you try for all"
-	cont "of them at once!"
+	para "Ma ua jemeíneiº"
+	line "apó xróno"
+	cont "an ta páreiº"
+	cont "óla me th mia!"
 	done
 
 _SafariZoneNorthRestHouseSafariZoneWorkerText::
-	text "Go to the deepest"
-	line "part of the"
-	cont "SAFARI ZONE. You"
-	cont "will win a prize!"
+	text "Tréxa gia to pio"
+	line "bauú méroº thº"
+	cont "Z'vNH's 'sAÖAPI. Òa"
+	cont "kerdíseiº brabeío!"
 	done
 
 _SafariZoneNorthRestHouseGentlemanText::
-	text "My EEVEE evolved"
-	line "into FLAREON!"
+	text "To EEVEE moy á-"
+	line "llaje se FLAREON!"
 
-	para "But, a friend's"
-	line "EEVEE turned into"
-	cont "a VAPOREON!"
-	cont "I wonder why?"
+	para "Ma, enóº fíloy"
+	line "állaje se éna"
+	cont "VAPOREON!"
+	cont "'ria poió lógo?"
 	done

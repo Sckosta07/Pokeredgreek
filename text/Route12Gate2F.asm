@@ -1,43 +1,43 @@
 _Route12Gate2FBrunetteGirlYouCanHaveThisText::
-	text "My #MON's"
-	line "ashes are stored"
-	cont "in #MON TOWER."
+	text "Ta #mon poy"
+	line "éxasa eínai ston"
+	cont "ÜYP'rO #mon."
 
-	para "You can have this"
-	line "TM. I don't need"
-	cont "it any more..."
+	para "Üáre aytó to"
+	line "TM. 'den to"
+	cont "uélv pia..."
 	prompt
 
 _Route12Gate2FBrunetteGirlReceivedTM39Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "TM39!@"
 	text_end
 
 _Route12Gate2FBrunetteGirlTM39ExplanationText::
-	text "TM39 is a move"
-	line "called SWIFT."
+	text "TM39 eínai h lego-"
+	line "menh A'sTPAÜH."
 
-	para "It's very accurate,"
-	line "so use it during"
-	cont "battles you can't"
-	cont "afford to lose."
+	para "Bolq akribeíaº."
+	line "Bálto se máxeº"
+	cont "poy den ueº"
+	cont "na xáseiº."
 	done
 
 _Route12Gate2FBrunetteGirlTM39NoRoomText::
-	text "You don't have"
-	line "room for this."
+	text "'den éxeiº xwro"
+	line "gi' aytó."
 	done
 
 _Route12Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitáº me"
+	line "ta kiália."
 
-	para "A man fishing!"
+	para "Kápoioº careúei!"
 	done
 
 _Route12Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitáº me"
+	line "ta kiália."
 
-	para "It's #MON TOWER!"
+	para "o ÜYP'rO's #mon!"
 	done

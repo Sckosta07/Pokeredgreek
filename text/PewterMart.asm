@@ -1,17 +1,17 @@
 _PewterMartYoungsterText::
-	text "A shady, old man"
-	line "got me to buy"
-	cont "this really weird"
-	cont "fish #MON!"
+	text "Énaº skiwdhº géroº"
+	line "me ébale na párv"
+	cont "aytó to parájeno"
+	cont "cári #mon!"
 
-	para "It's totally weak"
-	line "and it cost ¥500!"
+	para "Eínai polú adúnamo"
+	line "kai édvsa ¥500!"
 	done
 
 _PewterMartSuperNerdText::
-	text "Good things can"
-	line "happen if you"
-	cont "raise #MON"
-	cont "diligently, even"
-	cont "the weak ones!"
+	text "Kalá prágmata"
+	line "ua symboún an me-"
+	cont "galwseiº #mon"
+	cont "ergatiká, akóma"
+	cont "kai ta adúnama!"
 	done

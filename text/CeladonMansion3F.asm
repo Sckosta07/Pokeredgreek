@@ -1,67 +1,67 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Egw? Eímai o"
+	line "programmatistqº!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Eímai o"
+	line "grafístaº! Egw"
+	cont "se sxedíasa!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Ékana thn istoría!"
+	line "'rlykiá h ERIKA?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "M' arései kai h"
+	line "MISTY lígo!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "'v, kai h SABRINA,"
+	line "thn sympauw!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "Eínai svstó aytó?"
 
-	para "I'm the game"
-	line "designer!"
+	para "eímai o sxedia-"
+	line "stqº paixnidioú!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "'remízontaº to"
+	line "ntej htan sklhró,"
+	cont "ma den paraitoú-"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "mai! Ótan to te-"
+	line "leiwseiº peº moy!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "Oyáoy! Téleia!"
+	line "oloklqrvseº to"
+	cont "#ntej soy!"
+	cont "sygxarhtqria!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "To prógramma"
+	line "paixnidioú! Üaízo-"
+	cont "ntaº ua bgálei"
+	cont "problqmata!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Kápoioº paizei"
+	line "paixnídia antí"
+	cont "na doyleúei!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "Eínai to SCRIPT!"
+	line "kalútera na mhn"
+	cont "deiº to téloº!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Development Room"
+	line "'dvm. Anáptyjhº"
 	done

@@ -1,35 +1,35 @@
 _Route4CooltrainerF1Text::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "Áoytº! 'skóntaca"
+	line "pánv se braxódeº"
+	cont "#mon, GEODUDE!"
 	done
 
 _Route4CooltrainerF2BattleText::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "Ìrua gia to"
+	line "manitári #mon!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "'To glykó"
+	line "#mon moy!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "Mporeí na mhn éxei"
+	line "álla manitária"
+	cont "edw péra pléon."
 
-	para "I think I got"
-	line "them all."
+	para "Nomízv pvº"
+	line "ta pqra óla."
 	done
 
 _Route4MtMoonSignText::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "BN.ÖE'r'rAPI"
+	line "Eísodoº Toúnel"
 	done
 
 _Route4SignText::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "'dPOMO's 4"
+	line "BN.ÖE'r'rAPI -"
+	cont "ÜO'lH CERULEAN"
 	done

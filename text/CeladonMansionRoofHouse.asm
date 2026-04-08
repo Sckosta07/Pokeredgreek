@@ -1,10 +1,10 @@
 _CeladonMansionRoofHouseHikerText::
-	text "I know everything"
-	line "about the world"
-	cont "of #MON in"
-	cont "your GAME BOY!"
+	text "Ñérv ta pánta gia"
+	line "ton kósmo tvn"
+	cont "#mon sto"
+	cont "GAME BOY soy!"
 
-	para "Get together with"
-	line "your friends and"
-	cont "trade #MON!"
+	para "Breº fíloyº kai"
+	line "antállajte mazí"
+	cont "toyº #mon!"
 	done

@@ -1,17 +1,17 @@
 _RocketHideoutB2FRocketBattleText::
-	text "BOSS said you can"
-	line "see GHOSTs with"
-	cont "the SILPH SCOPE!"
+	text "To AÖENTIKO léei"
+	line "ua deiº ÖANTA'sMA-"
+	cont "TA me ÖAKO SILPH!"
 	done
 
 _RocketHideoutB2FRocketEndBattleText::
-	text "I"
-	line "surrender!"
+	text ""
+	line "Üaradínomai!"
 	prompt
 
 _RocketHideoutB2FRocketAfterBattleText::
-	text "The TEAM ROCKET"
-	line "HQ has 4 basement"
-	cont "floors. Can you"
-	cont "reach the BOSS?"
+	text "Ta KENTPIKA maº"
+	line "éxoyn 4 orófoyº."
+	cont "Mporeíº na ftá-"
+	cont "seiº to AÖENTIKO?"
 	done

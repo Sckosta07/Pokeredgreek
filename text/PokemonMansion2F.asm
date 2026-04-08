@@ -1,47 +1,47 @@
 _PokemonMansion2FSuperNerdBattleText::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "Üvº ua bgv?"
+	line "Aytó to méroº eí-"
+	cont "nai san pazl!"
 	done
 
 _PokemonMansion2FSuperNerdEndBattleText::
-	text "Oh no!"
-	line "My bag of loot!"
+	text "O sákoº"
+	line "me ta láfyra moy!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "Oi diakópteº"
+	line "anoigokloínoyn"
+	cont "diáforeº pórteº!"
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
-	line "Guyana,"
-	cont "South America"
+	text "Hmer.: 5 Ioylíoy"
+	line "GUYANA,"
+	cont "Nótia Amerikq"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "Éna néo #mon"
+	line "anakalúuhke bauiá"
+	cont "sth zoúgkla."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "Hmer.: 10 Ioylíoy."
+	line "Baftísame to néo"
+	cont "#mon poy ana-"
+	cont "kalúcame, MEW."
 	done
 
 _PokemonMansion2FSwitchText::
-	text "A secret switch!"
+	text "Kryfóº diakópthº!"
 
-	para "Press it?"
+	para "Òa ton patqseiº?"
 	done
 
 _PokemonMansion2FSwitchPressedText::
-	text "Who wouldn't?"
+	text "'riati óxi?"
 	prompt
 
 _PokemonMansion2FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Óxi akóma!"
 	done

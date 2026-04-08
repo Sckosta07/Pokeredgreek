@@ -1,156 +1,156 @@
 _Route25Youngster1BattleText::
-	text "Local trainers"
-	line "come here to"
-	cont "practice!"
+	text "Topikoí ekp/teº"
+	line "érxontai edw gia"
+	cont "praktikq!"
 	done
 
 _Route25Youngster1EndBattleText::
-	text "You're"
-	line "decent."
+	text "Eísai"
+	line "dynatóº."
 	prompt
 
 _Route25Youngster1AfterBattleText::
-	text "All #MON have"
-	line "weaknesses. It's"
-	cont "best to raise"
-	cont "different kinds."
+	text "Óla ta #mon"
+	line "éxoyn adynamíeº."
+	cont "Megálvse"
+	cont "diáfora eídh."
 	done
 
 _Route25Youngster2BattleText::
-	text "Dad took me to a"
-	line "great party on"
-	cont "S.S.ANNE at"
-	cont "VERMILION CITY!"
+	text "O mpampáº me pqge"
+	line "se vraío párty"
+	cont "sto S.S.ANNA sth"
+	cont "ÜO'lH VERMILION!"
 	done
 
 _Route25Youngster2EndBattleText::
-	text "I'm"
-	line "not mad!"
+	text "Eímai"
+	line "qremoº!"
 	prompt
 
 _Route25Youngster2AfterBattleText::
-	text "On S.S.ANNE, I"
-	line "saw trainers from"
-	cont "around the world."
+	text "'sto S.S.ANNA, eída"
+	line "ekpaideytéº apó"
+	cont "ólo ton kósmo."
 	done
 
 _Route25CooltrainerMBattleText::
-	text "I'm a cool guy."
-	line "I've got a girl"
-	cont "friend!"
+	text "Eímai vraíoº túpoº."
+	line "Éxv kai mia"
+	cont "fílh moy edw!"
 	done
 
 _Route25CooltrainerMEndBattleText::
-	text "Aww,"
-	line "darn..."
+	text "'vvv,"
+	line "na párei..."
 	prompt
 
 _Route25CooltrainerMAfterBattleText::
-	text "Oh well. My girl"
-	line "will cheer me up."
+	text "'v kalá. H fílh moy"
+	line "ua me yposthríjei."
 	done
 
 _Route25CooltrainerF1BattleText::
-	text "Hi! My boy"
-	line "friend is cool!"
+	text "'reiá! o fíloº moy"
+	line "eínai vraíoº!"
 	done
 
 _Route25CooltrainerF1EndBattleText::
-	text "I was in"
-	line "bad condition!"
+	text "Ìmoyn"
+	line "aproetoímasth!"
 	prompt
 
 _Route25CooltrainerF1AfterBattleText::
-	text "I wish my guy was"
-	line "as good as you!"
+	text "O fíloº moy eínai"
+	line "kalóº óso esú!"
 	done
 
 _Route25Youngster3BattleText::
-	text "I knew I had to"
-	line "fight you!"
+	text "Ìjera pvº éprepe"
+	line "na se palécv!"
 	done
 
 _Route25Youngster3EndBattleText::
-	text "I knew"
-	line "I'd lose too!"
+	text "Ìjera kai"
+	line "pvº ua éxana!"
 	prompt
 
 _Route25Youngster3AfterBattleText::
-	text "If your #MON"
-	line "gets confused or"
-	cont "falls asleep,"
-	cont "switch it!"
+	text "An to #mon"
+	line "mperdeyteí q"
+	cont "koimhueí,"
+	cont "állaje to!"
 	done
 
 _Route25CooltrainerF2BattleText::
-	text "My friend has a"
-	line "cute #MON."
-	cont "I'm so jealous!"
+	text "O fíloº moy éxei"
+	line "ómorfa #mon."
+	cont "Zhleúv tóso polú!"
 	done
 
 _Route25CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not so jealous!"
+	text "'den zhleyv"
+	line "kai tóso!"
 	prompt
 
 _Route25CooltrainerF2AfterBattleText::
-	text "You came from MT."
-	line "MOON? May I have"
-	cont "a CLEFAIRY?"
+	text "Ìrueº apó to BN."
+	line "ÖE'r'rAPI? Moy dí-"
+	cont "neiº éna CLEFAIRY?"
 	done
 
 _Route25Hiker1BattleText::
-	text "I just got down"
-	line "from MT.MOON,"
-	cont "but I'm ready!"
+	text "Móliº katébhka"
+	line "apó to BN.ÖE'r'rAPI,"
+	cont "ma eímai étoimoº!"
 	done
 
 _Route25Hiker1EndBattleText::
-	text "You"
-	line "worked hard!"
+	text "Üroponq"
+	line "uhkeº polú kalá!"
 	prompt
 
 _Route25Hiker1AfterBattleText::
-	text "Drat!"
-	line "A ZUBAT bit me"
-	cont "back in there."
+	text "Amán! Éna"
+	line "ZUBAT me"
+	cont "dágkvse."
 	done
 
 _Route25Hiker2BattleText::
-	text "I'm off to see a"
-	line "#MON collector"
-	cont "at the cape!"
+	text "Üáv na dv ton"
+	line "syllékth #mon"
+	cont "sto úcvma!"
 	done
 
 _Route25Hiker2EndBattleText::
-	text "You"
-	line "got me."
+	text "Kalá"
+	line "katálabeº."
 	prompt
 
 _Route25Hiker2AfterBattleText::
-	text "The collector has"
-	line "many rare kinds"
-	cont "of #MON."
+	text "O syllékthº éxei"
+	line "pollá spánia"
+	cont "#mon."
 	done
 
 _Route25Hiker3BattleText::
-	text "You're going to"
-	line "see BILL? First,"
-	cont "let's fight!"
+	text "Üaº na deiº ton"
+	line "BILL? Ürwta,"
+	cont "aº palécoyme!"
 	done
 
 _Route25Hiker3EndBattleText::
-	text "You're"
-	line "something."
+	text "Eísai"
+	line "polú kalóº."
 	prompt
 
 _Route25Hiker3AfterBattleText::
-	text "The trail below"
-	line "is a shortcut to"
-	cont "CERULEAN CITY."
+	text "'drómoº ekeí péra"
+	line "eínai parákamch"
+	cont "gia th CERULEAN."
 	done
 
 _Route25BillSignText::
-	text "SEA COTTAGE"
-	line "BILL lives here!"
+	text "ÒA'l. EÑOXIKO"
+	line "o BILL zei edw!"
 	done

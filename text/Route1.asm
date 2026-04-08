@@ -1,50 +1,50 @@
 _Route1Youngster1MartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "Egw doyleúv sto"
+	line "MA'rAZI ÜOKEMON."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "Eínai bolikó"
+	line "magazí, opóte"
+	cont "breº maº sthn"
+	cont "ÜO'lH VIRIDIAN."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "Ñérv, ua soy dwsv"
+	line "éna deígma!"
+	cont "Oríste!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> got"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "Epíshº poyláme"
+	line "ÜOKE BALL gia na"
+	cont "piáneiº #mon!"
 	done
 
 _Route1Youngster1NoRoomText::
-	text "You have too much"
-	line "stuff with you!"
+	text "Éxeiº pollá pra-"
+	line "gmata mazí sou!"
 	done
 
 _Route1Youngster2Text::
-	text "See those ledges"
-	line "along the road?"
+	text "Blépeiº ta anycw-"
+	line "mata ston drómo?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "Eínai tromaktiká,"
+	line "ma mporeíº na"
+	cont "péseiº apó aytá."
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "Mporeíº na paº"
+	line "sthn pólh soy"
+	cont "pio grqgora étsi."
 	done
 
 _Route1SignText::
-	text "ROUTE 1"
-	line "PALLET TOWN -"
-	cont "VIRIDIAN CITY"
+	text "'dPOMO's 1"
+	line "ÜO'lH PALLET -"
+	cont "ÜO'lH VIRIDIAN"
 	done

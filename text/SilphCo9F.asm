@@ -1,62 +1,62 @@
 SilphCo9FNurseYouLookTiredText::
-	text "You look tired!"
-	line "You should take a"
-	cont "quick nap!"
+	text "Koyrásthkeº?"
+	line "Üáre énan"
+	cont "mikró ypnáko!"
 	prompt
 
 SilphCo9FNurseDontGiveUpText::
-	text "Don't give up!"
+	text "Mhn ta paratáº!"
 	done
 
 SilphCo9FNurseThankYouText::
-	text "Thank you so"
-	line "much!"
+	text "Eyxaristw"
+	line "pará polú!"
 	done
 
 _SilphCo9FRocket1BattleText::
-	text "Your #MON seem"
-	line "to adore you, kid!"
+	text "Ta #mon"
+	line "se latreúoyn?"
 	done
 
 _SilphCo9FRocket1EndBattleText::
-	text "Ghaaah!"
+	text "'rkxaaax!"
 	prompt
 
 _SilphCo9FRocket1AfterBattleText::
-	text "If I had started"
-	line "as a trainer at"
-	cont "your age..."
+	text "An eíxa arxísei"
+	line "vº ekpaideytqº"
+	cont "sthn hlikía soy..."
 	done
 
 _SilphCo9FScientistBattleText::
-	text "Your #MON have"
-	line "weak points! I"
-	cont "can nail them!"
+	text "Ta #mon éxoyn"
+	line "adúnama shmeía!"
+	cont "Mporw na ta pv!"
 	done
 
 _SilphCo9FScientistEndBattleText::
-	text "You"
-	line "hammered me!"
+	text "Eména"
+	line "eíxan pio pollá!"
 	prompt
 
 _SilphCo9FScientistAfterBattleText::
-	text "Exploiting weak"
-	line "spots does work!"
-	cont "Think about"
-	cont "element types!"
+	text "To na jéreiº ta"
+	line "adúnama shmeía"
+	cont "piánei! 'skécoy"
+	cont "túpoyº stoiceívn!"
 	done
 
 _SilphCo9FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Eímai 1 apó ta 4"
+	line "A'dE'lÖIA ÜYPAY'l'vN!"
 	done
 
 _SilphCo9FRocket2EndBattleText::
-	text "Warg!"
-	line "Brothers, I lost!"
+	text "'rargk!"
+	line "Adélfia, éxasa!"
 	prompt
 
 _SilphCo9FRocket2AfterBattleText::
-	text "My brothers will"
-	line "avenge me!"
+	text "Ta adélfia ua"
+	line "pároyn rebánº!"
 	done

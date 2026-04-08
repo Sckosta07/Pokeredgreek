@@ -1,130 +1,130 @@
 _FightingDojoKarateMasterText::
-	text "Grunt!"
+	text "'rkrrr!"
 
-	para "I am the KARATE"
-	line "MASTER! I am the"
-	cont "LEADER here!"
+	para "Eímai o 'dA'sKA'lO's"
+	line "toy KAPATE! Eímai"
+	cont "o H'rETH's edw!"
 
-	para "You wish to"
-	line "challenge us?"
-	cont "Expect no mercy!"
+	para "Òéleiº na me"
+	line "prokaléseiº? 'den"
+	cont "ua deiº oíkto!"
 
-	para "Fwaaa!"
+	para "Ögoúaa!"
 	done
 
 _FightingDojoKarateMasterDefeatedText::
-	text "Hwa!"
-	line "Arrgh! Beaten!"
+	text "Xga!"
+	line "Argkxx! Nikquhka!"
 	prompt
 
 _FightingDojoKarateMasterIWillGiveYouAPokemonText::
-	text "Indeed, I have"
-	line "lost!"
+	text "Óntvº, éxv"
+	line "xásei!"
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+	para "Ma, se iketeúv,"
+	line "mhn páreiº to"
+	cont "émblhma maº"
+	cont "vº trópaio!"
 
-	para "In return, I will"
-	line "give you a prized"
-	cont "fighting #MON!"
+	para "'se antállagma, ua"
+	line "soy dwsv éna ma-"
+	cont "xhtikó #mon!"
 
-	para "Choose whichever"
-	line "one you like!"
+	para "'dialeje ópoio"
+	line "ua queleº!"
 	done
 
 _FightingDojoKarateMasterStayAndTrainWithUsText::
-	text "Ho!"
+	text "Xo!"
 
-	para "Stay and train at"
-	line "Karate with us!"
+	para "Meíne kai pro-"
+	line "ponqsoy mazí maº!"
 	done
 
 _FightingDojoBlackbelt1BattleText::
-	text "Hoargh! Take your"
-	line "shoes off!"
+	text "Xoargkx! Bgále"
+	line "ta papoútsia soy!"
 	done
 
 _FightingDojoBlackbelt1EndBattleText::
-	text "I give"
-	line "up!"
+	text "Ta"
+	line "paratáv!"
 	prompt
 
 _FightingDojoBlackbelt1AfterBattleText::
-	text "You wait 'til you"
-	line "see our Master!"
+	text "Üerímene méxri na"
+	line "deiº ton dáskalo!"
 
-	para "I'm a small fry"
-	line "compared to him!"
+	para "Eímai asqmantoº"
+	line "se sxésh me aytón!"
 	done
 
 _FightingDojoBlackbelt2BattleText::
-	text "I hear you're"
-	line "good! Show me!"
+	text "Ákoysa óti eísai"
+	line "kalóº! 'deíje moy!"
 	done
 
 _FightingDojoBlackbelt2EndBattleText::
-	text "Judge!"
-	line "1 point!"
+	text "Krínv!"
+	line "1 póntoº!"
 	prompt
 
 _FightingDojoBlackbelt2AfterBattleText::
-	text "Our Master is a"
-	line "pro fighter!"
+	text "O dásksloº maº"
+	line "eínai polú kalóº!"
 	done
 
 _FightingDojoBlackbelt3BattleText::
-	text "Nothing tough"
-	line "frightens me!"
+	text "Típota sklhró"
+	line "den me fobqzei!"
 
-	para "I break boulders"
-	line "for training!"
+	para "'spáv bráxoyº"
+	line "gia propónhsh!"
 	done
 
 _FightingDojoBlackbelt3EndBattleText::
-	text "Yow!"
-	line "Stubbed fingers!"
+	text "'rióoy!"
+	line "ta dáxtyla moy!"
 	prompt
 
 _FightingDojoBlackbelt3AfterBattleText::
-	text "The only thing"
-	line "that frightens us"
-	cont "is psychic power!"
+	text "To móno poy maº"
+	line "fobqzei eínai h"
+	cont "dúnamh cyxqº!"
 	done
 
 _FightingDojoBlackbelt4BattleText::
-	text "Hoohah!"
+	text "Xoyxax!"
 
-	para "You're trespassing"
-	line "in our FIGHTING"
+	para "Üarabiázeiº to"
+	line "MAXHTIKO maº"
 	cont "DOJO!"
 	done
 
 _FightingDojoBlackbelt4EndBattleText::
-	text "Oof!"
-	line "I give up!"
+	text "Oyf!"
+	line "Üaraitoúmai!"
 	prompt
 
 _FightingDojoBlackbelt4AfterBattleText::
-	text "The prime fighters"
-	line "across the land"
-	cont "train here."
+	text "Oi eklektoí maxh-"
+	line "téº apó pantoú"
+	cont "proponoúntai edw."
 	done
 
 _FightingDojoHitmonleePokeBallText::
-	text "You want the"
-	line "hard kicking"
+	text "Òeº th sklhrq"
+	line "klvtsiá toy"
 	cont "HITMONLEE?"
 	done
 
 _FightingDojoHitmonchanPokeBallText::
-	text "You want the"
-	line "piston punching"
+	text "Òeº to pistóni"
+	line "xtúphma toy"
 	cont "HITMONCHAN?"
 	done
 
 _FightingDojoBetterNotGetGreedyText::
-	text "Better not get"
-	line "greedy..."
+	text "Kalútera na mhn"
+	line "eísai áplhstoº..."
 	done

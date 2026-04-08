@@ -1,97 +1,97 @@
 _SafariZoneGateSafariZoneWorker1Text::
-	text "Welcome to the"
-	line "SAFARI ZONE!"
+	text "Kalwº qrueº sth"
+	line "Z'vNH 'sAÖAPI!"
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "'ria ¥500 móno,"
+	line "mporeíº na piá-"
+	cont "seiº óla ta #"
+	cont "mon sto párko!"
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "Òéleiº na mpeiº"
+	line "sto 'sAÖARI?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
-	text "That'll be ¥500"
-	line "please!"
+	text "Eínai ¥500"
+	line "parakalw!"
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "Üiánoyme"
+	line "me eidikéº"
+	cont "BALLS edw."
 
-	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	para "O <PLAYER> pqre"
+	line "30 SAFARI BALL!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "Ótan teleiwsei o"
+	line "o xrónoº q oi"
+	cont "SAFARI BALL"
+	cont "ua sto poúme!"
 	done
 
 _SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
-	text "OK! Please come"
-	line "again!"
+	text "OK! Éla"
+	line "ópote ueº!"
 	done
 
 _SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
-	text "Oops! Not enough"
-	line "money!"
+	text "Oypº! Óxi, den"
+	line "éxeiº xrqmata!"
 	done
 
 _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
-	text "Leaving early?@"
+	text "Öeúgeiº apó twra?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "Üarakalw dwse písv"
+	line "tiº SAFARI BALL"
+	cont "poy soy émeinan."
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodLuckText::
-	text "Good Luck!"
+	text "Kalq túxh!"
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "Épiaseº pára"
+	line "pollá ekeí?"
+	cont "Éla ópote ueº!"
 	done
 
 _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "'reiá! Eínai h"
+	line "prwth soy forá?"
 	done
 
 _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
-	text "SAFARI ZONE has 4"
-	line "zones in it."
+	text "H Z'vNH 'sAÖAPI"
+	line "éxei 4 zwneº."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Káue zwnh éxei"
+	line "diaforetiká eídh"
+	cont "apó #mon."
+	cont "Üéta SAFARI BALL"
+	cont "gia na piáseiº!"
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "Ótan jemeíneiº"
+	line "apó xróno q SAFA-"
+	cont "RI BALL, to pai-"
+	cont "xnídi teleiwnei!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "Ürin paº, ánoije"
+	line "éna ádeio ÜOKE-"
+	cont "MON KOYTI wste"
+	cont "na ypárxei xwroº"
+	cont "gia néa #mon!"
 	done
 
 _SafariZoneGateSafariZoneWorker2YoureARegularHereText::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "'lypámai, érxesai"
+	line "syxná edw péra!"
 	done

@@ -1,127 +1,127 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Edw proséxoyme"
+	line "thn rúpansh!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Akoúsame pvº ta"
+	line "GRIMER gínontai"
+	cont "pollá se glítseº!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Eídeº to S.S."
+	line "ANNA poy áraje"
+	cont "sto limáni?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "üste, to S.S.ANNA"
+	line "éfyge!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Òa gyrísei se pe-"
+	line "rípoy énan xróno."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Kalwº qrueº sto"
+	line "S.S.ANNA!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Kalwº qrueº sto"
+	line "S.S.ANNA!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "'sygnwmh, éxeiº"
+	line "EI'sHTHPIO?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "O <PLAYER> édeije"
+	line "to EI'sHTHPIO S.S!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Téleia! Üérna"
+	line "sto S.S.ANNA!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "O <PLAYER> den"
+	line "éxei to"
+	cont "EI'sHTHPIO S.S."
 
-	para "Sorry!"
+	para "'sygnwmh!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Ürépei na to"
+	line "éxeiº gia na mpeiº."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "To ploío sálpare."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Òa xtqsv éna"
+	line "ktqrio se aytó"
+	cont "to kommáti ghº."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Ta #mon moy"
+	line "isiwnoyn thn gh."
 	done
 
 _VermilionCityMachopText::
-	text "MACHOP: Guoh!"
-	line "Gogogoh!@"
+	text "MACHOP: 'royox!"
+	line "'rogogox!@"
 	text_end
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "To MACHOP"
+	line "isiwnei thn"
+	cont "gh."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "To S.S.ANNA eínai"
+	line "diáshmo xlidáto"
+	cont "kroyazieróploio."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Üáme sth VERMILION"
+	line "káue xróno."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "ÜO'lH VERMILION"
+	line "To limáni thº"
+	cont "ypéroxhº dúshº"
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "ÜPO'sOXH!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "o 'dPOMO's 12"
+	line "éxei kleísei apó"
+	cont "ypanará #mon."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "Üarákamch mésv"
+	line "TOYNE'l BPAXOY gia"
+	cont "ÜO'lH LAVENDER."
 
-	para "VERMILION POLICE"
+	para "H A'sTYNOMIA!"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "#mon FAN CLUB"
+	line "móno #mon fan"
+	cont "epitrépontai!"
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "ÜO'lH VERMILION"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's:'lOXIA's 'sOK"
 
-	para "The Lightning "
-	line "American!"
+	para "O elektrikóº"
+	line "Amerikánoº!"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "'lIMANI VERMILION"
 	done

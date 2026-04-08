@@ -1,13 +1,13 @@
 _ViridianSchoolHouseBrunetteGirlText::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "Öioy! Ürospauw"
+	line "na máuv óleº tiº"
+	cont "shmeiwseiº moy."
 	done
 
 _ViridianSchoolHouseCooltrainerFText::
-	text "Okay!"
+	text "Entájei!"
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "'sigoyrécoy óti"
+	line "ua diabáseiº ton"
+	cont "mayropínaka!"
 	done

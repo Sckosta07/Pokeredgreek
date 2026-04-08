@@ -1,31 +1,31 @@
 _SafariZoneWestRestHouseSignText::
-	text "REST HOUSE"
+	text "'sÜITI HPEMIA's"
 	done
 
 _SafariZoneWestFindWardensTeethSignText::
-	text "REQUEST NOTICE"
+	text "EÜEI'rON AITHMA"
 
-	para "Please find the"
-	line "SAFARI WARDEN's"
-	cont "lost GOLD TEETH."
-	cont "They're around"
-	cont "here somewhere."
+	para "Üarakalw breíte"
+	line "to xaméno XPY'sÓ"
+	cont "'dONTI toy ÖY'lAKA."
+	cont "eínai kápoy"
+	cont "edw trigúrv."
 
-	para "Reward offered!"
-	line "Contact: WARDEN"
+	para "'dínetai brabeío!"
+	line "Milqste se: ÖY'lAKA"
 	done
 
 _SafariZoneWestTrainerTipsText::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Zone Exploration"
-	line "Campaign!"
+	para "Zwnh ejereúnhshº"
+	line "'sAÖAPI!"
 
-	para "The Search for"
-	line "the SECRET HOUSE!"
+	para "Anazqthsh gia to"
+	line "KRYÖO 'sÜITI!"
 	done
 
 _SafariZoneWestSignText::
-	text "AREA 3"
-	line "EAST: CENTER AREA"
+	text "ÜEPIOXH 3"
+	line "ANATO'lIKA: KENTPO"
 	done

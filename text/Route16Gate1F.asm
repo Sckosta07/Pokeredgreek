@@ -1,22 +1,22 @@
 _Route16Gate1FGuardNoPedestriansAllowedText::
-	text "No pedestrians"
-	line "are allowed on"
-	cont "CYCLING ROAD!"
+	text "'den epitrépontai"
+	line "oi pezoí ston"
+	cont "'dPOMO 'dIKYK'lVN!"
 	done
 
 _Route16Gate1FGuardCyclingRoadExplanationText::
-	text "CYCLING ROAD is a"
-	line "downhill course"
-	cont "by the sea. It's"
-	cont "a great ride."
+	text "o 'dPOMO's 'dIKYK'l'vN"
+	line "eínai kathfóra dí-"
+	cont "pla sthn uálassa."
+	cont "Eínai vraía bólta."
 	done
 
 _Route16Gate1FGuardWaitUpText::
-	text "Excuse me! Wait"
-	line "up please!"
+	text "Me sygxvreíº!"
+	line "Üerímene lígo!"
 	done
 
 _Route16Gate1FGamblerText::
-	text "How'd you get in?"
-	line "Good effort!"
+	text "Üvº éftaseº edw?"
+	line "Kalq prospáueia!"
 	done

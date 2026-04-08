@@ -1,21 +1,21 @@
 _CinnabarPokecenterCooltrainerFText::
-	text "You can cancel"
-	line "evolution."
+	text "Mporeíº na akyrw-"
+	line "seiº thn ejélijh."
 
-	para "When a #MON is"
-	line "evolving, you can"
-	cont "stop it and leave"
-	cont "it the way it is."
+	para "Ótan éna #mon"
+	line "ejelísetai, sta-"
+	cont "máthse thn kai"
+	cont "ua meínei étsi."
 	done
 
 _CinnabarPokecenterGentlemanText::
-	text "Do you have any"
-	line "friends?"
+	text "Éxeiº kauóloy"
+	line "fíloyº?"
 
-	para "#MON you get"
-	line "in trades grow"
-	cont "very quickly."
+	para "Ta #mon poy"
+	line "antalláseiº mega-"
+	cont "lwnoyn grqgora."
 
-	para "I think it's"
-	line "worth a try!"
+	para "Üisteúv ajízei"
+	line "mia dokimq!"
 	done

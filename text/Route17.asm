@@ -1,195 +1,195 @@
 _Route17Biker1BattleText::
-	text "There's no money"
-	line "in fighting kids!"
+	text "'den ajízei na pa-"
+	line "leúeiº me paidiá!"
 	done
 
 _Route17Biker1EndBattleText::
-	text "Burned"
-	line "out!"
+	text "Éxv"
+	line "ejantlhueí!"
 	prompt
 
 _Route17Biker1AfterBattleText::
-	text "Good stuff is"
-	line "lying around on"
-	cont "CYCLING ROAD!"
+	text "Kalá prágmata"
+	line "eínai pantoú sto"
+	cont "'dPOMO 'dIKYK'l'vN!"
 	done
 
 _Route17Biker2BattleText::
-	text "What do you want,"
-	line "kiddo?"
+	text "Ti uéleiº,"
+	line "mikré?"
 	done
 
 _Route17Biker2EndBattleText::
-	text "Whoo!"
+	text "Óoy!"
 	prompt
 
 _Route17Biker2AfterBattleText::
-	text "I could belly-"
-	line "bump you outta"
-	cont "here!"
+	text "Me mia"
+	line "kínhsh ua se"
+	cont "ébgaza ektóº!"
 	done
 
 _Route17Biker3BattleText::
-	text "You heading to"
-	line "FUCHSIA?"
+	text "Òéleiº na paº"
+	line "sthn FUCHSIA?"
 	done
 
 _Route17Biker3EndBattleText::
-	text "Crash and"
-	line "burn!"
+	text "Üáei h"
+	line "dója moy!"
 	prompt
 
 _Route17Biker3AfterBattleText::
-	text "I love racing"
-	line "downhill!"
+	text "'latreúv na tréxv"
+	line "kathforiká!"
 	done
 
 _Route17Biker4BattleText::
-	text "We're BIKERs!"
-	line "Highway stars!"
+	text "Oi MHXANOBIOI eí-"
+	line "maste gnvstoí edw!"
 	done
 
 _Route17Biker4EndBattleText::
-	text "Smoked!"
+	text "broym!"
 	prompt
 
 _Route17Biker4AfterBattleText::
-	text "Are you looking"
-	line "for adventure?"
+	text "ñáxneiº gia"
+	line "peripéteieº?"
 	done
 
 _Route17Biker5BattleText::
-	text "Let VOLTORB"
-	line "electrify you!"
+	text "Áse to VOLTORB"
+	line "na se hlektrísei!"
 	done
 
 _Route17Biker5EndBattleText::
-	text "Grounded"
-	line "out!"
+	text ""
+	line "Épaua sok!"
 	prompt
 
 _Route17Biker5AfterBattleText::
-	text "I got my VOLTORB"
-	line "at the abandoned"
-	cont "POWER PLANT."
+	text "Üqra to VOLTORB"
+	line "sto egkatelhméno"
+	cont "EP'rO'sTA'sIO."
 	done
 
 _Route17Biker6BattleText::
-	text "My #MON won't"
-	line "evolve! Why?"
+	text "To #mon den"
+	line "ejelísetai! e?"
 	done
 
 _Route17Biker6EndBattleText::
-	text "Why,"
-	line "you!"
+	text "Òa párv"
+	line "rebánº!"
 	prompt
 
 _Route17Biker6AfterBattleText::
-	text "Maybe some #MON"
-	line "need element"
-	cont "STONEs to evolve."
+	text "Kápoia #mon"
+	line "uéloyn pétreº"
+	cont "stoixeívn."
 	done
 
 _Route17Biker7BattleText::
-	text "I need a little"
-	line "exercise!"
+	text "Òélv lígh"
+	line "propónhsh!"
 	done
 
 _Route17Biker7EndBattleText::
-	text "Whew!"
-	line "Good workout!"
+	text "Óoy!"
+	line "Kalq propónhsh!"
 	prompt
 
 _Route17Biker7AfterBattleText::
-	text "I'm sure I lost"
-	line "weight there!"
+	text "'sígoyra éxasa"
+	line "bároº edw!"
 	done
 
 _Route17Biker8BattleText::
-	text "Be a rebel!"
+	text "Üaíje me uárroº!"
 	done
 
 _Route17Biker8EndBattleText::
-	text "Aaaargh!"
+	text "Aargkx!"
 	prompt
 
 _Route17Biker8AfterBattleText::
-	text "Be ready to fight"
-	line "for your beliefs!"
+	text "Mhn ta"
+	line "paratáº poté!"
 	done
 
 _Route17Biker9BattleText::
-	text "Nice BIKE!"
-	line "How's it handle?"
+	text "'vraío 'dIKYK'lO! "
+	line "Kalóº o xeirismóº?"
 	done
 
 _Route17Biker9EndBattleText::
-	text "Shoot!"
+	text "Ötoy!"
 	prompt
 
 _Route17Biker9AfterBattleText::
-	text "The slope makes"
-	line "it hard to steer!"
+	text "'sta plágia"
+	line "stríbeiº!"
 	done
 
 _Route17Biker10BattleText::
-	text "Get lost kid!"
-	line "I'm bushed!"
+	text "Öúge mikré!"
+	line "Nystázv!"
 	done
 
 _Route17Biker10EndBattleText::
-	text "Are you"
-	line "satisfied?"
+	text ""
+	line "Nystázv twra!"
 	prompt
 
 _Route17Biker10AfterBattleText::
-	text "I need to catch"
-	line "a few Zs!"
+	text "Üáv na roxalísv"
+	line "gia merikéº wreº!"
 	done
 
 _Route17NoticeSign1Text::
-	text "It's a notice!"
+	text "Üroeidopoíhsh!"
 
-	para "Watch out for"
-	line "discarded items!"
+	para "Üróseje gia para-"
+	line "thména prágmata!"
 	done
 
 _Route17TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "All #MON are"
-	line "unique."
+	para "Óla ta #mon"
+	line "eínai monadiká."
 
-	para "Even #MON of"
-	line "the same type and"
-	cont "level grow at"
-	cont "different rates."
+	para "Akóma kai #mon"
+	line "ídioy túpoy kai"
+	cont "LEVEL megalw-"
+	cont "noyn diaforetiká."
 	done
 
 _Route17TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Press the A or B"
-	line "Button to stay in"
-	cont "place while on a"
-	cont "slope."
+	para "Üáthse to koympí"
+	line "A q B gia na"
+	cont "meíneiº sthn"
+	cont "eyueía."
 	done
 
 _Route17SignText::
-	text "ROUTE 17"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "'dPOMO's 17"
+	line "ÜO'lH CELADON -"
+	cont "ÜO'lH FUCHSIA"
 	done
 
 _Route17NoticeSign2Text::
-	text "It's a notice!"
+	text "Üroeidopoíhsh!"
 
-	para "Don't throw the"
-	line "game, throw #"
-	cont "BALLs instead!"
+	para "Mhn petáº to"
+	line "matº, ant' aytoy"
+	cont "peta ÜOKEBALL!"
 	done
 
 _Route17CyclingRoadEndsSignText::
-	text "CYCLING ROAD"
-	line "Slope ends here!"
+	text "'dPOMO's 'dIKYK'l'vN"
+	line "H plagiá teleívse!"
 	done

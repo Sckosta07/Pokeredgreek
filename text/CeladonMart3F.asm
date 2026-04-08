@@ -1,99 +1,99 @@
 _CeladonMart3FClerkTM18PreReceiveText::
-	text "Oh, hi! I finally"
-	line "finished #MON!"
+	text "'v, geia! Epitéloyº"
+	line "teleívsa #MON!"
 
-	para "Not done yet?"
-	line "This might be"
-	cont "useful!"
+	para "Esú óxi akóma?"
+	line "Mporeí na to"
+	cont "xreiasteíº!"
 	prompt
 
 _CeladonMart3FClerkReceivedTM18Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonMart3FClerkTM18ExplanationText::
-	text "TM18 is COUNTER!"
-	line "Not like the one"
-	cont "I'm leaning on,"
-	cont "mind you!"
+	text "TM18, ANTEÜIÒE'sH!"
+	line "Óxi aytó poy"
+	cont "se mauaínv,"
+	cont "na jéreiº!"
 	done
 
 _CeladonMart3FClerkTM18NoRoomText::
-	text "Your pack is full"
-	line "of items!"
+	text "O sákoº soy"
+	line "eínai gemátoº!"
 	done
 
 _CeladonMart3FGameBoyKid1Text::
-	text "Captured #MON"
-	line "are registered"
-	cont "with an ID No."
-	cont "and OT, the name"
-	cont "of the Original"
-	cont "Trainer that"
-	cont "caught it!"
+	text "Üiasména #MON"
+	line "katagráfontai me"
+	cont "éna ID No."
+	cont "kai OT, to ónoma"
+	cont "kai ton arxikó"
+	cont "ekpaideytq"
+	cont "poy ta épiase!"
 	done
 
 _CeladonMart3FGameBoyKid2Text::
-	text "All right!"
+	text "entájei!"
 
-	para "My buddy's going"
-	line "to trade me his"
-	cont "KANGASKHAN for my"
-	cont "GRAVELER!"
+	para "O mpampáº moy"
+	line "dínei to dikó toy"
+	cont "KANGASKHAN gia"
+	cont "to GRAVELER moy!"
 	done
 
 _CeladonMart3FGameBoyKid3Text::
-	text "Come on GRAVELER!"
+	text "Éla GRAVELER!"
 
-	para "I love GRAVELER!"
-	line "I collect them!"
+	para "'latreúv ta GRAVE-"
+	line "LER! Ta syllégv!"
 
-	para "Huh?"
+	para "Eee?"
 
-	para "GRAVELER turned"
-	line "into a different"
-	cont "#MON!"
+	para "To GRAVELER állaje"
+	line "se diaforetikó"
+	cont "#mon!"
 	done
 
 _CeladonMart3FLittleBoyText::
-	text "You can identify"
-	line "#MON you got"
-	cont "in trades by"
-	cont "their ID Numbers!"
+	text "Anagnwrise ta"
+	line "#mon poy pqreº"
+	cont "me antallagéº"
+	cont "apó noúmera ID!"
 	done
 
 _CeladonMart3FSNESText::
-	text "It's an SNES!"
+	text "Eínai éna SNES!"
 	done
 
 _CeladonMart3FRPGText::
-	text "An RPG! There's"
-	line "no time for that!"
+	text "Éna RPG! Kauóloy"
+	line "xrónoº gi' aytó!"
 	done
 
 _CeladonMart3FSportsGameText::
-	text "A sports game!"
-	line "Dad'll like that!"
+	text "Éna spor paixnídi!"
+	line "moy arései aytó!"
 	done
 
 _CeladonMart3FPuzzleGameText::
-	text "A puzzle game!"
-	line "Looks addictive!"
+	text "Éna paixnídi pazl!"
+	line "Endiaféron!"
 	done
 
 _CeladonMart3FFightingGameText::
-	text "A fighting game!"
-	line "Looks tough!"
+	text "Éna paxnídi máxhº!"
+	line "Öaínetai dynató!"
 	done
 
 _CeladonMart3FCurrentFloorSignText::
-	text "3F: TV GAME SHOP"
+	text "3oº: TVGAME"
 	done
 
 _CeladonMart3FPokemonPosterText::
-	text "Red and Blue!"
-	line "Both are #MON!"
+	text "Kókkino kai mple!"
+	line "mazí #MON!"
 	done

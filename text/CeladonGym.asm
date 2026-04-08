@@ -1,69 +1,69 @@
 _CeladonGymErikaPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "'reiá. 'vraíoº"
+	line "kairóº, étsi?"
+	cont "Tóso eyxáristoº."
 
-	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	para "...v fíle..."
+	line "Me pqre o úpnoº."
+	cont "kalwº qrueº."
 
-	para "My name is ERIKA."
-	line "I am the LEADER"
-	cont "of CELADON GYM."
+	para "Me léne ERIKA."
+	line "Eímai h H'rETH's"
+	cont "toy CELADON GYM."
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
+	para "'didáskv th téxnh"
+	line "tvn loyloydiwn."
+	cont "Ta #mon moy"
+	cont "eínai grasidioú."
 
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
+	para "'v, sygnwmh, den"
+	line "eíxa idéa pvº"
+	cont "queleº na me"
+	cont "prokaléseiº."
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "Üolú kalá, ma"
+	line "den ua xásv."
 	done
 
 _CeladonGymErikaReceivedRainbowBadgeText::
-	text "Oh!"
-	line "I concede defeat."
+	text "Üaradéxomai"
+	line "thn qtta moy."
 
-	para "You are remarkably"
-	line "strong."
+	para "Eísai ejairetiká"
+	line "dynatóº."
 
-	para "I must confer you"
-	line "the RAINBOWBADGE."
+	para "Ürépei na soy dwsv"
+	line "to OYPANOEMB'lHMA."
 	prompt
 
 _CeladonGymErikaPostBattleAdviceText::
-	text "You are cataloging"
-	line "#MON? I must"
-	cont "say I'm impressed."
+	text "'syllégeiº #mon?"
+	line "Ürépei na pv pvº"
+	cont "entypvsiásthka."
 
-	para "I would never"
-	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	para "'den ua ékana"
+	line "syllogq #mon"
+	cont "an den qtan"
+	cont "ómorfa."
 	done
 
 _CeladonGymRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
-	line "will make #MON"
-	cont "up to L50 obey."
+	text "To OYPANOEMB'lHMA"
+	line "kánei ta ypákoya"
+	cont "pánv tvn L50."
 
-	para "It also allows"
-	line "#MON to use"
-	cont "STRENGTH in and"
-	cont "out of battle."
+	para "Epíshº epitrépei"
+	line "se #mon na bá-"
+	cont "zoyn dúnamh kai"
+	cont "ektóº maxwn."
 
-	para "Please also take"
-	line "this with you."
+	para "Üáre kai aytó"
+	line "mazí soy."
 	done
 
 _CeladonGymReceivedTM21Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -71,150 +71,150 @@ _CeladonGymReceivedTM21Text::
 _TM21ExplanationText::
 	text_start
 
-	para "TM21 contains"
-	line "MEGA DRAIN."
+	para "TM21 periexei"
+	line "BIOK'lOÜH."
 
-	para "Half the damage"
-	line "it inflicts is"
-	cont "drained to heal"
-	cont "your #MON!"
+	para "H misq zhmiá"
+	line "poy prokaleí, thn"
+	cont "aporrofáei gia"
+	cont "íash toy #mon!"
 	done
 
 _CeladonGymTM21NoRoomText::
-	text "You should make"
-	line "room for this."
+	text "Káne prwta xwro"
+	line "gi' aytó."
 	done
 
 _CeladonGymBattleText2::
-	text "Hey!"
+	text "Éi!"
 
-	para "You are not"
-	line "allowed in here!"
+	para "'den se dexómaste"
+	line "edw! Öúge!"
 	done
 
 _CeladonGymEndBattleText2::
-	text "You're"
-	line "too rough!"
+	text "Eísai polú"
+	line "ágrioº!"
 	prompt
 
 _CeladonGymAfterBattleText2::
-	text "Bleaah!"
-	line "I hope ERIKA"
-	cont "wipes you out!"
+	text "Mpliaáx!"
+	line "Elpízv h ERIKA"
+	cont "na se nikqsei!"
 	done
 
 _CeladonGymBattleText3::
-	text "I was getting"
-	line "bored."
+	text "Eíxa arxísei"
+	line "na bariémai."
 	done
 
 _CeladonGymEndBattleText3::
-	text "My"
-	line "makeup!"
+	text "To MAKEUP"
+	line "moy!"
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
-	line "are tough against"
-	cont "the water-type!"
+	text "#mon grasidioú"
+	line "eínai pio dynatá"
+	cont "apó toy neroú!"
 
-	para "They also have an"
-	line "edge on rock and"
-	cont "ground #MON!"
+	para "Epíshº éxoyn ple-"
+	line "onektqma sta"
+	cont "pétraº kai ghº!"
 	done
 
 _CeladonGymBattleText4::
-	text "Aren't you the"
-	line "peeping Tom?"
+	text "Üvº bréuhkeº"
+	line "esú edw mésa?"
 	done
 
 _CeladonGymEndBattleText4::
-	text "I'm"
-	line "in shock!"
+	text ""
+	line "'sokarísthka!"
 	prompt
 
 _CeladonGymAfterBattleText4::
-	text "Oh, you weren't"
-	line "peeping? We get a"
-	cont "lot of gawkers!"
+	text "A, den qrueº gia"
+	line "ta fytá? Üolloí"
+	cont "aytá koitáne!"
 	done
 
 _CeladonGymBattleText5::
-	text "Look at my grass"
-	line "#MON!"
+	text "Koíta ta #mon"
+	line "túpoy grasidioú!"
 
-	para "They're so easy"
-	line "to raise!"
+	para "Eúkola"
+	line "dynamwnoyn!"
 	done
 
 _CeladonGymEndBattleText5::
-	text "No!"
+	text "Óxi!"
 	prompt
 
 _CeladonGymAfterBattleText5::
-	text "We only use grass-"
-	line "type #MON at"
-	cont "our GYM!"
+	text "Emeíº bázoyme"
+	line "móno #mon gra-"
+	cont "sidioú sto GYM!"
 
-	para "We also use them"
-	line "for making flower"
-	cont "arrangements!"
+	para "Ta bázoyme epíshº"
+	line "gia na kánoyme"
+	cont "stolismoúº ánuvn!"
 	done
 
 _CeladonGymBattleText6::
-	text "Don't bring any"
-	line "bugs or fire"
-	cont "#MON in here!"
+	text "Mhn férneiº #-"
+	line "mon éntoma"
+	cont "q fvtiáº edw!"
 	done
 
 _CeladonGymEndBattleText6::
-	text "Oh!"
-	line "You!"
+	text "'vvv!"
+	line "Xazé!"
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our LEADER, ERIKA,"
-	line "might be quiet,"
-	cont "but she's also"
-	cont "very skilled!"
+	text "H hgéthº, h"
+	line "ERIKA eínai q-"
+	cont "syxh, ma kai"
+	cont "polú émpeirh!"
 	done
 
 _CeladonGymBattleText7::
-	text "Pleased to meet"
-	line "you. My hobby is"
-	cont "#MON training."
+	text "Xárhka gia thn"
+	line "gnvrimía. Xómpy"
+	cont "h ekp/sh #mon."
 	done
 
 _CeladonGymEndBattleText7::
-	text "Oh!"
-	line "Splendid!"
+	text "'vvv!"
+	line "uaymásia!"
 	prompt
 
 _CeladonGymAfterBattleText7::
-	text "I have a blind"
-	line "date coming up."
-	cont "I have to learn"
-	cont "to be polite."
+	text "Éxv éna tyfló"
+	line "ranteboú metá."
+	cont "Ürépei na máuv"
+	cont "kaloúº trópoyº."
 	done
 
 _CeladonGymBattleText8::
-	text "Welcome to"
+	text "Kalwº qrueº sto"
 	line "CELADON GYM!"
 
-	para "You better not"
-	line "underestimate"
-	cont "girl power!"
+	para "Kalútera mhn"
+	line "ypotimáº thn"
+	cont "dúnamh maº!"
 	done
 
 _CeladonGymEndBattleText8::
-	text "Oh!"
-	line "Beaten!"
+	text ""
+	line "'vvv! Nikquhka!"
 	prompt
 
 _CeladonGymAfterBattleText8::
-	text "I didn't bring my"
-	line "best #MON!"
+	text "'den éfera ta kalá"
+	line "moy #mon!"
 
-	para "Wait 'til next"
-	line "time!"
+	para "Breº me thn"
+	line "epómenh forá!"
 	done

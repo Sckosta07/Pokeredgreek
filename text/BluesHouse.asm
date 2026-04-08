@@ -1,42 +1,42 @@
 _BluesHouseDaisyRivalAtLabText::
-	text "Hi <PLAYER>!"
-	line "<RIVAL> is out at"
-	cont "Grandpa's lab."
+	text "'reiá <PLAYER>!"
+	line "O <RIVAL> eínai"
+	cont "sto ergastqrio."
 	done
 
 _BluesHouseDaisyOfferMapText::
-	text "Grandpa asked you"
-	line "to run an errand?"
-	cont "Here, this will"
-	cont "help you!"
+	text "O pappoúº soy"
+	line "édvse apostolq?"
+	cont "Oríste, aytó ua"
+	cont "se bohuqsei!"
 	prompt
 
 _GotMapText::
-	text "<PLAYER> got a"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "énan @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _BluesHouseDaisyBagFullText::
-	text "You have too much"
-	line "stuff with you."
+	text "Éxeis pollá prá-"
+	line "gmata pánv soy."
 	done
 
 _BluesHouseDaisyUseMapText::
-	text "Use the TOWN MAP"
-	line "to find out where"
-	cont "you are."
+	text "Bále to XAPTH"
+	line "gia na jéreiº poy"
+	cont "brískesai."
 	done
 
 _BluesHouseDaisyWalkingText::
-	text "#MON are living"
-	line "things! If they"
-	cont "get tired, give"
-	cont "them a rest!"
+	text "ta #mon eínai"
+	line "zvntaná ónta! An"
+	cont "koyrastoún, áse"
+	cont "na jekoyrastoún!"
 	done
 
 _BluesHouseTownMapText::
-	text "It's a big map!"
-	line "This is useful!"
+	text "Eínai énaº xárthº!"
+	line "Eínai xrqsimoº!"
 	done

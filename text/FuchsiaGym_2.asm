@@ -1,194 +1,194 @@
 _FuchsiaGymKogaPostBattleAdviceText::
-	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	text "'sthn epídrash apó"
+	line "TOÑINH ta #mon"
+	cont "ypoféroyn olo"
+	cont "kai pio polú óso"
+	cont "h máxh proxvrá!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "'sígoyra tromázei"
+	line "toyº exuroúº!"
 	done
 
 _FuchsiaGymKogaSoulBadgeInfoText::
-	text "Now that you have"
-	line "the SOULBADGE,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "Twra poy éxeiº"
+	line "to ñYXOEMB'lHMA,"
+	cont "h AMYNA tvn"
+	cont "#mon soy"
+	cont "ayjánetai!"
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "Epíshº se afqnei"
+	line "na káneiº 'sERÖ"
+	cont "ektoº máxwn!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "A! Üáre"
+	line "kai aytó!"
 	done
 
 _FuchsiaGymKogaReceivedTM06Text::
-	text "<PLAYER> received"
-	line "@"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _FuchsiaGymKogaTM06ExplanationText::
 	text_start
-	para "TM06 contains"
-	line "TOXIC!"
+	para "TM06 periéxei"
+	line "TOÑINH!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "Eínai mia kryfq"
+	line "texnikq pánv"
+	cont "apó 400 xrónia!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "Káne xwro gia"
+	line "aytó, mikré!"
 	done
 
 _FuchsiaGymRocker1BattleText::
-	text "Strength isn't"
-	line "the key for"
-	cont "#MON!"
+	text "H dúnamh den"
+	line "eínai to kleidí"
+	cont "gia ta #mon!"
 
-	para "It's strategy!"
+	para "Eínai strathgikq!"
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "Òa soy deíjv pvº"
+	line "h strathgikq niká"
+	cont "thn vmq dúnamh!"
 	done
 
 _FuchsiaGymRocker1EndBattleText::
-	text "What?"
-	line "Extraordinary!"
+	text "Ti?"
+	line "Entypvsiakó!"
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "üste, syndyázeiº"
+	line "dúnamh me myaló?"
+	cont "kalq strathgikq!"
 	done
 
 _FuchsiaGymRocker2BattleText::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "Ìuela na gínv"
+	line "níntza, opóte"
+	cont "gráfthka sto GYM!"
 	done
 
 _FuchsiaGymRocker2EndBattleText::
-	text "I'm done"
-	line "for!"
+	text "Ta pqga"
+	line "xália!"
 	prompt
 
 _FuchsiaGymRocker2AfterBattleText::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "Òa ekpaideytw"
+	line "kai állo úpo ton"
+	cont "KOGA, ton dá-"
+	cont "skalo nintza!"
 	done
 
 _FuchsiaGymRocker3BattleText::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "Áº doúme pvº ua"
+	line "nikqseiº tiº eidi-"
+	cont "kéº texnikeº moy!"
 	done
 
 _FuchsiaGymRocker3EndBattleText::
-	text "You"
-	line "had me fooled!"
+	text "Me"
+	line "jegélaseº!"
 	prompt
 
 _FuchsiaGymRocker3AfterBattleText::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "M' arésoyn aytéº"
+	line "oi texnikéº, óso"
+	cont "ménoyn metá"
+	cont "thn máxh!"
 	done
 
 _FuchsiaGymRocker4BattleText::
-	text "Stop right there!"
+	text "'stamáta ekeí!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "Oi aóratoi toíxoi"
+	line "se empodízoyn"
+	cont "éstv lígo?"
 	done
 
 _FuchsiaGymRocker4EndBattleText::
-	text "Whoa!"
-	line "He's got it!"
+	text "Ópa!"
+	line "To katálabe!"
 	prompt
 
 _FuchsiaGymRocker4AfterBattleText::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "Me entypvsíaseº!"
+	line "Oríste stoixeío!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "Koíta prosektiká"
+	line "gia kená kai"
+	cont "aóratoyº toíxoyº!"
 	done
 
 _FuchsiaGymRocker5BattleText::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "Epíshº meletw ton"
+	line "trópo tvn níntza"
+	cont "me dáskalo KOGA!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "Oi níntza éxoyn"
+	line "megálh istoría"
+	cont "bázontaº zwa!"
 	done
 
 _FuchsiaGymRocker5EndBattleText::
-	text "Awoo!"
+	text "Agoy!"
 	prompt
 
 _FuchsiaGymRocker5AfterBattleText::
-	text "I still have much"
-	line "to learn!"
+	text "Éxv akóma"
+	line "pollá na máuv!"
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "O dáskaloº KOGA"
+	line "katágetai apó ka-"
+	cont "lq geniá níntza!"
 
-	para "What did you"
-	line "descend from?"
+	para "Esú apó poy"
+	line "katágesai?"
 	done
 
 _FuchsiaGymRocker6EndBattleText::
-	text "Dropped"
-	line "my balls!"
+	text "Moy épe-"
+	line "san oi BALLS!"
 	prompt
 
 _FuchsiaGymRocker6AfterBattleText::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "Ekeí poy ypárxei"
+	line "fvº, ypárxei kai"
+	cont "skotádi!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "Övº kai skotádi!"
+	line "Ti ua"
+	cont "dialéjeiº?"
 	done
 
 _FuchsiaGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "To GYM eínai"
+	line "gemáto me"
+	cont "aóratoyº toíxoyº!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "O KOGA faínetai"
+	line "kleistóº, ma kai"
+	cont "apokleisménoº!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "Ürépei na breiº"
+	line "kená se toíxoyº"
+	cont "gia na plhsiáseiº!"
 	done
 
 _FuchsiaGymGymGuideBeatKogaText::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "Eínai apísteyto,"
+	line "níntza fobízoyn"
+	cont "akóma kai twra!"
 	done

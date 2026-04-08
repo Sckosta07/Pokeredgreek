@@ -1,26 +1,26 @@
 _CeladonMansion1FMeowthText::
-	text "MEOWTH: Meow!@"
+	text "MEOWTH: Miáoy!@"
 	text_end
 
 _CeladonMansion1FGrannyText::
-	text "My dear #MON"
-	line "keep me company."
+	text "To #mon moy"
+	line "kratá syntrofiá."
 
-	para "MEOWTH even brings"
-	line "money home!"
+	para "To MEOWTH férnei"
+	line "leftá sto spíti!"
 	done
 
 _CeladonMansion1FClefairyText::
-	text "CLEFAIRY: Pi"
+	text "CLEFAIRY: Üi"
 	line "pippippi!@"
 	text_end
 
 _CeladonMansion1FNidoranFText::
 	text "NIDORAN: Kya"
-	line "kyaoo!@"
+	line "kyáoy!@"
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::
-	text "CELADON MANSION"
-	line "Manager's Suite"
+	text "EÜAY'lH CELADON"
+	line "'dvmátio 'dieyuyntq"
 	done

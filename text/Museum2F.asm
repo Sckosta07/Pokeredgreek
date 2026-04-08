@@ -1,45 +1,45 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "ÖE'r'rAPOÜETPA?"
 
-	para "What's so special"
-	line "about it?"
+	para "Ti éxei to"
+	line "tóso jexvristó?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "20 Ioylíoy, 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "H 1h prosse-"
+	line "lqnvsh!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Agórasa égxrvmh"
+	line "TV gia na th dv!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "Éxoyme ékuesh"
+	line "diastqmatoº twra."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Òélv éna PIKACHU!"
+	line "Üára polú ómorfo!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Eípa ston mpampá"
+	line "moy na piásei éna!"
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Nai, érxetai to"
+	line "PIKACHU, sobará!"
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
+	text "'diast. leofvreío"
 	line "COLUMBIA"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteoríthº apó"
+	line "to BN.ÖE'r'rAPI."
+	cont "(ÖE'r'rAPOÜETPA?)"
 	done

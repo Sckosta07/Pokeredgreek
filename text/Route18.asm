@@ -1,58 +1,58 @@
 _Route18CooltrainerM1BattleText::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "Tsekárv pánta"
+	line "mérh me grasidía"
+	cont "gia néa #mon."
 	done
 
 _Route18CooltrainerM1EndBattleText::
-	text "Tch!"
+	text "Tº!"
 	prompt
 
 _Route18CooltrainerM1AfterBattleText::
-	text "I wish I had a"
-	line "BIKE!"
+	text "Eúxomai na"
+	line "eíxa 'dIKYK'lO!"
 	done
 
 _Route18CooltrainerM2BattleText::
-	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	text "Koyroykoy!"
+	line "'soy arései to"
+	cont "keláhdima?"
 	done
 
 _Route18CooltrainerM2EndBattleText::
-	text "I"
-	line "had to bug you!"
+	text "Òélv na"
+	line "tragoydqsv lígo!"
 	prompt
 
 _Route18CooltrainerM2AfterBattleText::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "Epíshº syllégv"
+	line "#mon neroú"
+	cont "ta 'sábbata!"
 	done
 
 _Route18CooltrainerM3BattleText::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "Eínai to xortári"
+	line "moy! Öúge apó edw!"
 	done
 
 _Route18CooltrainerM3EndBattleText::
-	text "Darn!"
+	text "Ötoy!"
 	prompt
 
 _Route18CooltrainerM3AfterBattleText::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "Eínai to kalú-"
+	line "tero #mon"
+	cont "méroº kynhgioú!"
 	done
 
 _Route18SignText::
-	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "'dPOMO's 18"
+	line "ÜO'lH CELADON -"
+	cont "ÜO'lH FUCHSIA"
 	done
 
 _Route18CyclingRoadSignText::
-	text "CYCLING ROAD"
-	line "No pedestrians"
-	cont "permitted!"
+	text "'dPOMO's 'dIKYK'l'vN"
+	line "'den epitrépontai"
+	cont "oi pezoí!"
 	done

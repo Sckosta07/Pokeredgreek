@@ -1,24 +1,24 @@
 _Route15Gate2FOaksAideExpAllText::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "To EXP.ALL dínei"
+	line "póntoyº EXP sta"
+	cont "#mon poy koy-"
+	cont "baláº, akóma"
+	cont "kai xvríº máxh."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
+	para "'vstóso, meiwnei"
+	line "to posó tvn"
+	cont "EXP gia káue"
+	cont "#mon."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "An den to uéleiº,"
+	line "apouqkeuse to"
+	cont "sto PC."
 	done
 
 _Route15Gate2FBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Koitaº me"
+	line "ta kiália."
 
-	para "It looks like a"
-	line "small island!"
+	para "Moiázei me"
+	line "éna mikró nhsí!"
 	done

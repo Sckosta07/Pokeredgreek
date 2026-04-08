@@ -1,69 +1,69 @@
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Esú, MON PETIT!"
+	line "Éxoyme doyleiéº!"
+	cont "Káne sthn ákrh!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Eída mia parájenh"
+	line "mpála ston kádo."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Tréxv tóso polú"
+	line "poy zalízvmai!"
 	done
 
 _SSAnneKitchenCook4Text::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "Xam-nte-xam-nte-"
+	line "xo..."
 
-	para "I peel spuds"
-	line "every day!"
-	cont "Hum-hum..."
+	para "Kauarízv patáteº"
+	line "káue méra!"
+	cont "Xam-xam..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
+	text "Ákoyseº gia to"
 	line "SNORLAX?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Móno trwei"
+	line "kai koimátai!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "Kláma...'snif..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Kauarízv móno"
+	line "kremmúdia..."
+	cont "Kláma..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Er-xem! Óntvº"
+	line "eímai LE CHEF!"
 
-	para "Le main course is"
+	para "LE kúrio piáto..."
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salmon du Salad!"
+	text "'saláta DU solomó!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "LES kalesménoi"
+	line "gkriniázoyn poy"
+	cont "páli éxoyme cári!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Eels au Barbecue!"
+	text "Xélia mpármpekioy!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "LES kalesménoi ua"
+	line "kánoyn antarsía."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Prime Beef Steak!"
+	text "Eklektá filéta!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "Ma éxoyme arketá"
+	line "bodiná DU filéta?"
 	done

@@ -1,78 +1,78 @@
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "FUJI: Xex? Ìrueº"
+	line "na me swseiº?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Eyxaristw. Ma,"
+	line "egw qrua edw"
+	cont "apó mónoº moy."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "Ìrua na hremqsv"
+	line "thn cyxq thº"
+	cont "mhtéraº CUBONE."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Üisteúv pvº to"
+	line "pneúma thº éfyge"
+	cont "aton Üarádeiso."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Ürépei na se"
+	line "eyxaristqsv poy"
+	cont "endiaféruhkeº!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "Üame sto spíti"
+	line "moy, to spíti"
+	cont "#mon sthn arxq"
+	cont "toy púrgoy."
 	done
 
 _PokemonTower7FRocket1BattleText::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Ti uéleiº edw?"
+	line "'riatí eísai edw?"
 	done
 
 _PokemonTower7FRocket1EndBattleText::
-	text "I give up!"
+	text "Öeúgv!"
 	prompt
 
 _PokemonTower7FRocket1AfterBattleText::
-	text "I'm not going to"
-	line "forget this!"
+	text "'den ua to"
+	line "jexásv aytó!"
 	done
 
 _PokemonTower7FRocket2BattleText::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "O géroº qrue kai"
+	line "maº kathgórhse"
+	cont "óti bláptoyme"
+	cont "áxrhsta #mon!"
 
-	para "We're talking it"
-	line "over as adults!"
+	para "Miláme vº"
+	line "enqlikeº!"
 	done
 
 _PokemonTower7FRocket2EndBattleText::
-	text "Please!"
-	line "No more!"
+	text "Ánte ka-"
+	line "lá! Níkhseº!"
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "Ta #mon eínai"
+	line "kalá móno gia na"
+	cont "spáme pláka!"
 
-	para "Stay out of our"
-	line "business!"
+	para "Mhn anaka-"
+	line "teúesai, mikré!"
 	done
 
 _PokemonTower7FRocket3BattleText::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "'den swzeiº"
+	line "kanénan, mikré!"
 	done
 
 _PokemonTower7FRocket3EndBattleText::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "Mhn ta"
+	line "bázeiº me emáº!"
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::
-	text "You're not getting"
-	line "away with this!"
+	text "'den ua jefúgeiº"
+	line "me aytó!"
 	done

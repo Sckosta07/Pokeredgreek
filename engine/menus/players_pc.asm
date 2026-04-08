@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "WITHDRAW ITEM"
-	next "DEPOSIT ITEM"
-	next "TOSS ITEM"
-	next "LOG OFF@"
+	db   "ÜAPE ANTIK."
+	next "'d'v'sE ANTIK."
+	next "ÜETA ANTIK."
+	next "'sBH'sE@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

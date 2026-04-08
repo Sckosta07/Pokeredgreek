@@ -1,16 +1,16 @@
 _ViridianPokecenterGentlemanText::
-	text "You can use that"
-	line "PC in the corner."
+	text "Xrhsimopoíhse"
+	line "to PC sth gvnía."
 
-	para "The receptionist"
-	line "told me. So kind!"
+	para "H ypállhloº moy"
+	line "to eípe. Ti kalq!"
 	done
 
 _ViridianPokecenterCooltrainerMText::
-	text "There's a #MON"
-	line "CENTER in every"
-	cont "town ahead."
+	text "Ypárxei KENTPO"
+	line "#mon se káue"
+	cont "pólh."
 
-	para "They don't charge"
-	line "any money either!"
+	para "'den se xrewnoyn"
+	line "poté ótan érxesai!"
 	done

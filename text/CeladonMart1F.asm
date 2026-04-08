@@ -1,31 +1,31 @@
 _CeladonMart1FReceptionistText::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "'reia! Kalwº qrueº"
+	line "sto ÜO'lYKATA'sTHMA"
+	cont "thº CELADON."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "O pínakaº sta"
+	line "dejiá perigráfei"
+	cont "toyº orófoyº."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1oº:ÜA'rKO's"
+	line "     YÜHPE'sIA's"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2oº:A'rOPA"
+	line "    EKÜAI'dEYT'vN"
 
-	para "3F: TV GAME SHOP"
+	para "3oº:MA'rAZI TV GAME"
 
-	para "4F: WISEMAN GIFTS"
+	para "4oº:'d'vPA toy 'sOÖOY"
 
-	para "5F: DRUG STORE"
+	para "5oº:ÖAPMAKEIO"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "OPOÖH KTHPIOY"
+	line "AYTOMATOI Ü'v'lHTE's"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1oº:ÜA'rKO's"
+	line "     YÜHPE'sIA's"
 	done

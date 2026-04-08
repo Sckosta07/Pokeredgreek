@@ -1,173 +1,173 @@
 _Route14CooltrainerM1BattleText::
-	text "You need to use"
-	line "TMs to teach good"
-	cont "moves to #MON!"
+	text "Báze TM gia na"
+	line "mauaíneiº kinq-"
+	cont "seiº se #mon!"
 	done
 
 _Route14CooltrainerM1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Óxi"
+	line "arketá kalóº!"
 	prompt
 
 _Route14CooltrainerM1AfterBattleText::
-	text "You have some HMs"
-	line "right? #MON"
-	cont "can't ever forget"
-	cont "those moves."
+	text "Éxeiº meriká HM"
+	line "svstá? #mon"
+	cont "den ta jexnoún"
+	cont "poté aytá."
 	done
 
 _Route14CooltrainerM2BattleText::
-	text "My bird #MON"
-	line "should be ready"
-	cont "for battle."
+	text "Ta poyliá #mon"
+	line "moy eínai étoima"
+	cont "gia máxh twra."
 	done
 
 _Route14CooltrainerM2EndBattleText::
-	text "Not"
-	line "ready yet!"
+	text "Óxi"
+	line "arketá!"
 	prompt
 
 _Route14CooltrainerM2AfterBattleText::
-	text "They need to learn"
-	line "better moves."
+	text "Kalútera máue"
+	line "néeº kinqseiº."
 	done
 
 _Route14CooltrainerM3BattleText::
-	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
-	cont "people have HMs!"
+	text "Ta TM pvloúntai"
+	line "sthn CELADON!"
+	cont "Ma, lígoi éxoyn"
+	cont "ta HM!"
 	done
 
 _Route14CooltrainerM3EndBattleText::
-	text "Aww,"
-	line "bummer!"
+	text "'vvv,"
+	line "ftoy!"
 	prompt
 
 _Route14CooltrainerM3AfterBattleText::
-	text "Teach #MON"
-	line "moves of the same"
-	cont "element type for"
-	cont "more power."
+	text "Máue se #mon"
+	line "kinqseiº apó"
+	cont "kápoio xtoixeío"
+	cont "gia dúnamh."
 	done
 
 _Route14CooltrainerM4BattleText::
-	text "Have you taught"
-	line "your bird #MON"
-	cont "how to FLY?"
+	text "Émaueº sto"
+	line "#mon poylí soy"
+	cont "pvº na petáei?"
 	done
 
 _Route14CooltrainerM4EndBattleText::
-	text "Shot"
-	line "down in flames!"
+	text "Éxasa me"
+	line "styl!"
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
-	text "Bird #MON are"
-	line "my true love!"
+	text "latreúv ta"
+	line "poyliá #MON!"
 	done
 
 _Route14CooltrainerM5BattleText::
-	text "Have you heard of"
-	line "the legendary"
-	cont "#MON?"
+	text "Éxeiº akoúsei"
+	line "gia to urylikó"
+	cont "#mon?"
 	done
 
 _Route14CooltrainerM5EndBattleText::
-	text "Why?"
-	line "Why'd I lose?"
+	text "'riatí?"
+	line "'riatí na xásv?"
 	prompt
 
 _Route14CooltrainerM5AfterBattleText::
-	text "The 3 legendary"
-	line "#MON are all"
-	cont "birds of prey."
+	text "Ta 3 uryliká"
+	line "#mon ua"
+	cont "eínai diká moy."
 	done
 
 _Route14CooltrainerM6BattleText::
-	text "I'm not into it,"
-	line "but OK! Let's go!"
+	text "'den eímai kalóº,"
+	line "allá OK! Üáme!"
 	done
 
 _Route14CooltrainerM6EndBattleText::
-	text "I"
-	line "knew it!"
+	text "To"
+	line "qjera!"
 	prompt
 
 _Route14CooltrainerM6AfterBattleText::
-	text "Winning, losing,"
-	line "it doesn't matter"
-	cont "in the long run!"
+	text "Nikqseiº, xáseiº,"
+	line "den éxei shmasía"
+	cont "sto súnolo!"
 	done
 
 _Route14Biker1BattleText::
-	text "C'mon, c'mon."
-	line "Let's go, let's"
-	cont "go, let's go!"
+	text "Éla, éla."
+	line "Üáme, páme,"
+	cont "páme!"
 	done
 
 _Route14Biker1EndBattleText::
-	text "Arrg!"
-	line "Lost! Get lost!"
+	text "Arrgk!"
+	line "Éxasa! Éxasa!"
 	prompt
 
 _Route14Biker1AfterBattleText::
-	text "What, what, what?"
-	line "What do you want?"
+	text "Ti, ti, ti?"
+	line "Ti na pv?"
 	done
 
 _Route14Biker2BattleText::
-	text "Perfect! I need to"
-	line "burn some time!"
+	text "Téleia! Òélv na"
+	line "xásv lígo xróno!"
 	done
 
 _Route14Biker2EndBattleText::
-	text "What?"
-	line "You!?"
+	text "Ti?"
+	line "Esú!?"
 	prompt
 
 _Route14Biker2AfterBattleText::
-	text "Raising #MON"
-	line "is a drag, man."
+	text "Ta mikrá #mon"
+	line "eínai baretá."
 	done
 
 _Route14Biker3BattleText::
-	text "We ride out here"
-	line "because there's"
-	cont "more room!"
+	text "Öeúgoyme apó"
+	line "edw giatí ypárxei"
+	cont "kai álloº xwroº!"
 	done
 
 _Route14Biker3EndBattleText::
-	text "Wipe out!"
+	text "Broym!"
 	prompt
 
 _Route14Biker3AfterBattleText::
-	text "It's cool you"
-	line "made your #MON"
-	cont "so strong!"
+	text "Eínai vraío poy"
+	line "ékaneº ta #mon"
+	cont "soy tóso dynatá!"
 
-	para "Might is right!"
-	line "And you know it!"
+	para "'dynatá, grqgora!"
+	line "Öúgame gia alloú!"
 	done
 
 _Route14Biker4BattleText::
-	text "#MON fight?"
-	line "Cool! Rumble!"
+	text "Máxh #mon?"
+	line "'vraía! Öúgame!"
 	done
 
 _Route14Biker4EndBattleText::
-	text "Blown"
-	line "away!"
+	text "Éfyga"
+	line "me qtta!"
 	prompt
 
 _Route14Biker4AfterBattleText::
-	text "You know who'd"
-	line "win, you and me"
-	cont "one on one!"
+	text "Ìjereº poióº ua"
+	line "nikoúse, énaº"
+	cont "proº énan!"
 	done
 
 _Route14SignText::
-	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "'dPOMO's 14"
+	line "dytika thº"
+	cont "ÜO'lH's FUCHSIA"
 	done

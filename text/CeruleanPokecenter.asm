@@ -1,24 +1,24 @@
 _CeruleanPokecenterSuperNerdText::
-	text "That BILL!"
+	text "Aytóº o BILL!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "Ákoysa óti ua"
+	line "ékane ta pánta"
+	cont "gia na párei"
+	cont "spánia #mon!"
 	done
 
 _CeruleanPokecenterGentlemanText::
-	text "Have you heard"
-	line "about BILL?"
+	text "Ákoyseº gia"
+	line "ton BILL?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "Óloi ton fvnázoyn"
+	line "Üokemaniakó!"
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "Üisteúv pvº"
+	line "aplwº zhleúoyn"
+	cont "ton BILL, ómvº."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "Üoióº den ua"
+	line "quele na kayxié-"
+	cont "tai gia #mon?"
 	done

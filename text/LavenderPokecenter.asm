@@ -1,12 +1,12 @@
 _LavenderPokecenterGentlemanText::
-	text "TEAM ROCKET will"
-	line "do anything for"
-	cont "the sake of gold!"
+	text "H OMA'dA ÜYPAY'lO's"
+	line "ua ékane ta pánta"
+	cont "gia ton xrysó!"
 	done
 
 _LavenderPokecenterLittleGirlText::
-	text "I saw CUBONE's"
-	line "mother die trying"
-	cont "to escape from"
-	cont "TEAM ROCKET!"
+	text "Eída thn mhtéra"
+	line "toy CUBONE na"
+	cont "peuaínei gia na"
+	cont "toyº jefúgei!"
 	done

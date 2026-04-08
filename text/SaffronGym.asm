@@ -1,239 +1,239 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "Eíxa órama gia"
+	line "thn áfijh soy!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "Eíxa cyxikéº"
+	line "dynámeiº apó"
+	cont "mikró paidí."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Ürwta émaua na"
+	line "lygízv koytália"
+	cont "me to myaló moy."
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "Antipauw thn"
+	line "máxh, ma an ueº,"
+	cont "ua soy deíjv"
+	cont "dúnamh!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "Eímai"
+	line "sokarizménh!"
+	cont "Ma, h qtta"
+	cont "eínai qtta."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "Üaradéxomai pvº"
+	line "den doúleca sklh-"
+	cont "rá gia na nikqsv!"
 
-	para "You earned the"
-	line "MARSHBADGE!@"
+	para "Kérdiseº to"
+	line "ñYXOEMB'lHMA!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "Óloi éxoyn"
+	line "cyxikéº dynámeiº!"
+	cont "Üolloí den to"
+	cont "katalabaínoyn!"
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "To ñYXOEMB'lHMA"
+	line "kánei ta L70 #"
+	cont "mon na ypakoún!"
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	para "Üio dynatá #mon"
+	line "ua gínontai ágria,"
+	cont "agnowntaº tiº"
+	cont "entoléº sth máxh!"
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "Mh megalwseiº"
+	line "ta #mon soy"
+	cont "pára polú!"
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "'stásoy, páre aytó"
+	line "to TM mazí soy!"
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "TM46!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	para "TM46 eínai ñYXO-"
+	line "KYMA! Bgázei"
+	cont "cyxiká kúmata"
+	cont "prokalóntaº zhmiá!"
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Your pack is full"
-	line "of other items!"
+	text "O sákoº eínai"
+	line "gemátoº!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Éi! Nikhtq"
+	line "toy aúrio!"
 
-	para "SABRINA's #MON"
-	line "use psychic power"
-	cont "instead of force!"
+	para "Ta #mon thº 'sA-"
+	line "MÜPINA éxoyn cy-"
+	cont "xikéº dynámeiº!"
 
-	para "Fighting #MON"
-	line "are weak against"
-	cont "psychic #MON!"
+	para "Maxhtiká #mon"
+	line "eínai adúnama sta"
+	cont "cyxiká #mon!"
 
-	para "They get creamed"
-	line "before they can"
-	cont "even aim a punch!"
+	para "'lypouhmoún"
+	line "prin proláboyn na"
+	cont "ríjoyn mia grouiá!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Psychic power,"
-	line "huh?"
+	text "ñyxikq dúnamh,"
+	line "e?"
 
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	para "An to eíxa aytó,"
+	line "ua nikoúsa pánta"
+	cont "sto kazíno!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "H 'sAMÜPINA eínai"
+	line "pio néa apó eména,"
+	cont "ma thn sébomai!"
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Óxi"
+	line "arketá kalóº!"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
+	text "'se máxh ísoº me"
+	line "íso, ua nikqsei"
+	cont "móno o pio"
+	cont "dynatóº!"
 
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	para "An ueº na nikq-"
+	line "seiº thn 'sAMÜPINA,"
+	cont "estiásoy sth níkh!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Does our unseen"
-	line "power scare you?"
+	text "'se tromázei h"
+	line "aórath dúnamh maº?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "I never"
-	line "foresaw this!"
+	text "Aytó den"
+	line "to proébleca!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
-	line "fear only ghosts"
-	cont "and bugs!"
+	text "Ta cyxiká #mon"
+	line "foboúntai éntoma"
+	cont "kai fantásmata!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
+	text "#mon paírnoyn"
+	line "thn symperiforá"
+	cont "tvn ekpaideytwn."
 
-	para "Your #MON must"
-	line "be tough, then!"
+	para "To #mon soy"
+	line "eínai dynató!"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "I knew"
-	line "it!"
+	text "To"
+	line "qjera!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "Ürépei na máuv"
+	line "álleº texnikéº"
+	cont "sta #mon moy!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "jereº óti h"
+	line "dúnamh móno"
+	cont "den arkeí?"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "I don't"
-	line "believe this!"
+	text "'den to"
+	line "pisteúv!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "H 'sAMÜPINA níkhse"
+	line "ton 'dA'sKA'lO thº"
+	cont "diplanqº pórtaº!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "Esú kai egw,"
+	line "ta #mon maº"
+	cont "ua palécoyn!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text "I lost"
-	line "after all!"
+	text "Teliká"
+	line "éxasa!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "Eíxa problécei"
+	line "oti ua ginótan"
+	cont "aytó."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
+	text "H 'sAMÜPINA eínai"
+	line "néa, ma eínai kai"
+	cont "h H'rETH's maº!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "'den ua thn"
+	line "ftáseiº étsi aplá!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "I lost"
-	line "my concentration!"
+	text "Éxasa thn"
+	line "sygkéntrvsh moy!"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "There used to be"
-	line "2 #MON GYMs in"
+	text "Ypqrxan 2 #"
+	line "mon GYM sth"
 	cont "SAFFRON."
 
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	para "To MAXHTIKO DOJO"
+	line "dípla éxase thn"
+	cont "GYM fqmh toy"
+	cont "ótan pqgame"
+	cont "kai nikqsame!"
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "SAFFRON #MON"
-	line "GYM is famous for"
-	cont "its psychics!"
+	text "To #MON GYM"
+	line "thº SAFFRON éxei"
+	cont "cyxiká átoma!"
 
-	para "You want to see"
-	line "SABRINA!"
-	cont "I can tell!"
+	para "Òéleiº na deiº"
+	line "thn 'sAMÜPINA,"
+	cont "mporw na pv!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
-	text "Arrrgh!"
+	text "Arrrgkx!"
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "That's right! I"
-	line "used telepathy to"
-	cont "read your mind!"
+	text "Eída thle-"
+	line "pauhtiká to"
+	cont "myaló soy!"
 	done

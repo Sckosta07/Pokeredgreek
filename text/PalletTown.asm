@@ -1,56 +1,56 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Éi! 'stásoy!"
+	line "Mhn proxvráº!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: 'stamáta!"
+	line "Ágria #mon"
+	cont "zoyn sto grasídi!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Xreiázesai to"
+	line "dikó soy #mon"
+	cont "gia prostasía."
+	cont "Katálaba!"
 
-	para "Here, come with"
-	line "me!"
+	para "Twra, éla"
+	line "mazí moy!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "'dynamwnv kai"
+	line "egw #mon!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Ótan gínoyn"
+	line "dynatá ua me"
+	cont "prostateúoyn!"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "H texnología"
+	line "eínai ypéroxh!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Twra díneiº kai"
+	line "paírneiº prágmata"
+	cont "ópvº kai #mon"
+	cont "sto PC!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "EP'rA'sTHPIO EPEYNA's"
+	line "ÜOKEMON toy OAK"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "ÜO'lH PALLET"
+	line "To tajídi soy"
+	cont "se periménei!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "'spíti toy <PLAYER>"
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "'spíti toy <RIVAL>"
 	done

@@ -1,44 +1,44 @@
 _FuchsiaGoodRodHouseFishingGuruText::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
+	text "Eímai o megáloº"
+	line "adelfóº toy 'rKOY-"
+	cont "POY ñAPEMATO's!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Aplá agapáv"
+	line "na careúv!"
 
-	para "Do you like to"
-	line "fish?"
+	para "'soy arésoyn"
+	line "ta cária?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "Téleia! Moy aré-"
+	line "sei to styl soy!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Üáre aytó kai"
+	line "cárece, mikré!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "'v... póso"
+	line "apogohteytikó..."
 	done
 
 _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
-	text "Hello there,"
+	text "'reia soy,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Tsimpáei to"
+	line "cári soy?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "'vx óxi!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "'den éxeiº xwro"
+	line "gia to dwro moy!"
 	done

@@ -1,12 +1,12 @@
 _SaffronPokecenterBeautyText::
-	text "#MON growth"
-	line "rates differ from"
-	cont "specie to specie."
+	text "Ta #mon megalw-"
+	line "noyn diaforetiká"
+	cont "metajú toyº."
 	done
 
 _SaffronPokecenterGentlemanText::
-	text "SILPH CO. is very"
-	line "famous. That's"
-	cont "why it attracted"
-	cont "TEAM ROCKET!"
+	text "H SILPH eínai"
+	line "diáshmh. 'ri' aytó"
+	cont "thº epitéuhkan"
+	cont "oi ÜYPAY'lOI!"
 	done

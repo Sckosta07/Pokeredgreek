@@ -1,108 +1,108 @@
 _Route10SuperNerd1BattleText::
-	text "Wow, are you a"
-	line "#MANIAC too?"
-	cont "Want to see my"
-	cont "collection?"
+	text "Oyáoy, Kai esú"
+	line "Üvroménoº? Òeº"
+	cont "na deiº thn"
+	cont "syllogq moy?"
 	done
 
 _Route10SuperNerd1EndBattleText::
-	text "Humph."
-	line "I'm not angry!"
+	text "Xamf."
+	line "Eímai kalá!"
 	prompt
 
 _Route10SuperNerd1AfterBattleText::
-	text "I have more rare"
-	line "#MON at home!"
+	text "Éxv álla spánia"
+	line "#mon sto spíti!"
 	done
 
 _Route10Hiker1BattleText::
-	text "Ha-hahah-ah-ha!"
+	text "Xa-xaxax-ax-xa!"
 	done
 
 _Route10Hiker1EndBattleText::
-	text "Ha-haha!"
-	line "Not laughing!"
-	cont "Ha-hay fever!"
-	cont "Haha-ha-choo!"
+	text "Xaxaxa!"
+	line "'den geláv!"
+	cont "Xa-xay pyretóº!"
+	cont "Xaxa-xa-coy!"
 	prompt
 
 _Route10Hiker1AfterBattleText::
-	text "Haha-ha-choo!"
-	line "Ha-choo!"
-	cont "Snort! Snivel!"
+	text "Xaxa-xa-coy!"
+	line "Xa-coy!"
+	cont "Öúshma! Kláma!"
 	done
 
 _Route10SuperNerd2BattleText::
-	text "Hi kid, want to"
-	line "see my #MON?"
+	text "Mikré, ueº na deiº"
+	line "ta #mon moy?"
 	done
 
 _Route10SuperNerd2EndBattleText::
-	text "Oh no!"
-	line "My #MON!"
+	text "Óxi!"
+	line "Ta #mon moy!"
 	prompt
 
 _Route10SuperNerd2AfterBattleText::
-	text "I don't like you"
-	line "for beating me!"
+	text "'den se sympauw"
+	line "epeidq me níkhseº!"
 	done
 
 _Route10CooltrainerF1BattleText::
-	text "I've been to a"
-	line "#MON GYM a few"
-	cont "times. But, I"
-	cont "lost each time."
+	text "Üqga se ena #"
+	line "mon GYM polléº"
+	cont "foréº, allá, éxa-"
+	cont "na káue forá."
 	done
 
 _Route10CooltrainerF1EndBattleText::
-	text "Ohh!"
-	line "Blew it again!"
+	text "Ta"
+	line "ualássvsa palí!"
 	prompt
 
 _Route10CooltrainerF1AfterBattleText::
-	text "I noticed some"
-	line "#MANIACs"
-	cont "prowling around."
+	text "Üróseja óti oi"
+	line "#maniakoí bo-"
+	cont "ltároyn edw gúrv."
 	done
 
 _Route10Hiker2BattleText::
-	text "Ah! This mountain"
-	line "air is delicious!"
+    text "Aaxx! 'vraíoº o"
+	line "aéraº toy boynoú!"
 	done
 
 _Route10Hiker2EndBattleText::
-	text "That"
-	line "cleared my head!"
+	text "Kauári-"
+	line "se to myaló moy!"
 	prompt
 
 _Route10Hiker2AfterBattleText::
-	text "I feel bloated on"
-	line "mountain air!"
+	text "Me xaláei o aéraº"
+	line "toy boynoú!"
 	done
 
 _Route10CooltrainerF2BattleText::
-	text "I'm feeling a bit"
-	line "faint from this"
-	cont "tough hike."
+	text "Niwuv lígo eja-"
+	line "ntlhménh apó"
+	cont "thn oreibasía."
 	done
 
 _Route10CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not up to it!"
+	text "'den"
+	line "eímai gi' aytó!"
 	prompt
 
 _Route10CooltrainerF2AfterBattleText::
-	text "The #MON here"
-	line "are so chunky!"
-	cont "There should be a"
-	cont "pink one with a"
-	cont "floral pattern!"
+	text "Ta #mon edw"
+	line "eínai megála!"
+	cont "Mállon ypárxei"
+	cont "éna roz me"
+	cont "florál motíbo!"
 	done
 
 _Route10RockTunnelSignText::
-	text "ROCK TUNNEL"
+	text "TOYNE'l BPAXOY"
 	done
 
 _Route10PowerPlantSignText::
-	text "POWER PLANT"
+	text "EP'rO'sTA'sIO"
 	done

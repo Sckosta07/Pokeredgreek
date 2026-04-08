@@ -1,26 +1,26 @@
 _MrPsychicsHouseMrPsychicYouWantedThisText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "...'stásoy! Mhn"
+	line "peiº léjh!"
 
-	para "You wanted this!"
+	para "To ueº aytó!"
 	prompt
 
 _MrPsychicsHouseMrPsychicReceivedTM29Text::
-	text "<PLAYER> received"
+	text "O <PLAYER> pqre"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MrPsychicsHouseMrPsychicTM29ExplanationText::
-	text "TM29 is PSYCHIC!"
+	text "TM29 éxei ñYXIKH!"
 
-	para "It can lower the"
-	line "target's SPECIAL"
-	cont "abilities."
+	para "Mporeí na xamh-"
+	line "lwsei tiº EI'dIKE's"
+	cont "ikanóthteº exurwn."
 	done
 
 _MrPsychicsHouseMrPsychicTM29NoRoomText::
-	text "Where do you plan"
-	line "to put this?"
+	text "Üoy skopeúeiº"
+	line "na to paº aytó?"
 	done

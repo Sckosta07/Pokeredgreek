@@ -1,35 +1,35 @@
 _RocketHideoutB3FRocket1BattleText::
-	text "Stop meddling in"
-	line "TEAM ROCKET's"
-	cont "affairs!"
+	text "'stamáta na ana-"
+	line "kateúesai sta"
+	cont "uémata maº!"
 	done
 
 _RocketHideoutB3FRocket1EndBattleText::
-	text "Oof!"
-	line "Taken down!"
+	text "'vx! Thn"
+	line "páthsa!"
 	prompt
 
 _RocketHideoutB3FRocket1AfterBattleText::
-	text "SILPH SCOPE?"
-	line "The machine the"
-	cont "BOSS stole. It's"
-	cont "here somewhere."
+	text "ÖAKO's 'sI'lÖ?"
+	line "H mhxanq poy to"
+	cont "AÖENTIKO éklece."
+	cont "Eínai kápoy edw."
 	done
 
 _RocketHideout3BattleText::
-	text "We got word from"
-	line "upstairs that you"
-	cont "were coming!"
+	text "Maº eípan apó"
+	line "pánv pvº ua"
+	cont "erxósoyn!"
 	done
 
 _RocketHideout3EndBattleText3::
-	text "What?"
-	line "I lost? No!"
+	text "Ti? Éxv"
+	line "xásei? Óxiii!"
 	prompt
 
 _RocketHide3AfterBattleText3::
-	text "Go ahead and go!"
-	line "But, you need the"
-	cont "LIFT KEY to run"
-	cont "the elevator!"
+	text "Öúge loípon! Ma,"
+	line "ua xreiasteíº thn"
+	cont "KAPTA K'lEI'dI gia"
+	cont "na doylécei!"
 	done

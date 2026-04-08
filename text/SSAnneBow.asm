@@ -1,52 +1,52 @@
 _SSAnneBowSuperNerdText::
-	text "The party's over."
-	line "The ship will be"
-	cont "departing soon."
+	text "To párty teleívse."
+	line "To ploío ua apo-"
+	cont "pleúsei súntoma."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Scrubbing decks"
-	line "is hard work!"
+	text "Oi doyleiéº"
+	line "eínai dúskoleº!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Urf. I feel ill."
+	text "Af, niwuv árvstoº."
 
-	para "I stepped out to"
-	line "get some air."
+	para "Bgqka éjv gia"
+	line "na párv aéra."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey matey!"
+	text "Éi filaráko!"
 
-	para "Let's do a little"
-	line "jig!"
+	para "Aº carécoyme"
+	line "lígo!"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "You're"
-	line "impressive!"
+	text "Eísai"
+	line "ekplhtikóº!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "How many kinds of"
-	line "#MON do you"
-	cont "think there are?"
+	text "Üósa eídh apó"
+	line "#mon nomízeiº"
+	cont "óti ypárxoyn?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoy there!"
-	line "Are you seasick?"
+	text "'reia soy!"
+	line "Éxeiº naytía?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "I was"
-	line "just careless!"
+	text "Ìmoyn lígo"
+	line "aprósektoº!"
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
-	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	text "Kápoioº eípe óti"
+	line "eínai 100 eídh"
+	cont "#mon. Nomízv"
+	cont "eínai kai álla."
 	done

@@ -1,1509 +1,1509 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "Ürostateyméno"
+	next "apó sklhró dé-"
+	next "rma, eínai ikanó"
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "na zei se livmé-"
+	next "nh lába 3,600"
+	next "baumwn"
 	dex
 
 _KangaskhanDexEntry::
-	text "The infant rarely"
-	next "ventures out of"
-	next "its mother's"
+	text "To mikró spánia"
+	next "tolmá na bgei"
+	next "éjv apó thn"
 
-	page "protective pouch"
-	next "until it is 3"
-	next "years old"
+	page "tséph prostasíaº"
+	next "thº mamáº méxri"
+	next "ta 3 xrónia toy"
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "'sklhraínei ta ay-"
+	next "tiá gia kindúnoyº."
+	next "Óso pio megálo"
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "kérato éxei, tóso"
+	next "pio dynatá ekrínei"
+	next "dhlhtqrio"
 	dex
 
 _ClefairyDexEntry::
-	text "Its magical and"
-	next "cute appeal has"
-	next "many admirers."
+	text "H magikq kai"
+	next "xarvpq emfánish"
+	next "éxei uaymastéº."
 
-	page "It is rare and"
-	next "found only in"
-	next "certain areas"
+	page "Eínai spánio kai"
+	next "to brískeiº móno"
+	next "se líga mérh"
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "Trwei éntoma se"
+	next "mérh me grasídi."
+	next "Ürépei na anoíjei"
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "lígo tiº fteroúgeº"
+	next "grqgora gia na"
+	next "petájei"
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "'synquvº brísketai"
+	next "se ergostásia."
+	next "Eúkola mperdeú-"
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "ontai me #BALL,"
+	next "éxoyn hlektrísei"
+	next "polú kósmo"
 	dex
 
 _NidokingDexEntry::
-	text "It uses its"
-	next "powerful tail in"
-	next "battle to smash,"
+	text "Bázei thn dynatq"
+	next "oyrá toy sth máxh"
+	next "gia na xtypáei,"
 
-	page "constrict, then"
-	next "break the prey's"
-	next "bones"
+	page "sfíggei, metá"
+	next "plhgwnei to"
+	next "uqrama toy"
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
-	next "is latched onto"
-	next "SLOWPOKE's tail"
+	text "To SHELLDER poy"
+	next "gatzwnetai sthn"
+	next "oyrá toy SLOW-"
 
-	page "is said to feed"
-	next "on the host's left"
-	next "over scraps"
+	page "POKE. 'léne pvº"
+	next "urefetai apó"
+	next "thn oyrá toy"
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Ótan o bolbóº"
+	next "písv megalwnei,"
+	next "faínetai pvº"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "xánei thn ikanó-"
+	next "thta na staueí"
+	next "sta písv pódia"
 	dex
 
 _ExeggutorDexEntry::
-	text "Legend has it that"
-	next "on rare occasions,"
-	next "one of its heads"
+	text "Ypárxei se spá-"
+	next "nieº ypouéseiº."
+	next "Éna apó ta kefália"
 
-	page "will drop off and"
-	next "continue on as an"
+	page "toy ua pései kai"
+	next "ua synexísei vº"
 	next "EXEGGCUTE"
 	dex
 
 _LickitungDexEntry::
-	text "Its tongue can be"
-	next "extended like a"
-	next "chameleon's. It"
+	text "H glwssa toy mpo-"
+	next "reí na epektaueí"
+	next "san toy CHARME-"
 
-	page "leaves a tingling"
-	next "sensation when it"
-	next "licks enemies"
+	page "LEON. Afqnei"
+	next "moúdiasma ótan"
+	next "glúfei exuroúº"
 	dex
 
 _ExeggcuteDexEntry::
-	text "Often mistaken"
-	next "for eggs."
-	next "When disturbed,"
+	text "'syxná mperdeú-"
+	next "ontai me aygá."
+	next "Ótan uymwnoyn"
 
-	page "they quickly"
-	next "gather and attack"
-	next "in swarms"
+	page "mazeúontai grq-"
+	next "gora kai epitíue-"
+	next "ntai se smqnoº"
 	dex
 
 _GrimerDexEntry::
-	text "Appears in filthy"
-	next "areas. Thrives by"
-	next "sucking up"
+	text "Ypárxei se áulia"
+	next "mérh. Akmázoyn"
+	next "royfwntaº moly-"
 
-	page "polluted sludge"
-	next "that is pumped"
-	next "out of factories"
+	page "sménh lásph"
+	next "poy petáxthke"
+	next "apó ergostásia"
 	dex
 
 _GengarDexEntry::
-	text "Under a full moon,"
-	next "this #MON"
-	next "likes to mimic"
+	text "'se pansélhno,"
+	next "aytó to #mon"
+	next "arésketai na"
 
-	page "the shadows of"
-	next "people and laugh"
-	next "at their fright"
+	page "mimeítai skiéº"
+	next "kósmoy kai ge-"
+	next "lá óso foboúntai"
 	dex
 
 _NidoranFDexEntry::
-	text "Although small,"
-	next "its venomous"
-	next "barbs render this"
+	text "An kai mikró, oi"
+	next "dhlhthriwdeiº mú-"
+	next "teº to deíxnoyn"
 
-	page "#MON dangerous."
-	next "The female has"
-	next "smaller horns"
+	page "vº epikíndyno."
+	next "To uylikó éxei"
+	next "pio mikró kéraº"
 	dex
 
 _NidoqueenDexEntry::
-	text "Its hard scales"
-	next "provide strong"
-	next "protection. It"
+	text "Ta sklhrá lépia"
+	next "dínoyn dynatq"
+	next "prostasía."
 
-	page "uses its hefty"
-	next "bulk to execute"
-	next "powerful moves"
+	page "Bázei ton megálo"
+	next "ógko gia dynatéº"
+	next "kinqseiº"
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "Epeidq den bgázei"
+	next "poté to kranío"
+	next "kránoº, kaneíº"
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "den eíde kaneíº"
+	next "to prósvpo aytoú"
+	next "toy #mon"
 	dex
 
 _RhyhornDexEntry::
-	text "Its massive bones"
-	next "are 1000 times"
-	next "harder than human"
+	text "Ta ogkwdh kókala"
+	next "eínai 1000 foréº"
+	next "pio sklhrá apó ta"
 
-	page "bones. It can"
-	next "easily knock a"
-	next "trailer flying"
+	page "anurwpina."
+	next "Eúkola ua ríjei"
+	next "kápoion sto aéra"
 	dex
 
 _LaprasDexEntry::
-	text "A #MON that"
-	next "has been over-"
-	next "hunted almost to"
+	text "Éna #mon poy"
+	next "éxei sxedón"
+	next "odhghueí sthn"
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "ejafánish. Mpo-"
+	next "reí na se metafé-"
+	next "rei sth uálassa"
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that"
-	next "has been admired"
-	next "since the past"
+	text "Éna #mon poy"
+	next "eínai uaymastó"
+	next "afoú éxei pareluón"
 
-	page "for its beauty."
-	next "It runs agilely"
-	next "as if on wings"
+	page "gia thn omorfiá"
+	next "toy. Eínai eykính-"
+	next "to sta xtypqmata"
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "Tóso spánio poy"
+	next "akóma léne pvº"
+	next "eínai uaúma apó"
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "toyº eidikoúº. Mó-"
+	next "no lígoi to éxoyn"
+	next "dei pagkosmívº"
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "'spánia ua to deiº"
+	next "sthn erhmiá. Me-"
+	next "gálo kai moxuhró,"
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "eínai ikanó gia"
+	next "katastroféº se"
+	next "póleiº me orgq"
 	dex
 
 _ShellderDexEntry::
-	text "Its hard shell"
-	next "repels any kind"
-	next "of attack."
+	text "To sklhró kélyfoº"
+	next "apoueí káue"
+	next "eídoº epíueshº."
 
-	page "It is vulnerable"
-	next "only when its"
-	next "shell is open"
+	page "eínai eyálvto"
+	next "móno ótan to"
+	next "kélyfoº anoíjei"
 	dex
 
 _TentacoolDexEntry::
-	text "Drifts in shallow"
-	next "seas. Anglers who"
-	next "hook them by"
+	text "Üléei se glyká ne-"
+	next "rá. Üaidiá poy"
+	next "ta piánoyn katá"
 
-	page "accident are"
-	next "often punished by"
-	next "its stinging acid"
+	page "láuoº paízoyn"
+	next "mazí toyº kai"
+	next "ta eleyuerwnoyn"
 	dex
 
 _GastlyDexEntry::
-	text "Almost invisible,"
-	next "this gaseous"
-	next "#MON cloaks"
+	text "'sxedón aórato,"
+	next "aytó to aério"
+	next "#mon kalúptei"
 
-	page "the target and"
-	next "puts it to sleep"
-	next "without notice"
+	page "ton stóxo kai"
+	next "ton koimqzei"
+	next "xvríº eidopoiqsh"
 	dex
 
 _ScytherDexEntry::
-	text "With ninja-like"
-	next "agility and speed,"
-	next "it can create the"
+	text "Me taxúthta kai"
+	next "sbeltáda san nín-"
+	next "tza, ftiáxnei cey-"
 
-	page "illusion that"
-	next "there is more"
-	next "than one"
+	page "daísuhsh poy"
+	next "eínai perissóte-"
+	next "reº apó mia"
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "Éna enigmatikó"
+	next "#mon poy"
+	next "eúkola janá"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "ftiáxnei káue"
+	next "apófysh poy xá-"
+	next "nei sth máxh"
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "Éna zvwdeº #mon"
+	next "me stómia neroú"
+	next "poy piézoyn apó"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "to kélyfoº. Ta"
+	next "bázei gia yper-"
+	next "taxía xtypqmata"
 	dex
 
 _PinsirDexEntry::
-	text "If it fails to"
-	next "crush the victim"
-	next "in its pincers,"
+	text "An apotúxei na"
+	next "nikqsei ton exuró"
+	next "me tiº dagkáneº"
 
-	page "it will swing it"
-	next "around and toss"
-	next "it hard"
+	page "toy, ton strifo-"
+	next "gyrízei kai ton"
+	next "ríxnei me dúnamh"
 	dex
 
 _TangelaDexEntry::
-	text "The whole body is"
-	next "swathed with wide"
-	next "vines that are"
+	text "Olóklhro to swma"
+	next "toy tylígetai me"
+	next "platiá kladiá poy"
 
-	page "similar to sea-"
-	next "weed. Its vines"
-	next "shake as it walks"
+	page "eínai san fúkia."
+	next "Ta kladiá toy paí-"
+	next "zoyn óso perpatá"
 	dex
 
 _GrowlitheDexEntry::
-	text "Very protective"
-	next "of its territory."
-	next "It will bark and"
+	text "Üolú prostatey-"
+	next "tikó sth perioxq"
+	next "toy. 'raygízei kai"
 
-	page "bite to repel"
-	next "intruders from"
-	next "its space"
+	page "dagkwnei toyº"
+	next "eisboleíº apó"
+	next "kontá"
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "Óso megalwnei, ta"
+	next "pétrina mérh toy"
+	next "swmatoº sklhraí-"
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "noyn kai moiá-"
+	next "zoyn me diamàntia,"
+	next "me maúro xrwma"
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "Me ta megála kai"
+	next "ypéroxa fterá toy,"
+	next "mporeí na petájei"
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "xvríº poté na"
+	next "prosgeivueí q"
+	next "na jekoyrasteí"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "To blépei kaneíº"
+	next "syxná se dásh."
+	next "Anemízei ta fterá"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "toy sto édafoº"
+	next "gia na petájei"
+	next "ámmo túflvshº"
 	dex
 
 _SlowpokeDexEntry::
-	text "Incredibly slow"
-	next "and dopey. It"
-	next "takes 5 seconds"
+	text "Apísteyta argó"
+	next "kai xazó. xreiá-"
+	next "zetai 5 deútera"
 
-	page "for it to feel"
-	next "pain when under"
-	next "attack"
+	page "gia na niwsei"
+	next "póno ótan toy"
+	next "epitíuentai"
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "Bgazei eidiká"
+	next "kúmata álfa"
+	next "ap' to swma toy"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "poy kánoyn"
+	next "zaládeº me to"
+	next "poy eínai kontá"
 	dex
 
 _GravelerDexEntry::
-	text "Rolls down slopes"
-	next "to move. It rolls"
-	next "over any obstacle"
+	text "Kyláei plagiéº gia"
+	next "kínhsh. Üerná"
+	next "pánv apó káue"
 
-	page "without slowing"
-	next "or changing its"
-	next "direction"
+	page "empódio xvríº na"
+	next "argqsei q na allá-"
+	next "jei kateúuynsh"
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "'spánio kai ápiasto"
+	next "#mon poy léne"
+	next "óti férnei thn"
 
-	page "happiness to those"
-	next "who manage to get"
-	next "it"
+	page "eytyxía se ópoion"
+	next "kataférei na to"
+	next "piásei"
 	dex
 
 _MachokeDexEntry::
-	text "Its muscular body"
-	next "is so powerful, it"
-	next "must wear a power"
+	text "To mywdeº swma"
+	next "toy eínai dynató."
+	next "Ürépei na foráei"
 
-	page "save belt to be"
-	next "able to regulate"
-	next "its motions"
+	page "zwnh asfaleíaº"
+	next "gia na elégxei ta"
+	next "synaisuqmata toy"
 	dex
 
 _MrMimeDexEntry::
-	text "If interrupted"
-	next "while it is"
-	next "miming, it will"
+	text "An to diakócoyn"
+	next "kauwº mimeítai,"
+	next "ua ríjei fápa ston"
 
-	page "slap around the"
-	next "offender with its"
-	next "broad hands"
+	page "parabáth me"
+	next "ta fardiá toy"
+	next "xéria"
 	dex
 
 _HitmonleeDexEntry::
-	text "When in a hurry,"
-	next "its legs lengthen"
-	next "progressively."
+	text "Ótan tréxei, ta"
+	next "pódia toy mega-"
+	next "lenoyn stadiaká."
 
-	page "It runs smoothly"
-	next "with extra long,"
-	next "loping strides"
+	page "Tréxei ómorfa"
+	next "me epipléon,"
+	next "bqmata"
 	dex
 
 _HitmonchanDexEntry::
-	text "While apparently"
-	next "doing nothing, it"
-	next "fires punches in"
+	text "Enw faínetai na"
+	next "mhn kánei típota,"
+	next "ríxnei grqgora"
 
-	page "lightning fast"
-	next "volleys that are"
-	next "impossible to see"
+	page "grouiéº poy"
+	next "eínai adúnaton"
+	next "na dei kaneíº"
 	dex
 
 _ArbokDexEntry::
-	text "It is rumored that"
-	next "the ferocious"
-	next "warning markings"
+	text "'léne óti ta "
+	next "tromerá súmbola"
+	next "poy éxei sthn"
 
-	page "on its belly"
-	next "differ from area"
-	next "to area"
+	page "koiliá toy"
+	next "allázoyn apó"
+	next "tópo se tópo"
 	dex
 
 _ParasectDexEntry::
-	text "A host-parasite"
-	next "pair in which the"
-	next "parasite mushroom"
+	text "To manitári éxei"
+	next "megalwsei pánv"
+	next "sto éntomo kai"
 
-	page "has taken over the"
-	next "host bug. Prefers"
-	next "damp places"
+	page "twra to kauodhgeí." 
+	next "Ürvtimáei ta"
+	next "mérh me ygrasía"
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "Kauwº jegelá"
+	next "exuroúº me to"
+	next "kenó bléma toy,"
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "to ponhró #mon"
+	next "éxei cyxokinhtikéº"
+	next "dynámeiº"
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "Koimqzei toyº"
+	next "exuroúº kai"
+	next "trwei óneira."
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "Kápoieº foréº"
+	next "arvstaínei me"
+	next "kaká óneira"
 	dex
 
 _GolemDexEntry::
-	text "Its boulder-like"
-	next "body is extremely"
-	next "hard. It can"
+	text "Eínai san bráxoº"
+	next "kai to swma polú"
+	next "sklhró. Mporeí"
 
-	page "easily withstand"
-	next "dynamite blasts"
-	next "without damage"
+	page "eúkola na antéjei"
+	next "ekrqjeiº dynamitwn"
+	next "xvríº zhmiéº"
 	dex
 
 _MagmarDexEntry::
-	text "Its body always"
-	next "burns with an"
-	next "orange glow that"
+	text "To swma toy"
+	next "kaíei me mia"
+	next "portokalí lámch."
 
-	page "enables it to"
-	next "hide perfectly"
-	next "among flames"
+	page "Mporeí na"
+	next "krúbetai téleia"
+	next "mésa stiº flógeº"
 	dex
 
 _ElectabuzzDexEntry::
-	text "Normally found"
-	next "near power plants,"
-	next "they can wander"
+	text "Kanoniká bríske-"
+	next "tai se ergostásia,"
+	next "apomakrínetai"
 
-	page "away and cause"
-	next "major blackouts"
-	next "in cities"
+	page "kai prokaleí"
+	next "mplakáoyt se"
+	next "póleiº"
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "'sxhmatízetai apó"
+	next "MAGNEMITE poy"
+	next "enwuhkan. 'syxná"
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "emfanízetai"
+	next "ótan o qlioº"
+	next "eínai chlá"
 	dex
 
 _KoffingDexEntry::
-	text "Because it stores"
-	next "several kinds of"
-	next "toxic gases in"
+	text "Epeidq fylásei"
+	next "pollá eídh apó"
+	next "tojiká aéria sto"
 
-	page "its body, it is"
-	next "prone to exploding"
-	next "without warning"
+	page "swma toy, éxei thn"
+	next "tásh na ta ríxnei"
+	next "xvriº eidopoíhsh"
 	dex
 
 _MankeyDexEntry::
-	text "Extremely quick to"
-	next "anger. It could"
-	next "be docile one"
+	text "Òymwnei polú"
+	next "eúkola. Eínai"
+	next "ypákoyo"
 
-	page "moment then"
-	next "thrashing away"
-	next "the next instant"
+	page "gia mia stigmq"
+	next "kai metá kánei"
+	next "epíuesh"
 	dex
 
 _SeelDexEntry::
-	text "The protruding"
-	next "horn on its head"
-	next "is very hard."
+	text "To petaxtó kéraº"
+	next "sto kefáli toy"
+	next "eínai sklhró."
 
-	page "It is used for"
-	next "bashing through"
-	next "thick ice"
+	page "To bázei gia na"
+	next "spáei ton paxú"
+	next "págo poy ypárxei"
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "Zei perípoy se"
+	next "mia aylq ypogeívº"
+	next "ópoy tréfetai me"
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "rízeº fytwn. Mpo-"
+	next "reí na emfanisteí"
+	next "sthn epifáneia"
 	dex
 
 _TaurosDexEntry::
-	text "When it targets"
-	next "an enemy, it"
-	next "charges furiously"
+	text "Ótan stoxeúei"
+	next "ton exuró, ormáei"
+	next "jéfrena kauwº"
 
-	page "while whipping its"
-	next "body with its"
-	next "long tails"
+	page "xtypáei to"
+	next "swma toy me tiº"
+	next "megáleº oyréº toy"
 	dex
 
 _FarfetchdDexEntry::
-	text "The sprig of"
-	next "green onions it"
-	next "holds is its"
+	text "Kratáei to"
+	next "prássino kremídi"
+	next "toy san jífoº."
 
-	page "weapon. It is"
-	next "used much like a"
-	next "metal sword"
+	page "To xrhsimopoieí"
+	next "san óplo stiº"
+	next "máxeº toy"
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Zei stiº skiéº"
+	next "tvn chlwn"
+	next "déntrvn ópoy"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "piánei éntoma."
+	next "Elkíetai apó to"
+	next "fvº tiº núxteº"
 	dex
 
 _DragoniteDexEntry::
-	text "An extremely"
-	next "rarely seen"
-	next "marine #MON."
+	text "Éna ejairetiká"
+	next "spánio ualássio"
+	next "#mon."
 
-	page "Its intelligence"
-	next "is said to match"
-	next "that of humans"
+	page "H ejypnáda toy"
+	next "légetai pvº ftá-"
+	next "nei tvn anurwpvn"
 	dex
 
 _DoduoDexEntry::
-	text "A bird that makes"
-	next "up for its poor"
-	next "flying with its"
+	text "Éna poylí poy"
+	next "den petáei"
+	next "chlá allá tréxei"
 
-	page "fast foot speed."
-	next "Leaves giant"
-	next "footprints"
+	page "polú grqgora."
+	next "afqnei gígantieº"
+	next "pathmasiéº"
 	dex
 
 _PoliwagDexEntry::
-	text "Its newly grown"
-	next "legs prevent it"
-	next "from running. It"
+	text "Ta prósfata megá-"
+	next "la pódia empodí-"
+	next "zoyn to tréjimo."
 
-	page "appears to prefer"
-	next "swimming than"
-	next "trying to stand"
+	page "Aytó protimá"
+	next "to kolúmpi apó to"
+	next "na stéketai óruio"
 	dex
 
 _JynxDexEntry::
-	text "It seductively"
-	next "wiggles its hips"
-	next "as it walks. It"
+	text "Xoreúei ólo xará"
+	next "kauwº perpatá."
+	next "Kánei toyº"
 
-	page "can cause people"
-	next "to dance in"
-	next "unison with it"
+	page "álloyº na"
+	next "xoreúoyn mazí"
+	next "thº xaroúmena"
 	dex
 
 _MoltresDexEntry::
-	text "Known as the"
-	next "legendary bird of"
-	next "fire. Every flap"
+	text "'rnvstó vº to"
+	next "urylikó poylí"
+	next "thº fvtiáº."
 
-	page "of its wings"
-	next "creates a dazzling"
-	next "flash of flames"
+	page "Ta fteroygísmata"
+	next "toy mageúoyn"
+	next "me pyrính lámch"
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear to"
+	text "Éna urylikó poylí"
+	next "#mon poy léei"
+	next "óti emfanízetai"
 
-	page "doomed people who"
-	next "are lost in icy"
-	next "mountains"
+	page "se átyxoyº túpoyº"
+	next "poy xáuhkan"
+	next "sta boyná págoy"
 	dex
 
 _ZapdosDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear"
+	text "To urylikó poylí"
+	next "#mon poy léne"
+	next "óti emfanízetai"
 
-	page "from clouds while"
-	next "dropping enormous"
-	next "lightning bolts"
+	page "apó súnnefa kauwº"
+	next "petáei terástioyº"
+	next "keraynoúº"
 	dex
 
 _DittoDexEntry::
-	text "Capable of copying"
-	next "an enemy's genetic"
-	next "code to instantly"
+	text "Ikanó na mimhueí"
+	next "ton genetikó kwdi-"
+	next "ka gia na allájei"
 
-	page "transform itself"
-	next "into a duplicate"
-	next "of the enemy"
+	page "amésvº se éna"
+	next "antígrafo toy"
+	next "exuroú toy"
 	dex
 
 _MeowthDexEntry::
-	text "Adores circular"
-	next "objects. Wanders"
-	next "the streets on a"
+	text "'latreúei ta kykli-"
+	next "ka antikeímena."
+	next "Trigyrná se dró-"
 
-	page "nightly basis to"
-	next "look for dropped"
-	next "loose change"
+	page "moyº th núxta"
+	next "cáxnvntaº gia"
+	next "nomízmata"
 	dex
 
 _KrabbyDexEntry::
-	text "Its pincers are"
-	next "not only powerful"
-	next "weapons, they are"
+	text "Oi dagkáneº toy"
+	next "eínai polú dynatá"
+	next "ópla kai ta bázei"
 
-	page "used for balance"
-	next "when walking"
-	next "sideways"
+	page "gia isorropía"
+	next "kauwº perpatáei"
+	next "sta plágia"
 	dex
 
 _VulpixDexEntry::
-	text "At the time of"
-	next "birth, it has"
-	next "just one tail."
+	text "Thn stigmq thº"
+	next "génnaº, éxei"
+	next "móno mía oyrá." 
 
-	page "The tail splits"
-	next "from its tip as"
-	next "it grows older"
+	page "H oyrá xvrízetai"
+	next "apó thn ákrh"
+	next "óso megalwnei"
 	dex
 
 _NinetalesDexEntry::
-	text "Very smart and"
-	next "very vengeful."
-	next "Grabbing one of"
+	text "Üolú éjypno"
+	next "kai ekdikhtikó."
+	next "Üiánontaº mia"
 
-	page "its many tails"
-	next "could result in a"
-	next "1000-year curse"
+	page "apó tiº oyréº"
+	next "ua bgálei 1000"
+	next "xrónia atyxíaº"
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "Ótan pollá apó"
+	next "aytá ta #mon"
+	next "mazeytoún, o"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "hlektrismóº ua"
+	next "xtqsei ki dwsei"
+	next "hlektrismoúº"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "H megálh oyrá"
+	next "toy bohuáei vº"
+	next "básh gia pro-"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "stasía apó thn"
+	next "dikq toy ychlq"
+	next "tásh"
 	dex
 
 _DratiniDexEntry::
-	text "Long considered a"
-	next "mythical #MON"
-	next "until recently"
+	text "To uevroúsan"
+	next "myuikó #mon"
+	next "méxri poy pró-"
 
-	page "when a small"
-	next "colony was found"
-	next "living underwater"
+	page "sfata anakálycan"
+	next "óti zei kátv apó"
+	next "to neró"
 	dex
 
 _DragonairDexEntry::
-	text "A mystical #MON"
-	next "that exudes a"
-	next "gentle aura."
+	text "To mystikó #mon"
+	next "poy bgázei mia"
+	next "eygenq aúra."
 
-	page "Has the ability"
-	next "to change climate"
-	next "conditions"
+	page "Éxei thn ikanóthta"
+	next "na allázei th kli-"
+	next "matikq katástash"
 	dex
 
 _KabutoDexEntry::
-	text "A #MON that"
-	next "was resurrected"
-	next "from a fossil"
+	text "Éna #mon poy"
+	next "anastquhke"
+	next "apó apolíuvma"
 
-	page "found in what was"
-	next "once the ocean"
-	next "floor eons ago"
+	page "poy bréuhke"
+	next "ston vkeanó"
+	next "prin aiwneº"
 	dex
 
 _KabutopsDexEntry::
-	text "Its sleek shape is"
-	next "perfect for swim-"
-	next "ming. It slashes"
+	text "To swma toy eínai"
+	next "ftiagméno gia na"
+	next "kolympáei."
 
-	page "prey with its"
-	next "claws and drains"
-	next "the body fluids"
+	page "xrhsimopoieí"
+	next "ta núxia toy gia"
+	next "na epitíuetai"
 	dex
 
 _HorseaDexEntry::
-	text "Known to shoot"
-	next "down flying bugs"
-	next "with precision"
+	text "'rnvstó giatí rí-"
+	next "xnei kátv yptámena"
+	next "éntoma me akri-"
 
-	page "blasts of ink"
-	next "from the surface"
-	next "of the water"
+	page "beíº ríceiº mela-"
+	next "nioú apó thn epi-"
+	next "fáneia toy neroú"
 	dex
 
 _SeadraDexEntry::
-	text "Capable of swim-"
-	next "ming backwards by"
-	next "rapidly flapping"
+	text "Ikanó na kolympá"
+	next "anápoda koynó-"
+	next "ntaº ta pterúgia"
 
-	page "its wing-like"
-	next "pectoral fins and"
-	next "stout tail"
+	page "toy uwraka grq-"
+	next "gora kai thn"
+	next "megálh oyrá toy"
 	dex
 
 _SandshrewDexEntry::
-	text "Burrows deep"
-	next "underground in"
-	next "arid locations"
+	text "Zei bauiá kátv"
+	next "apó thn gh se"
+	next "jhrá klqmata"
 
-	page "far from water."
-	next "It only emerges"
-	next "to hunt for food"
+	page "makriá apó neró."
+	next "bgaínei gia na"
+	next "brei faghtó"
 	dex
 
 _SandslashDexEntry::
-	text "Curls up into a"
-	next "spiny ball when"
-	next "threatened. It"
+	text "Ótan kindyneúei"
+	next "gínetai mia agka-"
+	next "uvtq mpála."
 
-	page "can roll while"
-	next "curled up to"
-	next "attack or escape"
+	page "Kylá gia na"
+	next "jefúgei q na"
+	next "epiteueí"
 	dex
 
 _OmanyteDexEntry::
-	text "Although long"
-	next "extinct, in rare"
-	next "cases, it can be"
+	text "An kai éxei"
+	next "xaueí kairó"
+	next "prin, spanívº"
 
-	page "genetically"
-	next "resurrected from"
-	next "fossils"
+	page "mporeí na ana-"
+	next "gennhueí apo"
+	next "apoliuwmata"
 	dex
 
 _OmastarDexEntry::
-	text "A prehistoric"
-	next "#MON that died"
-	next "out when its"
+	text "To proìstorikó"
+	next "#mon poy péua-"
+	next "ne ótan to bary"
 
-	page "heavy shell made"
-	next "it impossible to"
-	next "catch prey"
+	page "kelyfoº to ekane"
+	next "adynaton na pia-"
+	next "sei to faghtó toy"
 	dex
 
 _JigglypuffDexEntry::
-	text "When its huge eyes"
-	next "light up, it sings"
-	next "a mysteriously"
+	text "Ótan ta megála"
+	next "mátia toy lámpoyn,"
+	next "tragoydá mystiri-"
 
-	page "soothing melody"
-	next "that lulls its"
-	next "enemies to sleep"
+	page "wdeº melvdiá"
+	next "poy nanoyízei"
+	next "toyº exuroúº toy"
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "To swma toy eínai"
+	next "malakó. ótan"
+	next "neyriázei, royfáei"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "aéra kai foyskw-"
+	next "nei se terástieº"
+	next "diastáseiº"
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is irregular."
-	next "It may mutate if"
+	text "To swma toy"
+	next "mporeí na allájei."
+	next "An aggíjei mia"
 
-	page "it is exposed to"
-	next "radiation from"
-	next "element STONEs"
+	page "ÜETPA stoixeíoy"
+	next "mporeí na eje-"
+	next "lixueí alliwº"
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "Ótan aporofá"
+	next "hliakq enérgeia"
+	next "sto swma toy,"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "h uermokrasía"
+	next "ftánei se pollú"
+	next "ychloúº baumoúº"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "Mazeúei arnhtiká"
+	next "iónta sthn atmó-"
+	next "sfaira gia na"
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "petájei polú"
+	next "megála bolt"
+	next "keraynoú"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "Zei kontá sto"
+	next "neró. Éxei"
+	next "makriá oyrá"
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "poy syxná thn"
+	next "mperdeúoyn me"
+	next "oyrá gorgónaº"
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "'latreúei na xtqzei"
+	next "toyº múeº toy."
+	next "Ekpaideúetai"
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "se óleº tis pole-"
+	next "mikéº téxneº gia"
+	next "na eínai dynató"
 	dex
 
 _ZubatDexEntry::
-	text "Forms colonies in"
-	next "perpetually dark"
-	next "places. Uses"
+	text "Kánei fvliá se"
+	next "mónimo skotádi."
+	next "Bgázei yper-"
 
-	page "ultrasonic waves"
-	next "to identify and"
-	next "approach targets"
+	page "hxhtiká kúmata"
+	next "gia na entopísei"
+	next "kai álla átoma"
 	dex
 
 _EkansDexEntry::
-	text "Moves silently"
-	next "and stealthily."
-	next "Eats the eggs of"
+	text "Kineítai auóryba"
+	next "kai glystrá sto"
+	next "grassidí. Toy"
 
-	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	page "arései polú"
+	next "na trwei aygá"
+	next "sth fúsh"
 	dex
 
 _ParasDexEntry::
-	text "Burrows to suck"
-	next "tree roots. The"
-	next "mushrooms on its"
+	text "'skábei gia "
+	next "rízeº déntrvn."
+	next "Ta manitária sthn"
 
-	page "back grow by draw-"
-	next "ing nutrients from"
-	next "the bug host"
+	page "pláth toy mega-"
+	next "lwnoyn óso"
+	next "aytó trwei"
 	dex
 
 _PoliwhirlDexEntry::
-	text "Capable of living"
-	next "in or out of"
-	next "water. When out"
+	text "Ikanó na zei"
+	next "entóº kai ektóº"
+	next "neroú. Ótan"
 
-	page "of water, it"
-	next "sweats to keep"
-	next "its body slimy"
+	page "eínai ektóº neroú,"
+	next "to swma toy"
+	next "kineítai eúkola"
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer"
-	next "at both the front"
-	next "crawl and breast"
+	text "Eínai ejairetikóº"
+	next "kolymbhtqº!"
+	next "Kolympáei tóso"
 
-	page "stroke. Easily"
-	next "overtakes the best"
-	next "human swimmers"
+	page "eúkola kai grqgora"
+	next "poy den ftánoyn"
+	next "oúte oi ánurvpoi"
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "Brísketai syxná"
+	next "se dásh, trwgontaº"
+	next "fúla. Éxei éna"
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "kofteró"
+	next "kentrí sto"
+	next "kefáli toy"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "'sxedón aníkano"
+	next "na koynhueí, aytó"
+	next "to #mon kánei"
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "móno sklqrynsh"
+	next "sto kélyfoº gia"
+	next "na prostateyteí"
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "Üetáei me ychlq"
+	next "taxúthta kai epi-"
+	next "tíuetai me to"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "megálo kentrí"
+	next "sta mprostiná"
+	next "pódia kai oyrá"
 	dex
 
 _DodrioDexEntry::
-	text "Uses its three"
-	next "brains to execute"
-	next "complex plans."
+	text "Ta tría kefália"
+	next "skéftontai mazí"
+	next "diáfora uémata."
 
-	page "While two heads"
-	next "sleep, one head"
-	next "stays awake"
+	page "Ótan ta dúo koi-"
+	next "moúntai, éna"
+	next "ménei júpnio"
 	dex
 
 _PrimeapeDexEntry::
-	text "Always furious"
-	next "and tenacious to"
-	next "boot. It will not"
+	text "Üánta ojúuymo"
+	next "kai epíshº epí-"
+	next "mono. 'den ua"
 
-	page "abandon chasing"
-	next "its quarry until"
-	next "it is caught"
+	page "stamatqsei to"
+	next "kynqgi méxri na"
+	next "ta kataférei"
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
-	next "It triggers huge"
+	text "Eínai omáda"
+	next "apá DIGLETT."
+	next "'skábei tóso"
 
-	page "earthquakes by"
-	next "burrowing 60 miles"
-	next "underground"
+	page "bauiá poy"
+	next "kánei th gh na"
+	next "koyniétai"
 	dex
 
 _VenomothDexEntry::
-	text "The dust-like"
-	next "scales covering"
-	next "its wings are"
+	text "H skónh sta"
+	next "fterá toy"
+	next "allázei xrwmata."
 
-	page "color coded to"
-	next "indicate the kinds"
-	next "of poison it has"
+	page "To xrwma"
+	next "deíxnei ti"
+	next "dúnamh éxei"
 	dex
 
 _DewgongDexEntry::
-	text "Stores thermal"
-	next "energy in its"
-	next "body. Swims at a"
+	text "Apouhkeúei"
+	next "uermikq enérgeia"
+	next "sto swma toy."
 
-	page "steady 8 knots"
-	next "even in intensely"
-	next "cold waters"
+	page "Kolympáei"
+	next "eúkola akóma"
+	next "kai se krúa nerá"
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "Ta mikrá toy pódia"
+	next "kolláne pantoú"
+	next "poy to kánoyn"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "ikanó na skarfa-"
+	next "lwnei akoúrasta"
+	next "plagiéº q toíxoyº"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "Ótan to kélyfoº"
+	next "eínai malakó,"
+	next "aytó to #mon"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "eínái eúkoloº"
+	next "stóxoº, giatí"
+	next "eínai eyaísuhto"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "'sth máxh, koynáei"
+	next "grqgora ta fterá"
+	next "toy kai gemízei"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "ton aéra me"
+	next "polú tojikq"
+	next "skónh"
 	dex
 
 _MachampDexEntry::
-	text "Using its heavy"
-	next "muscles, it throws"
-	next "powerful punches"
+	text "Xárh se dyna-"
+	next "toyº múeº, ríxnei"
+	next "grouiéº gemáteº"
 
-	page "that can send the"
-	next "victim clear over"
-	next "the horizon"
+	page "dúnamh poy"
+	next "stélnoyn ton exuró"
+	next "polú makriá"
 	dex
 
 _GolduckDexEntry::
-	text "Often seen swim-"
-	next "ming elegantly by"
-	next "lake shores. It"
+	text "To blépeiº syxná"
+	next "na kolympá dípla"
+	next "se límneº. Merikoí"
 
-	page "is often mistaken"
-	next "for the Japanese"
-	next "monster, Kappa"
+	page "ton mperdeúoyn"
+	next "me to iapvnikó"
+	next "téraº, Káppa"
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "An se koitájei sta"
+	next "mátia, ua xrhsi-"
+	next "mopoiqsei"
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "kinqseiº"
+	next "ópvº YÜN'v'sH"
+	next "kai 'sÚ'rXY'sH"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
+	text "Móliº dagkwsei,"
+	next "den stamatá na"
+	next "royfá enérgeia"
 
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	page "akóma kai an"
+	next "gínei polú barú"
+	next "gia na petájei"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "Ötiagméno se"
+	next "ergastqrio metá"
+	next "apó pollá xrónia."
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "To apotélesma"
+	next "qtan ena #mon"
+	next "ápiasthº dúnamhº"
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "O ypnaráº #mon."
+	next "Móno trwei kai"
+	next "koimátai. Óso"
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "megalwnei kai"
+	next "foyskwnei gínetai"
+	next "pio ntempéliko"
 	dex
 
 _MagikarpDexEntry::
-	text "In the distant"
-	next "past, it was"
-	next "somewhat stronger"
+	text "Üio paliá, qtan"
+	next "gnvstó vº dynató"
+	next "#mon. Twra oi"
 
-	page "than the horribly"
-	next "weak descendants"
-	next "that exist today"
+	page "apógonoi toy eí-"
+	next "nai gnvstoi vº..."
+	next "adúnamoi"
 	dex
 
 _MukDexEntry::
-	text "Thickly covered"
-	next "with a filthy,"
-	next "vile sludge. It"
+	text "To swma toy"
+	next "eínai gemáto"
+	next "me lásph."
 
-	page "is so toxic, even"
-	next "its footprints"
-	next "contain poison"
+	page "Eínai tóso"
+	next "dynatq poy afqnei"
+	next "tojiká bqmata"
 	dex
 
 _KinglerDexEntry::
-	text "The large pincer"
-	next "has 10000 hp of"
-	next "crushing power."
+	text "H megáleº dagkáneº"
+	next "toy spáne sxedón"
+	next "ta pánta. Eínai"
 
-	page "However, its huge"
-	next "size makes it"
-	next "unwieldy to use"
+	page "tòso megáleº"
+	next "poy merikéº foréº"
+	next "den xeirízontai"
 	dex
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "Ótan déxetai"
+	next "epíuesh ríxnei"
+	next "grqgora agkáuia."
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "To esvterikó toy"
+	next "paraménei aiwnio"
+	next "mystqrio"
 	dex
 
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "Kratáei mésa toy"
+	next "megálo hlektrismó"
+	next "ypó megálh píesh."
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "Merikéº foréº"
+	next "bgázei jafniká"
+	next "ólh th dúnamh toy"
 	dex
 
 _ClefableDexEntry::
-	text "A timid fairy"
-	next "#MON that is"
-	next "rarely seen. It"
+	text "Éna magikó"
+	next "#mon poy"
+	next "faínetai spánia."
 
-	page "will run and hide"
-	next "the moment it"
-	next "senses people"
+	page "Móliº dei átoma"
+	next "na érxontai,"
+	next "tréxei na kryfteí"
 	dex
 
 _WeezingDexEntry::
-	text "Where two kinds"
-	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+	text "Ótan dúo eídh"
+	next "blaberwn aerívn"
+	next "synanthuoún, dúo"
 
-	page "can fuse into a"
-	next "WEEZING over many"
-	next "years"
+	page "KOFFING enwnontai"
+	next "se WEEZING metá"
+	next "apó pollá xrónia"
 	dex
 
 _PersianDexEntry::
-	text "Although its fur"
-	next "has many admirers,"
-	next "it is tough to"
+	text "H goúna toy eínai"
+	next "ypéroxh kai éxei"
+	next "polloúº uayma-"
 
-	page "raise as a pet"
-	next "because of its"
-	next "fickle meanness"
+	page "stéº. Ómvº éxei"
+	next "polú apróblepto"
+	next "xaraktqra"
 	dex
 
 _MarowakDexEntry::
-	text "The bone it holds"
-	next "is its key weapon."
-	next "It throws the"
+	text "To kókalo poy"
+	next "kratá eínai to"
+	next "kúrio óplo toy."
 
-	page "bone skillfully"
-	next "like a boomerang"
-	next "to KO targets"
+	page "To petáei san"
+	next "mpoúmerank"
+	next "nikóntaº pánta"
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "Üerná mésa"
+	next "apó toíxoyº"
+	next "kai empódia."
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "'léne pvº proé-"
+	next "rxetai állo kósmo"
+	next "poy éxei magía.."
 	dex
 
 _AbraDexEntry::
-	text "Using its ability"
-	next "to read minds, it"
-	next "will identify"
+	text "Mporeí na diabá-"
+	next "zei skéceiº. An"
+	next "niwsei kíndyno"
 
-	page "impending danger"
-	next "and TELEPORT to"
-	next "safety"
+	page "ua TH'lEMETAÖE-"
+	next "PÒEÍ se állo méroº"
+	next "me asfáleia"
 	dex
 
 _AlakazamDexEntry::
-	text "Its brain can out-"
-	next "perform a super-"
-	next "computer."
+	text "Eínai pio éjypno"
+	next "apo yperypolo-"
+	next "gistq. 'léne pvº"
 
-	page "Its intelligence"
-	next "quotient is said"
-	next "to be 5,000"
+	page "éxei tósh ejy-"
+	next "pnáda poy lúnei"
+	next "káue aporía"
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "Ürostateúei thn"
+	next "perioxq toy"
+	next "prosektiká."
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "Ùa xtypqsei me"
+	next "to rámfoº toy"
+	next "káue ágnvsto."
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "Ótan cáxnei gia"
+	next "trofq, petá kalá"
+	next "pánv sth uálassa"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "kai piánei #mon"
+	next "san to MAGIKARP"
+	next "poy den to blépei"
 	dex
 
 _StarmieDexEntry::
-	text "Its central core"
-	next "glows with the"
-	next "seven colors of"
+	text "O pyrqnaº toy sto"
+	next "kéntro lámpei san"
+	next "ouránio tójo."
 
-	page "the rainbow. Some"
-	next "people value the"
-	next "core as a gem"
+	page "Merikoí to uevroún"
+	next "tóso ómorfo poy"
+	next "eínai san petrádi"
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Énaº parájenoº"
+	next "spóroº fyteúetai"
+	next "sth génnhsh toy."
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "To fytó bgaínei"
+	next "kai megalwnei mazí"
+	next "me to #mon"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "To loyloúdi sthn"
+	next "pláth toy anuízei"
+	next "ótan gemízei me"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "enérgia. ñáxnei gia"
+	next "fvº gia na anuísei"
+	next "to fytó toy"
 	dex
 
 _TentacruelDexEntry::
-	text "The tentacles are"
-	next "normally kept"
-	next "short. On hunts,"
+	text "Ta plokámia toy"
+	next "eínai synquvº"
+	next "mikrá. Ótan"
 
-	page "they are extended"
-	next "to ensnare and"
-	next "immobilize prey"
+	page "uélei na fáei"
+	next "ta makraínei gia"
+	next "na piamásei cária"
 	dex
 
 _GoldeenDexEntry::
-	text "Its tail fin"
-	next "billows like an"
-	next "elegant ballroom"
+	text "To pterymúgio thº"
+	next "oyráº thº kima-"
+	next "tízei polú komcá."
 
-	page "dress, giving it"
-	next "the nickname of"
-	next "the Water Queen"
+	page "Aytó thº dínei"
+	next "to ceydwnymo"
+	next "basílissa neroú"
 	dex
 
 _SeakingDexEntry::
-	text "In the autumn"
-	next "spawning season,"
-	next "they can be seen"
+	text "Káue fuinópvro"
+	next "thn epoxq tvn"
+	next "aygwn, kolympá"
 
-	page "swimming power-"
-	next "fully up rivers"
-	next "and creeks"
+	page "me dúnamh"
+	next "kóntra sto reúma"
+	next "se diáfora nerá"
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "Éxei opléº pio"
+	next "dynatéº apó"
+	next "diamánti. Tréxei"
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "me tósh dúnamh"
+	next "kai taxúthta poy"
+	next "eínai astamáthto"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "Agapá toyº"
+	next "agwneº taxúthtaº."
+	next "Ótan blépei éna"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "grqgoro on, to"
+	next "akoloyueí se énan"
+	next "agwna taxúthtaº"
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "'dagkwnei ta"
+	next "pánta ótan kindy-"
+	next "neúsei. Mikró"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "kai sbélto. Òa"
+	next "to breiº se"
+	next "pollá mérh"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "Xrhsimopoieí"
+	next "ta moystákia toy"
+	next "gia issoropía."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "An kopoún"
+	next "ua kineítai"
+	next "pio argá"
 	dex
 
 _NidorinoDexEntry::
-	text "An aggressive"
-	next "#MON that is"
-	next "quick to attack."
+	text "Éna dynamikó"
+	next "#mon poy ká-"
+	next "nei polléº máxeº."
 
-	page "The horn on its"
-	next "head secretes a"
-	next "powerful venom"
+	page "To kérato sto"
+	next "kefáli krúbei mia"
+	next "dynatq oysía"
 	dex
 
 _NidorinaDexEntry::
-	text "The female's horn"
-	next "develops slowly."
-	next "Prefers physical"
+	text "To kérato thº"
+	next "megalwnei argá"
+	next "kai stauerá."
 
-	page "attacks such as"
-	next "clawing and"
-	next "biting"
+	page "Ürotimá epi-"
+	next "uéseiº me dóntia"
+	next "kai núxia"
 	dex
 
 _GeodudeDexEntry::
-	text "Found in fields"
-	next "and mountains."
-	next "Mistaking them"
+	text "Zei se libádia kai"
+	next "boyná. Moiázei"
+	next "polú me pétra."
 
-	page "for boulders,"
-	next "people often step"
-	next "or trip on them"
+	page "Étsi den eínai"
+	next "spánio na patq-"
+	next "soyn pánv toy"
 	dex
 
 _PorygonDexEntry::
-	text "A #MON that"
-	next "consists entirely"
-	next "of programming"
+	text "Éna #mon"
+	next "ftiagméno apó"
+	next "chfiakó kwdika."
 
-	page "code. Capable of"
-	next "moving freely in"
-	next "cyberspace"
+	page "Tajideúei stoyº"
+	next "ypollogisteº san"
+	next "na kolympáei"
 	dex
 
 _AerodactylDexEntry::
-	text "A ferocious, pre-"
-	next "historic #MON"
-	next "that goes for the"
+	text "To ágrio, proisto-"
+	next "rikó #mon."
+	next "Üetáei grqgora"
 
-	page "enemy's throat"
-	next "with its serrated"
-	next "saw-like fangs"
+	page "kai epitíuetai me"
+	next "ta gerá san pri-"
+	next "ónia dóntia toy"
 	dex
 
 _MagnemiteDexEntry::
-	text "Uses anti-gravity"
-	next "to stay suspended."
-	next "Appears without"
+	text "Bázei magnqteº"
+	next "gia aiwrhsh."
+	next "Mporeí na emfani-"
 
-	page "warning and uses"
-	next "THUNDER WAVE and"
-	next "similar moves"
+	page "steí jafniká kano-"
+	next "ntaº kinqseiº ópvº"
+	next "to H'lEKTPOKYMA"
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Ürofanwº prvtimá"
+	next "zestá mérh. Ótan"
+	next "bréxei, atmoí"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "léne óti petágo-"
+	next "ntai apó th múth"
+	next "thº oyráº toy"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Metá thn génna,"
+	next "h pláth megalwnei,"
+	next "sklhraínei vº"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "kaboúki. 'dynamiká"
+	next "cekázei foúskeº"
+	next "apó to stóma"
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "Ótan koyná thn"
+	next "flegónenh oyrá"
+	next "toy, h zésth ane-"
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "baínei sta úch."
+	next "Zésth poy sxedón"
+	next "den thn antéxeiº"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "'syxná krúbetai"
+	next "sto neró blépontaº"
+	next "ti symbaínei gúrv"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "toy. 'ria na koly-"
+	next "mpá grqgora koy-"
+	next "náei ta aytiá toy"
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "Ötúnei dynatq"
+	next "fvtiá poy liwnei"
+	next "kai bráxoyº."
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "Áuela toy kamiá"
+	next "forá bázei fvtiéº"
+	next "se pollá dásh"
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "Thn méra koimá-"
+	next "tai bauiá sthn"
+	next "gh. Thn núxta"
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "bgaínei gia na"
+	next "skorpísei spóroyº"
+	next "kai na bgoyn fytá"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "To ygró apo to"
+	next "stóma toy den"
+	next "eínai sálio."
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "Eínai néktar"
+	next "gia na trabá"
+	next "álla plásmata"
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Óso pio megála"
+	next "ta pétala toy,"
+	next "tóso pio dynatq"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "h gúrh toy. Iso-"
+	next "rropeí to kefáli"
+	next "me dyskolía"
 	dex
 
 _BellsproutDexEntry::
-	text "A carnivorous"
-	next "#MON that traps"
-	next "and eats bugs."
+	text "Éna mikró fytó"
+	next "#mon poy"
+	next "trwei éntoma."
 
-	page "It uses its root"
-	next "feet to soak up"
-	next "needed moisture"
+	page "Me ta pódia-rízeº"
+	next "aporrofá to neró"
+	next "apó to édafoº"
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "Afqnei mia"
+	next "TOÑIKH 'sKONH gia"
+	next "na moydiásei"
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "ópoion plhsiásei."
+	next "Metá ríxnei ÑINO"
+	next "XYMO prostasíaº"
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "'léne óti zei se"
+	next "megáleº omádeº"
+	next "uauiá se zoúgkleº."
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "Kaneíº den epé-"
+	next "strece gia na pei"
+	next "ti akribwº eíde"
 	dex

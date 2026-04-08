@@ -1,13 +1,13 @@
 _RockTunnelPokecenterGentlemanText::
-	text "The element types"
-	line "of #MON make"
-	cont "them stronger"
-	cont "than some types"
-	cont "and weaker than"
-	cont "others!"
+	text "Ta stoixeía túpvn"
+	line "ta kánoyn pio"
+	cont "dynatá apó"
+	cont "kápoioyº túpoyº"
+	cont "kai adúnama"
+	cont "apó álloyº!"
 	done
 
 _RockTunnelPokecenterFisherText::
-	text "I sold a useless"
-	line "NUGGET for ¥5000!"
+	text "Üoqlhsa áxrhsto"
+	line "'sBO'lO gia ¥5000!"
 	done

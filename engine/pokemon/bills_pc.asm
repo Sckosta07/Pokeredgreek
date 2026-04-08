@@ -85,12 +85,12 @@ DisplayPCMainMenu::
 	ldh [hAutoBGTransferEnabled], a
 	ret
 
-SomeonesPCText:   db "SOMEONE's PC@"
-BillsPCText:      db "BILL's PC@"
-PlayersPCText:    db "'s PC@"
-OaksPCText:       db "PROF.OAK's PC@"
+SomeonesPCText:   db "PC KAÜOIOY@"
+BillsPCText:      db "PC BILL@"
+PlayersPCText:    db " PC@"
+OaksPCText:       db "KAÒ.OAK PC@"
 PKMNLeaguePCText: db "<PKMN>LEAGUE@"
-LogOffPCText:     db "LOG OFF@"
+LogOffPCText:     db "'sBH'sE@"
 
 BillsPC_::
 	ld hl, wStatusFlags5
@@ -339,15 +339,15 @@ DisplayMonListMenu:
 	ret
 
 BillsPCMenuText:
-	db   "WITHDRAW <PKMN>"
-	next "DEPOSIT <PKMN>"
-	next "RELEASE <PKMN>"
-	next "CHANGE BOX"
-	next "SEE YA!"
+	db   "ÜAPE <PKMN>"
+	next "'d'v'sE <PKMN>"
+	next "AÖH'sE <PKMN>"
+	next "A'l'lAÑE KOYTI"
+	next "TA 'lEME!"
 	db "@"
 
 BoxNoPCText:
-	db "BOX No.@"
+	db "KOYTI No.@"
 
 KnowsHMMove::
 ; returns whether mon with party index [wWhichPokemon] knows an HM move
@@ -446,11 +446,11 @@ DisplayDepositWithdrawMenu:
 	call LoadGBPal
 	jr .loop
 
-DepositPCText:  db "DEPOSIT@"
-WithdrawPCText: db "WITHDRAW@"
+DepositPCText:  db "'d'v'sE@"
+WithdrawPCText: db "ÜAPE@"
 StatsCancelPCText:
 	db   "STATS"
-	next "CANCEL@"
+	next "AKYPO@"
 
 SwitchOnText:
 	text_far _SwitchOnText

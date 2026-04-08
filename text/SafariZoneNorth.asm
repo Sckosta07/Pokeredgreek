@@ -1,33 +1,33 @@
 _SafariZoneNorthRestHouseSignText::
-	text "REST HOUSE"
+	text "'sÜITI HPEMIA's"
 	done
 
 _SafariZoneNorthTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "The SECRET HOUSE"
-	line "is still ahead!"
+	para "To KRYÖO 'sÜITI"
+	line "eínai mprostá!"
 	done
 
 _SafariZoneNorthSignText::
-	text "AREA 2"
+	text "ÜEPIOXH 2"
 	done
 
 _SafariZoneNorthTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "#MON hide in"
-	line "tall grass!"
+	para "#mon krúbontai"
+	line "se chló grasídi!"
 
-	para "Zigzag through"
-	line "grassy areas to"
-	cont "flush them out."
+	para "Ta ZIGZAG petá-"
+	line "gvntai éjv apó"
+	cont "ta grasídia."
 	done
 
 _SafariZoneNorthTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Win a free HM for"
-	line "finding the"
-	cont "SECRET HOUSE!"
+	para "Üáre dvreán to"
+	line "HM poy brísketai"
+	cont "sto KRYÖO 'sÜITI!"
 	done

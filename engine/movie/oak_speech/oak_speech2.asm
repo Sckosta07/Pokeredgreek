@@ -177,7 +177,7 @@ DisplayIntroNameTextBox:
 	ld [wLastMenuItem], a
 	inc a
 	ld [wTopMenuItemX], a
-	ld [wMenuWatchedKeys], a ; PAD_A
+	ld [wMenuWatchedKeys], a ; A_BUTTON
 	inc a
 	ld [wTopMenuItemY], a
 	inc a
@@ -185,7 +185,7 @@ DisplayIntroNameTextBox:
 	jp HandleMenuInput
 
 .namestring
-	db "NAME@"
+	db "ONOMA@"
 
 INCLUDE "data/player_names.asm"
 

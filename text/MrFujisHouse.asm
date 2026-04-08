@@ -1,55 +1,55 @@
 _MrFujisHouseSuperNerdMrFujiIsntHereText::
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "Üeríergo, o FUJI"
+	line "den eínai edw."
+	cont "Üoy na pqge?"
 	done
 
 _MrFujisHouseSuperNerdMrFujiHadBeenPrayingText::
-	text "MR.FUJI had been"
-	line "praying alone for"
-	cont "CUBONE's mother."
+	text "o FUJI proseú-"
+	line "xetai mónoº gia"
+	cont "thn mhtéra CUBONE."
 	done
 
 _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
-	text "This is really"
-	line "MR.FUJI's house."
+	text "Eínai alqueia to"
+	line "spíti toy FUJI."
 
-	para "He's really kind!"
+	para "Eínai polú kalóº!"
 
-	para "He looks after"
-	line "abandoned and"
-	cont "orphaned #MON!"
+	para "Üroséxei ta jexa-"
+	line "sména kai parath-"
+	cont "ména #mon!"
 	done
 
 _MrFujisHouseLittleGirlPokemonAreNiceToHugText::
-	text "It's so warm!"
-	line "#MON are so"
-	cont "nice to hug!"
+	text "Eínai tóso zestá!"
+	line "Ta #mon ajízoyn"
+	cont "tóso mia agkaliá!"
 	done
 
 _MrFujisHousePsyduckText::
-	text "PSYDUCK: Gwappa!@"
+	text "PSYDUCK: 'rkgappa!@"
 	text_end
 
 _MrFujisHouseNidorinoText::
-	text "NIDORINO: Gaoo!@"
+	text "NIDORINO: 'raoy!@"
 	text_end
 
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
-	text "MR.FUJI: <PLAYER>."
+	text "FUJI: <PLAYER>."
 
-	para "Your #DEX quest"
-	line "may fail without"
-	cont "love for your"
-	cont "#MON."
+	para "H apostolq #-"
+	line "ntej ua apotúxei"
+	cont "xvríº agáph gia"
+	cont "ta #mon soy."
 
-	para "I think this may"
-	line "help your quest."
+	para "Aytó ua boquhsei"
+	line "thn apostolq soy."
 	prompt
 
 _MrFujisHouseMrFujiReceivedPokeFluteText::
-	text "<PLAYER> received"
-	line "a @"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -57,33 +57,33 @@ _MrFujisHouseMrFujiReceivedPokeFluteText::
 _MrFujisHouseMrFujiPokeFluteExplanationText::
 	text_start
 
-	para "Upon hearing #"
-	line "FLUTE, sleeping"
-	cont "#MON will"
-	cont "spring awake."
+	para "Ótan to akoúsoyn,"
+	line "ua jypnqsoyn óla"
+	cont "ta #mon poy"
+	cont "koimoúntai."
 
-	para "It works on all"
-	line "sleeping #MON."
+	para "'doyleúei se óla ta"
+	line "#mon se úpno."
 	done
 
 _MrFujisHouseMrFujiPokeFluteNoRoomText::
-	text "You must make"
-	line "room for this!"
+	text "Ürépei na káneiº"
+	line "xwro gi' aytó!"
 	done
 
 _MrFujisHouseMrFujiHasMyFluteHelpedYouText::
-	text "MR.FUJI: Has my"
-	line "FLUTE helped you?"
+	text "FUJI: to Ö'lAOYTO"
+	line "moy se boquhse?"
 	done
 
 _MrFujisHouseMrFujiPokedexText::
-	text "#MON Monthly"
-	line "Grand Prize"
-	cont "Drawing!"
+	text "Mhniaía"
+	line "klqrvsh"
+	cont "#mon!"
 
-	para "The application"
-	line "form is..."
+	para "H fórma"
+	line "shmmetoxqº..."
 
-	para "Gone! It's been"
-	line "clipped out!"
+	para "'leípei!"
+	line "Thn ékocan!"
 	done

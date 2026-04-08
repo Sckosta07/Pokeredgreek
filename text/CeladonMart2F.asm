@@ -1,22 +1,22 @@
 _CeladonMart2FMiddleAgedManText::
-	text "SUPER REPEL keeps"
-	line "weak #MON at"
-	cont "bay..."
+	text "YÜEPAÜOÒH'sH"
+	line "kratá ta #mon"
+	cont "makriá..."
 
-	para "Hmm, it's a more"
-	line "powerful REPEL!"
+	para "Xmm, mia pio"
+	line "dynatq apóuhsh!"
 	done
 
 _CeladonMart2FGirlText::
-	text "For long outings,"
-	line "you should buy"
-	cont "REVIVE."
+	text "'ria megáleº ekdro-"
+	line "méº, páre thn"
+	cont "ANABI'v'sH."
 	done
 
 _CeladonMart2FCurrentFloorSignText::
-	text "Top Grade Items"
-	line "for Trainers!"
+	text "Koryfaía prágmata"
+	line "gia ekpaideytéº!"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2oº:A'rOPA"
+	line "    EKÜAI'dEYT'vN"
 	done

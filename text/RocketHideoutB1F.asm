@@ -1,74 +1,74 @@
 _RocketHideoutB1FRocket5EndBattleText::
-	text "Why...?@"
+	text "'riatí?@"
 	text_end
 
 _RocketHideoutB1FRocket1BattleText::
-	text "Who are you? How"
-	line "did you get here?"
+	text "Üoióº eísai esú?"
+	line "Üvº mpqkeº edw?"
 	done
 
 _RocketHideoutB1FRocket1EndBattleText::
-	text "Oww!"
-	line "Beaten!"
+	text "'vvv!"
+	line "Nikquhka!"
 	prompt
 
 _RocketHideoutB1FRocket1AfterBattleText::
-	text "Are you dissing"
-	line "TEAM ROCKET?"
+	text "Ürosbáleiº thn"
+	line "OMA'dA ÜYPAY'lO?"
 	done
 
 _RocketHideoutB1FRocket2BattleText::
-	text "You broke into"
-	line "our operation?"
+	text "Üvº mpqkeº"
+	line "sthn básh maº?"
 	done
 
 _RocketHideoutB1FRocket2EndBattleText::
-	text "Burnt!"
+	text "Káhka!"
 	prompt
 
 _RocketHideoutB1FRocket2AfterBattleText::
-	text "You're not going"
-	line "to get away with"
-	cont "this, brat!"
+	text "'den ua jefúgeiº"
+	line "me aytá,"
+	cont "zoympá!"
 	done
 
 _RocketHideoutB1FRocket3BattleText::
-	text "Intruder alert!"
+	text "Eisboléaº!"
 	done
 
 _RocketHideoutB1FRocket3EndBattleText::
-	text "I"
-	line "can't do it!"
+	text "'den mpo-"
+	line "rv na to kánv!"
 	prompt
 
 _RocketHideoutB1FRocket3AfterBattleText::
-	text "SILPH SCOPE?"
-	line "I don't know"
-	cont "where it is!"
+	text "ÖAKO's SILPH?"
+	line "'den jérv"
+	cont "poy eínai!"
 	done
 
 _RocketHideoutB1FRocket4BattleText::
-	text "Why did you come"
-	line "here?"
+	text "'riatí qrueº"
+	line "edw péra?"
 	done
 
 _RocketHideoutB1FRocket4EndBattleText::
-	text "This"
-	line "won't do!"
+	text "Aytó den"
+	line "kánei!"
 	prompt
 
 _RocketHideoutB1FRocket4AfterBattleText::
-	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	text "OK, ua milqsv!"
+	line "Üare to asansér"
+	cont "gia na ton breiº!"
 	done
 
 _RocketHideoutB1FRocket5BattleText::
-	text "Are you lost, you"
-	line "little rat?"
+	text "Xáuhkeº, mikró"
+	line "pontíki?"
 	done
 
 _RocketHideoutB1FRocket5AfterBattleText::
-	text "Uh-oh, that fight"
-	line "opened the door!"
+	text "'vx óxi, h máxh"
+	line "ánoije thn pórta!"
 	done

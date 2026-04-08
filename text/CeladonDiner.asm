@@ -1,60 +1,60 @@
 _CeladonDinerCookText::
-	text "Hi!"
+	text "'reia!"
 
-	para "We're taking a"
-	line "break now."
+	para "Kánoyme éna"
+	line "diáleima twra."
 	done
 
 _CeladonDinerMiddleAgedWomanText::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	text "Ta #mon moy"
+	line "eínai adúnama."
+	cont "Üánta tréxv"
+	cont "sto ÖAPMAKEIO."
 	done
 
 _CeladonDinerMiddleAgedManText::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "Üsst! ypárxei mia"
+	line "básh kátv apó thn"
+	cont "'r'vNIA ÜAIXNI'dIOY."
 	done
 
 _CeladonDinerFisherText::
-	text "Munch..."
+	text "Mantº..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "O túpoº sto"
+	line "trapézi ta éxase"
+	cont "óla sta froytákia."
 	done
 
 _CeladonDinerGymGuideImFlatOutBustedText::
-	text "Go ahead! Laugh!"
+	text "Eleúuera! 'rélase!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "Eímai teleívº"
+	line "áfragkoº!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "Óxi álla froy-"
+	line "tákia gia ména!"
+	cont "'sobará twra!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "Óriste! 'den to"
+	line "xreiázomai aytó"
+	cont "pléon!"
 	prompt
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
+	text "O <PLAYER> pqre"
+	line "éna @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonDinerGymGuideCoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Káne dwro"
+	line "gi' aytó!"
 	done
 
 _CeladonDinerGymGuideWinItBackText::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "Üánta písteya"
+	line "pvº ua ta é-"
+	cont "pairna písv..."
 	done

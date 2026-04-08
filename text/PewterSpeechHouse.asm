@@ -1,19 +1,19 @@
 _PewterSpeechHouseGamblerText::
-	text "#MON learn new"
-	line "techniques as"
-	cont "they grow!"
+	text "#mon mauaínoyn"
+	line "néeº texnikéº óso"
+	cont "megalwnoyn!"
 
-	para "But, some moves"
-	line "must be taught by"
-	cont "the trainer!"
+	para "Ma, merikéº tiº"
+	line "mauaínoyn móno"
+	cont "apó eséna!"
 	done
 
 _PewterSpeechHouseYoungsterText::
-	text "#MON become"
-	line "easier to catch"
-	cont "when they are"
-	cont "hurt or asleep!"
+	text "Ta #mon eúkola"
+	line "piánontai ótan"
+	cont "koimoúntai q"
+	cont "eínai xtyphména!"
 
-	para "But, it's not a"
-	line "sure thing!"
+	para "Ma, den"
+	line "eínai sígoyro!"
 	done

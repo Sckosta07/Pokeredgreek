@@ -1,34 +1,34 @@
 _DaycareGentlemanAllRightThenText::
-	text "All right then,"
+	text "Entájei tóte,"
 	line "@"
 	text_end
 
 _DaycareGentlemanComeAgainText::
-	text "come again."
+	text "Éla janá."
 	done
 
 _DaycareGentlemanNoRoomForMonText::
-	text "You have no room"
-	line "for this #MON!"
+	text "'den éxeiº xwro"
+	line "gia to #mon!"
 	done
 
 _DaycareGentlemanOnlyHaveOneMonText::
-	text "You only have one"
-	line "#MON with you."
+	text "Éxeiº móno éna"
+	line "#mon mazí soy."
 	done
 
 _DaycareGentlemanCantAcceptMonWithHMText::
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
+	text "'den déxomai to"
+	line "#mon poy jérei"
+	cont "mia HM kînhsh."
 	done
 
 _DaycareGentlemanHeresYourMonText::
-	text "Thank you! Here's"
-	line "your #MON!"
+	text "eyxaristw! Oríste"
+	line "to #mon soy!"
 	prompt
 
 _DaycareGentlemanNotEnoughMoneyText::
-	text "Hey, you don't"
-	line "have enough ¥!"
+	text "Éi, den éxeiº"
+	line "arketá ¥!"
 	done

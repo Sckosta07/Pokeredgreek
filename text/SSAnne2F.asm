@@ -1,63 +1,63 @@
 _SSAnne2FWaiterText::
-	text "This ship, she is"
-	line "a luxury liner"
-	cont "for trainers!"
+	text "To ploío, eínai"
+	line "kroyazieróploio"
+	cont "gia ekpaideytéº!"
 
-	para "At every port, we"
-	line "hold parties with"
-	cont "invited trainers!"
+	para "'se káue limáni,"
+	line "kánoyme párty me"
+	cont "kalesménoyº!"
 	done
 
 _SSAnne2FRivalText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: BONJOUR!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "Öantásthka pvº ua"
+	line "se éblepa edw!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "<PLAYER>, éxeiº"
+	line "ki esú prosklhsh?"
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "Üvº páei to"
+	line "#ntej soy?"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "Egw éxv piásei"
+	line "40 eídh, fíle!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "'diáfora eídh"
+	line "eínai pantoú!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "Kinoúntai sta"
+	line "mérh me grasídi!"
 	done
 
 _SSAnne2FRivalDefeatedText::
-	text "Humph!"
+	text "Xamf!"
 
-	para "At least you're"
-	line "raising your"
-	cont "#MON!"
+	para "Toyláxiston"
+	line "megalwneiº"
+	cont "ta #mon soy!"
 	prompt
 
 _SSAnne2FRivalVictoryText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! Ti"
+	line "éxeiº, naytía?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "Kalútera na be-"
+	line "ltivueíº, fíle!"
 	prompt
 
 _SSAnne2FRivalCutMasterText::
-	text "<RIVAL>: I heard"
-	line "there was a CUT"
-	cont "master on board."
+	text "<RIVAL>: Ákoysa óti"
+	line "ypárxei dáskaloº"
+	cont "sthn KOÜH."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "Ma, qtan énaº"
+	line "géroº me naytía!"
 
-	para "But, CUT itself is"
-	line "really useful!"
+	para "Allá h KOÜH"
+	line "eínai xrqsimh!"
 
-	para "You should go see"
-	line "him! Smell ya!"
+	para "Üqgaine na ton"
+	line "deiº! Ta léme!"
 	done

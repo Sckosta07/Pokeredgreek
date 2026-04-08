@@ -1,31 +1,31 @@
 _ViridianMartClerkSayHiToOakText::
-	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	text "OK! Üeº geia ston"
+	line "KAÒ. apó eména!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::
-	text "Hey! You came from"
-	line "PALLET TOWN?"
+	text "Éi! Ìrueº apó"
+	line "thn ÜO'lH PALLET?"
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "Ñéreiº ton KAÒ."
+	line "OAK, svstá?"
 
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
+	para "To déma toy qrue."
+	line "Òa toy to"
+	cont "paradwseiº?"
 
-	para "<PLAYER> got"
-	line "OAK's PARCEL!@"
+	para "O <PLAYER> pqre"
+	line "to 'dEMA toy OAK!@"
 	text_end
 
 _ViridianMartYoungsterText::
-	text "This shop sells"
-	line "many ANTIDOTEs."
+	text "To magazí poyláei"
+	line "pollá ANTI'dOTA."
 	done
 
 _ViridianMartCooltrainerMText::
-	text "No! POTIONs are"
-	line "all sold out."
+	text "Óxi! Ta ÖI'lTPA"
+	line "éxoyn fúgei óla."
 	done

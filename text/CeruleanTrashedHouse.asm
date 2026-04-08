@@ -1,36 +1,36 @@
 _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
-	text "Those miserable"
-	line "ROCKETs!"
+	text "Aytoí oi áulioi"
+	line "ÜYPAY'lOI!"
 
-	para "Look what they"
-	line "did here!"
+	para "Koíta ti"
+	line "ékanan edw!"
 
-	para "They stole a TM"
-	line "for teaching"
-	cont "#MON how to"
-	cont "DIG holes!"
+	para "Éklecan to TM"
+	line "poy mauaínei se"
+	cont "#mon pvº na"
+	cont "'sKABEI trúpeº!"
 
-	para "That cost me a"
-	line "bundle, it did!"
+	para "Moy kóstisan"
+	line "pollá, óntvº!"
 	done
 
 _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
-	text "I figure what's"
-	line "lost is lost!"
+	text "Ypouétv pvº"
+	line "óti égine, égine!"
 
-	para "I decided to teach"
-	line "DIGLETT how to"
-	cont "DIG without a TM!"
+	para "Apofásisa na"
+	line "máuv sto DIGLETT"
+	cont "'sKAñIMO xwriº TM!"
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "TEAM ROCKET must"
-	line "be trying to DIG"
-	cont "their way into no"
-	cont "good!"
+	text "Oi ÜYPAY'lOI prépei"
+	line "na skáboyn ton"
+	cont "drómo toyº sto"
+	cont "mh kaló!"
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "TEAM ROCKET left"
-	line "a way out!"
+	text "Oi ÜYPAY'lOI"
+	line "ánoijan dromo!"
 	done

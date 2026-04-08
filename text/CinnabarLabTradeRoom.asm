@@ -1,9 +1,9 @@
 _CinnabarLabTradeRoomSuperNerdText::
-	text "I found this very"
-	line "strange fossil in"
-	cont "MT.MOON!"
+	text "Brqka aytó to"
+	line "apolíuvma sto"
+	cont "sto BN.ÖE'r'rAPI!"
 
-	para "I think it's a"
-	line "rare, prehistoric"
-	cont "#MON!"
+	para "Nomízv eínai éna"
+	line "spánio, proìsto-"
+	cont "rikò #mon!"
 	done

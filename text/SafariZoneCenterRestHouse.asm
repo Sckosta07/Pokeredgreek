@@ -1,11 +1,11 @@
 _SafariZoneCenterRestHouseGirlText::
-	text "SARA: Where did"
-	line "my boy friend,"
-	cont "ERIK, go?"
+	text "'sAPA: Üoy pqge"
+	line "o fíloº moy,"
+	cont "o EPIK?"
 	done
 
 _SafariZoneCenterRestHouseScientistText::
-	text "I'm catching"
-	line "#MON to take"
-	cont "home as gifts!"
+	text "Üiánv #MON"
+	line "gia na ta páv"
+	cont "spíti vº dwra!"
 	done

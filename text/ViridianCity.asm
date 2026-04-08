@@ -1,181 +1,181 @@
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "Oi ÜOKE BALL sthn"
+	line "mésh soy!"
+	cont "Éxeiº #mon!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "Eínai téleio poy"
+	line "koybaláº q bázeiº"
+	cont "se xrqsh #mon"
+	cont "pánta, pantoú!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "To #mon GYM ei-"
+	line "nai pánta kleistó."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Anarvtiémai poióº"
+	line "eínai o H'rETH's?"
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "o H'rETH's toy VI-"
+	line "RIDIAN GYM qrue!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "Òeº na máueiº"
+	line "gia ta 2 eídh"
+	cont "apó kámpieº"
+	cont "#mon?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "'v, kalá tóte!"
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "To CATERPIE den"
+	line "éxei dhlhtqrio,"
+	cont "to WEEDLE éxei."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Ürósexe gia to"
+	line "KENTPÍ 'd'lT!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "'v, pappoú! Mhn"
+	line "gínesai kakóº!"
+	cont "'den qpie akóma"
+	cont "ton kafé toy."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "Ótan cvnízv sthn"
+	line "ÜO'lH PEWTER,"
+	cont "prépei na párv"
+	cont "to monopáti toy"
+	cont "DA'sOY's VIRIDIAN."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "'den mporeíº"
+	line "na paº apó edw!"
 
-	para "This is private"
-	line "property!"
+	para "Eínai prosvpikóº"
+	line "xwroº edw péra!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "'riaoyn!"
+	line "Ürépei na koi-"
+	cont "mquhka edw."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Eíxa éna óneiro"
+	line "gia éna DROWZEE"
+	cont "poy étrvge ta"
+	cont "óneira moy. Ti?"
+	cont "Apó poy qrue"
+	cont "aytó to TM?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "Trómaja!"
+	line "Oríste, páre esú"
+	cont "aytó to TM."
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
-	line "TM42!@"
+	text "O <PLAYER> pqre"
+	line "to TM42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "To TM42 periéxei"
+	line "ONEIPOÖA'rO..."
+	cont "...Koimátai..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Éxeiº qdh pollá"
+	line "prágmata pánv soy."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Aax, qpia ton"
+	line "kafé moy kai"
+	cont "niwuv kalá!"
 
-	para "Sure you can go"
-	line "through!"
+	para "'sígoyra mporeíº"
+	line "na peráseiº!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "Eísai"
+	line "biastikóº?"
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "I see you're using"
-	line "a #DEX."
+	text "Blépv xeirízesai"
+	line "éna #ntej."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "Ótan piáneiº éna"
+	line "#mon, to #-"
+	cont "ntej aytómata"
+	cont "enhmerwnetai."
 
-	para "What? Don't you"
-	line "know how to catch"
-	cont "#MON?"
+	para "Ti? 'den jéreiº"
+	line "pvº na piáneiº"
+	cont "éna #mon?"
 
-	para "I'll show you"
-	line "how to then."
+	para "Òa soy deíjv"
+	line "to pvº tóte."
 	done
 
 _ViridianCityOldManTimeIsMoneyText::
-	text "Time is money..."
-	line "Go along then."
+	text "O xrónoº pernáei."
+	line "tréxa twra."
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Ürwta, prépei"
+	line "na apodynamwseiº"
+	cont "ton stóxo soy."
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "ÜO'lH VIRIDIAN "
+	line "O aiwnioº prássi-"
+	cont "noº parádeisoº"
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Üiáse #mon"
+	line "kai megálvse thn"
+	cont "syllogq soy!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Ósa pio pollá,"
+	line "tóso pio eúkoleº"
+	cont "oi máxeº!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Oi kinqseiº máxhº"
+	line "tvn #mon eínai"
+	cont "periorisméneº apó"
+	cont "ÜONTOY's, ÜÜ."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "'ria anaplqrvsh ÜÜ,"
+	line "jekoúrase ta"
+	cont "#mon sto"
+	cont "KENTPO ÜOKEMON!"
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "ÜO'lH VIRIDIAN"
+	line "ÜOKEMON GYM"
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "Oi pórteº toy GYM"
+	line "eínai kleidvméneº."
 	done

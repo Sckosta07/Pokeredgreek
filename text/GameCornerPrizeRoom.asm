@@ -1,12 +1,12 @@
 _GameCornerPrizeRoomBaldingGuyText::
-	text "I sure do fancy"
-	line "that PORYGON!"
+	text "'dínv akribá"
+	line "to PORYGON!"
 
-	para "But, it's hard to"
-	line "win at slots!"
+	para "'sta froytákia to"
+	line "apoktáº dúskola!"
 	done
 
 _GameCornerPrizeRoomGamblerText::
-	text "I had a major"
-	line "haul today!"
+	text "Ìtan h tyxerq"
+	line "moy méra!"
 	done

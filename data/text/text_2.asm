@@ -1,7 +1,7 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " with-"
-	line "drew @"
+	text " apo-"
+	line "xvreí @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
@@ -9,24 +9,24 @@ _AIBattleWithdrawText::
 _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
-	line "used @"
+	line "ébgale @"
 	text_ram wNameBuffer
 	text_start
-	cont "on @"
+	cont "sto @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
 
 _TradeWentToText::
 	text_ram wStringBuffer
-	text " went"
-	line "to @"
+	text " pqre"
+	line "se @"
 	text_ram wLinkEnemyTrainerName
 	text "."
 	done
 
 _TradeForText::
-	text "For <PLAYER>'s"
+	text "Toy <PLAYER> o"
 	line "@"
 	text_ram wStringBuffer
 	text ","
@@ -34,845 +34,845 @@ _TradeForText::
 
 _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
-	text " sends"
-	line "@"
+	text " éstei-"
+	line "le @"
 	text_ram wNameBuffer
 	text "."
 	done
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " waves"
-	line "farewell as"
+	text " léei"
+	line "antío sto"
 	done
 
 _TradeTransferredText::
 	text_ram wNameBuffer
-	text " is"
-	line "transferred."
+	text " éxei"
+	line "metaferueí."
 	done
 
 _TradeTakeCareText::
-	text "Take good care of"
+	text "Ürósexe kalá to"
 	line "@"
 	text_ram wNameBuffer
-	text "."
+	text " moy."
 	done
 
 _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " will"
-	line "trade @"
+	text " uélei na a-"
+	line "ntallájei @"
 	text_ram wNameBuffer
 	text_start
 	done
 
 _TradeforText::
-	text "for <PLAYER>'s"
+	text "gia ton <PLAYER>"
 	line "@"
 	text_ram wStringBuffer
 	text "."
 	done
 
 _PlaySlotMachineText::
-	text "A slot machine!"
-	line "Want to play?"
+	text "O koyloxérhº!"
+	line "Òa paíjeiº?"
 	done
 
 _OutOfCoinsSlotMachineText::
-	text "Darn!"
-	line "Ran out of coins!"
+	text "Ötoy! Ñémeina"
+	line "apó kérmata!"
 	done
 
 _BetHowManySlotMachineText::
-	text "Bet how many"
-	line "coins?"
+	text "'stoixhmáthse"
+	line "pósa kérmata?"
 	done
 
 _StartSlotMachineText::
-	text "Start!"
+	text "Üáme!"
 	done
 
 _NotEnoughCoinsSlotMachineText::
-	text "Not enough"
-	line "coins!"
+	text "Óxi arketá"
+	line "kérmata!"
 	prompt
 
 _OneMoreGoSlotMachineText::
-	text "One more "
-	line "go?"
+	text "Üáme páli?"
+	line "Ti leº?"
 	done
 
 _LinedUpText::
-	text " lined up!"
-	line "Scored @"
+	text " sth seirá!"
+	line "'skórareº @"
 	text_ram wStringBuffer
-	text " coins!"
+	text " kérmata!"
 	done
 
 _NotThisTimeText::
-	text "Not this time!"
+	text "Óxi aytq th forá!"
 	prompt
 
 _YeahText::
-	text "Yeah!@"
+	text "Nai!@"
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "#ntej  Eídeº:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
-	line "         Owned:@"
+	line "         Éxeiº:@"
 	text_decimal wDexRatingNumMonsOwned, 1, 3
 	text_end
 
 _DexRatingText::
-	text "#DEX Rating<COLON>"
+	text "Baumóº #ntej<COLON>"
 	done
 
 _GymStatueText1::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
-	cont "LEADER: @"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: @"
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "NIKHTE's EKÜ/TE's:"
 	line "<RIVAL>"
 	done
 
 _GymStatueText2::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
-	cont "LEADER: @"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: @"
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "NIKHTE's EKÜ/TE's:"
 	line "<RIVAL>"
 	cont "<PLAYER>"
 	done
 
 _ViridianCityPokecenterGuyText::
-	text "#MON CENTERs"
-	line "heal your tired,"
-	cont "hurt or fainted"
-	cont "#MON!"
+	text "KENTPA ÜOKEMON."
+	line "Òerapeía sta koy-"
+	cont "rasména, xtyph-"
+	cont "ména #mon!"
 	done
 
 _PewterCityPokecenterGuyText::
-	text "Yawn!"
+	text "'riáoyn!"
 
-	para "When JIGGLYPUFF"
-	line "sings, #MON"
-	cont "get drowsy..."
+	para "Ótan JIGGLYPUFF"
+	line "tragoydoún, #-"
+	cont "mon nystázoyn..."
 
-	para "...Me too..."
-	line "Snore..."
+	para "...Kai egw..."
+	line "'snor..."
 	done
 
 _CeruleanPokecenterGuyText::
-	text "BILL has lots of"
-	line "#MON!"
+	text "O BILL éxei"
+	line "pollá #mon!"
 
-	para "He collects rare"
-	line "ones too!"
+	para "'syllégei epíshº"
+	line "kai spánia!"
 	done
 
 _LavenderPokecenterGuyText::
-	text "CUBONEs wear"
-	line "skulls, right?"
+	text "Ta CUBONE foroún"
+	line "kranía, étsi?"
 
-	para "People will pay a"
-	line "lot for one!"
+	para "Merikoí ua plqrv-"
+	line "nan gia éna!"
 	done
 
 _MtMoonPokecenterBenchGuyText::
-	text "If you have too"
-	line "many #MON, you"
-	cont "should store them"
-	cont "via PC!"
+	text "An éxeiº pára"
+	line "pollá #mon,"
+	cont "apouqkeyse"
+	cont "ta sto PC!"
 	done
 
 _RockTunnelPokecenterGuyText::
-	text "I heard that"
-	line "GHOSTs haunt"
-	cont "LAVENDER TOWN!"
+	text "Ákoysa pvº h"
+	line "'sKIA paideúei th"
+	cont "ÜO'lH LAVENDER!"
 	done
 
 _UnusedBenchGuyText1::
-	text "I wish I could"
-	line "catch #MON."
+	text "Eúxomai na"
+	line "épiana #mon."
 	done
 
 _UnusedBenchGuyText2::
-	text "I'm tired from"
-	line "all the fun..."
+	text "Koyrásthka"
+	line "apó th xará..."
 	done
 
 _UnusedBenchGuyText3::
-	text "SILPH's manager"
-	line "is hiding in the"
-	cont "SAFARI ZONE."
+	text "O atzénthº thº"
+	line "SILPH krúbetai"
+	cont "sth Z'vNH 'sAÖAPI."
 	done
 
 _VermilionPokecenterGuyText::
-	text "It is true that a"
-	line "higher level"
-	cont "#MON will be"
-	cont "more powerful..."
+	text "Eínai alqueia pvº"
+	line "ena ychló LEVEL"
+	cont "#mon ua eínai"
+	cont "pio dynató..."
 
-	para "But, all #MON"
-	line "will have weak"
-	cont "points against"
-	cont "specific types."
+	para "Ma, óla ta #"
+	line "mon éxoyn adú-"
+	cont "nama shmeía"
+	cont "enántia se álla."
 
-	para "So, there is no"
-	line "universally"
-	cont "strong #MON."
+	para "Tóte, den ypá-"
+	line "rxei pagkosmívº"
+	cont "dynató #mon."
 	done
 
 _CeladonCityPokecenterGuyText::
-	text "If I had a BIKE,"
-	line "I would go to"
-	cont "CYCLING ROAD!"
+	text "An eíxa 'dIKYK'lO,"
+	line "ua pqhaina ston"
+	cont "'dPOMO 'dIKYK'l'vN!"
 	done
 
 _FuchsiaCityPokecenterGuyText::
-	text "If you're studying "
-	line "#MON, visit"
-	cont "the SAFARI ZONE."
+	text "An meletáº ta #"
+	line "mon, episkécoy"
+	cont "th Z'vNH 'sAÖAPI."
 
-	para "It has all sorts"
-	line "of rare #MON."
+	para "Éxei óla ta eídh"
+	line "spánivn #mon."
 	done
 
 _CinnabarPokecenterGuyText::
-	text "#MON can still"
-	line "learn techniques"
-	cont "after canceling"
-	cont "evolution."
+	text "Ta #mon mpo-"
+	line "roún na máuoyn"
+	cont "texnikéº metá thn"
+	cont "akúrvsh ejélijhº."
 
-	para "Evolution can wait"
-	line "until new moves"
-	cont "have been learned."
+	para "H ejélijh ua"
+	line "periménei méxri"
+	cont "tiº néeº kinqseiº."
 	done
 
 _SaffronCityPokecenterGuyText1::
-	text "It would be great"
-	line "if the ELITE FOUR"
-	cont "came and stomped"
-	cont "TEAM ROCKET!"
+	text "Òa qtan vraío an"
+	line "oi 4 E'lIT érxo-"
+	cont "ntan kai nikoúsan"
+	cont "toyº ÜYPAY'lOY's!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
-	line "off! We can go"
-	cont "out safely again!"
-	cont "That's great!"
+	text "Oi ÜYPAY'lOI éfygan!"
+	line "Mporoúme na"
+	cont "bgoúme janá!"
+	cont "Ypéroxa!"
 	done
 
 _CeladonCityHotelText::
-	text "My sis brought me"
-	line "on this vacation!"
+	text "H adelfq moy me"
+	line "éfere edw péra!"
 	done
 
 _BookcaseText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "Entelwº gemáto"
+	line "me #mon biblía!"
 	done
 
 _NewBicycleText::
-	text "A shiny new"
-	line "BICYCLE!"
+	text "Éna néo"
+	line "'dIKYK'lO!"
 	done
 
 _PushStartText::
-	text "Push START to"
-	line "open the MENU!"
+	text "Üáta START gia na"
+	line "anoíjeiº to MENU!"
 	done
 
 _SaveOptionText::
-	text "The SAVE option is"
-	line "on the MENU"
-	cont "screen."
+	text "H epilogq SAVE"
+	line "eínai sthn ouónh"
+	cont "MENU."
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
-	line "have strong and"
-	cont "weak points"
-	cont "against others."
+	text "Óloi oi túpoi #"
+	line "mon éxoyn kalá"
+	cont "kai kaká shmeía"
+	cont "enántia se álla."
 	done
 
 _TimesUpText::
-	text "PA: Ding-dong!"
+	text "Ntink-ntonk!"
 
-	para "Time's up!"
+	para "teloº xrónoy!"
 	prompt
 
 _GameOverText::
-	text "PA: Your SAFARI"
-	line "GAME is over!"
+	text "To ÜAIXNI'dI"
+	line "'sAÖAPI élhje!"
 	done
 
 _CinnabarGymQuizIntroText::
-	text "#MON Quiz!"
+	text "#mon koyíz!"
 
-	para "Get it right and"
-	line "the door opens to"
-	cont "the next room!"
+	para "Üráje svstá kai h"
+	line "pórta anoígei gia"
+	cont "to állo dvmátio!"
 
-	para "Get it wrong and"
-	line "face a trainer!"
+	para "Káne láuoº kai"
+	line "bálta me ekp/th!"
 
-	para "If you want to"
-	line "conserve your"
-	cont "#MON for the"
-	cont "GYM LEADER..."
+	para "An ueº na fy-"
+	line "llájeiº dynámeiº"
+	cont "gia ton H'rETH"
+	cont "toy GYM..."
 
-	para "Then get it right!"
-	line "Here we go!"
+	para "Tóte kánto svstá!"
+	line "Öúgame!"
 	prompt
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "To CATERPIE ejelí-"
+	line "setai BUTTERFREE?"
 	done
 
 _CinnabarQuizQuestionsText2::
-	text "There are 9"
-	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	text "Ypárxoyn 8"
+	line "epíshma #mon"
+	cont "EMB'lHMATA?"
 	done
 
 _CinnabarQuizQuestionsText3::
-	text "POLIWAG evolves 3"
-	line "times?"
+	text "To POLIWAG ejelí-"
+	line "setai 3 foréº?"
 	done
 
 _CinnabarQuizQuestionsText4::
-	text "Are thunder moves"
-	line "effective against"
-	cont "ground element-"
-	cont "type #MON?"
+	text "Kinqseiº hlektri-"
+	line "smoú einai kaléº"
+	cont "enántia se aytéº"
+	cont "tvn #non ghº?"
 	done
 
 _CinnabarQuizQuestionsText5::
-	text "#MON of the"
-	line "same kind and"
-	cont "level are not"
-	cont "identical?"
+	text "Ta #mon toy"
+	line "ídioy eídoyº kai"
+	cont "LEVEL den"
+	cont "eínai idaniká?"
 	done
 
 _CinnabarQuizQuestionsText6::
-	text "TM28 contains"
-	line "TOMBSTONER?"
+	text "To TM28 periexei"
+	line "'lIÒOTAÖO?"
 	done
 
 _CinnabarGymQuizCorrectText::
-	text "You're absolutely"
-	line "correct!"
+	text "Eísai apolútvº"
+	line "svstóº!"
 
-	para "Go on through!@"
+	para "Üérna mesa!@"
 	text_end
 
 _CinnabarGymQuizIncorrectText::
-	text "Sorry! Bad call!"
+	text "'lypámai! 'láuoº!"
 	prompt
 
 _MagazinesText::
-	text "#MON magazines!"
+	text "#mon periodiká!"
 
-	para "#MON notebooks!"
+	para "#mon tetrádia!"
 
-	para "#MON graphs!"
+	para "#mon grafqmata!"
 	done
 
 _BillsHouseMonitorText::
-	text "TELEPORTER is"
-	line "displayed on the"
-	cont "PC monitor."
+	text "H TH'lEMETAÖOPA"
+	line "ÖANHKE sthn"
+	cont "ouónh toy PC."
 	done
 
 _BillsHouseInitiatedText::
-	text "<PLAYER> initiated"
-	line "TELEPORTER's Cell"
-	cont "Separator!@"
+	text "O <PLAYER> jekínhse"
+	line "ton kyttarikó"
+	cont "diaxvristq!@"
 	text_end
 
 _BillsHousePokemonListText1::
-	text "BILL's favorite"
-	line "#MON list!"
+	text "H agaphménh"
+	line "lísta toy BILL!"
 	prompt
 
 _BillsHousePokemonListText2::
-	text "Which #MON do"
-	line "you want to see?"
+	text "Üoió #mon ueº"
+	line "na deiº twra?"
 	done
 
 _OakLabEmailText::
-	text "There's an e-mail"
-	line "message here!"
+	text "Ypárxei éna mú-"
+	line "nhma E-MAIL edw!"
 
 	para "..."
 
-	para "Calling all"
-	line "#MON trainers!"
+	para "Kaloúme káue"
+	line "ekp/th #mon!"
 
-	para "The elite trainers"
-	line "of #MON LEAGUE"
-	cont "are ready to take"
-	cont "on all comers!"
+	para "Oi elit ekp/teº"
+	line "toy ÜP'vTAÒ'lHMATO's"
+	cont "eínai étoimoi"
+	cont "gia néeº máxeº!"
 
-	para "Bring your best"
-	line "#MON and see"
-	cont "how you rate as a"
-	cont "trainer!"
+	para "Öérte ta kalútera"
+	line "#mon kai deíte"
+	cont "an ajízete gia"
+	cont "ekpaideytqº!"
 
-	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
+	para "KENTPIKA ÜP'vT/TO's"
+	line "OPOÜE'dIO INDIGO"
 
-	para "PS: PROF.OAK,"
-	line "please visit us!"
+	para "Y'r: KAÒ.OAK,"
+	line "eláte pio metá!"
 	cont "..."
 	done
 
 _GameCornerCoinCaseText::
-	text "A COIN CASE is"
-	line "required!"
+	text "Òqkh kermátvn"
+	line "apaiteítai!"
 	done
 
 _GameCornerNoCoinsText::
-	text "You don't have"
-	line "any coins!"
+	text "'den éxeiº kauó-"
+	line "loy kérmata!"
 	done
 
 _GameCornerOutOfOrderText::
-	text "OUT OF ORDER"
-	line "This is broken."
+	text "EKTO's 'lEITOYP'rIA's"
+	line "eínai xalasméno."
 	done
 
 _GameCornerOutToLunchText::
-	text "OUT TO LUNCH"
-	line "This is reserved."
+	text "EÑ'v 'rIA ÖA'rHTO."
+	line "Eínai rezerbé."
 	done
 
 _GameCornerSomeonesKeysText::
-	text "Someone's keys!"
-	line "They'll be back."
+	text "Ta kleidiá kápoioy!"
+	line "Òa epistrécei."
 	done
 
 _JustAMomentText::
-	text "Just a moment."
+	text "Misó leptó."
 	done
 
 TMNotebookText::
-	text "It's a pamphlet"
-	line "on TMs."
+	text "Eínai éna fyllá-"
+	line "dio gia TM."
 
 	para "..."
 
-	para "There are 50 TMs"
-	line "in all."
+	para "Ypárxoyn 50 TM"
+	line "synoliká."
 
-	para "There are also 5"
-	line "HMs that can be"
-	cont "used repeatedly."
+	para "Epíshº ypárxoyn"
+	line "5 HM poy aytá"
+	cont "den xánontai."
 
-	para "SILPH CO.@"
+	para "ATAIPIA SILPH@"
 	text_end
 
 _TurnPageText::
-	text "Turn the page?"
+	text "'rúrise selída?"
 	done
 
 _ViridianSchoolNotebookText5::
-	text "GIRL: Hey! Don't"
-	line "look at my notes!@"
+	text "KOPIT'sI: Éi! Mhn"
+	line "koitáº ti gráfv!@"
 	text_end
 
 _ViridianSchoolNotebookText1::
-	text "Looked at the"
-	line "notebook!"
+	text "Koíta sto"
+	line "tetrádio!"
 
-	para "First page..."
+	para "Ürwth selída..."
 
-	para "# BALLs are"
-	line "used to catch"
-	cont "#MON."
+	para "Oi ÜOKE BALL"
+	line "eínai gia na"
+	cont "piáneiº #mon."
 
-	para "Up to 6 #MON"
-	line "can be carried."
+	para "Móno 6 #mon"
+	line "na koybaláº."
 
-	para "People who raise"
-	line "and make #MON"
-	cont "fight are called"
-	cont "#MON trainers."
+	para "Aytoí poy kánoyn"
+	line "máxeº #mon"
+	cont "légontai ekpai-"
+	cont "deytéº #mon."
 	prompt
 
 _ViridianSchoolNotebookText2::
-	text "Second page..."
+	text "'deúterh selída..."
 
-	para "A healthy #MON"
-	line "may be hard to"
-	cont "catch, so weaken"
-	cont "it first!"
+	para "To ygiéº #mon"
+	line "eínai dúskolo na"
+	cont "piasteí, opóte,"
+	cont "koúrase to!"
 
-	para "Poison, burns and"
-	line "other damage are"
-	cont "effective!"
+	para "'dhl/rio, kácimo"
+	line "kai álleº zhmiéº"
+	cont "éxoyn apotelésma!"
 	prompt
 
 _ViridianSchoolNotebookText3::
-	text "Third page..."
+	text "Tríth selída..."
 
-	para "#MON trainers"
-	line "seek others to"
-	cont "engage in #MON"
-	cont "fights."
+	para "Oi ekp/teº #mon"
+	line "cáxnoyn álloyº"
+	cont "gi' arxq #mon"
+	cont "maxwn."
 
-	para "Battles are"
-	line "constantly fought"
-	cont "at #MON GYMs."
+	para "Máxeº gínontai"
+	line "diarkwº sta"
+	cont "#mon GYM."
 	prompt
 
 _ViridianSchoolNotebookText4::
-	text "Fourth page..."
+	text "Tétarth selída..."
 
-	para "The goal for"
-	line "#MON trainers"
-	cont "is to beat the "
-	cont "top 8 #MON"
-	cont "GYM LEADERs."
+	para "'stóxoº tvn"
+	line "ekp/tvn #mon"
+	cont "eínai na nikqsoyn"
+	cont "toyº 8 GYM"
+	cont "H'rETE's."
 
-	para "Do so to earn the"
-	line "right to face..."
+	para "Kánto gia na"
+	line "mporeíº na..."
 
-	para "The ELITE FOUR of"
-	line "#MON LEAGUE!"
+	para "nikqseiº"
+	line "toyº 4 E'lIT!"
 	prompt
 
 _EnemiesOnEverySideText::
-	text "Enemies on every"
-	line "side!"
+	text "Exuroí se"
+	line "káue pleyrá!"
 	done
 
 _WhatGoesAroundComesAroundText::
-	text "What goes around"
-	line "comes around!"
+	text "Óti gyrízei"
+	line "janá érxetai!"
 	done
 
 _FightingDojoText::
-	text "FIGHTING DOJO"
+	text "MAXHTIKO DOJO"
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	text "OPOÜE'dIO INDIGO"
+	line "ÜP'vT/MA #mon"
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> is"
-	line "playing the SNES!"
-	cont "...Okay!"
-	cont "It's time to go!"
+	text "O <PLAYER>"
+	line "paízei sto SNES!"
+	cont "...Entájei!"
+	cont "üra na feúgv!"
 	done
 
 _Route15UpstairsBinocularsText::
-	text "Looked into the"
-	line "binoculars..."
+	text "Koitázeiº me"
+	line "ta kiália..."
 
-	para "A large, shining"
-	line "bird is flying"
-	cont "toward the sea."
+	para "Éna lamperó"
+	line "poylí petáei"
+	cont "sthn uálassa."
 	done
 
 _AerodactylFossilText::
-	text "AERODACTYL Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	text "Apolúuvma AERO-"
+	line "DACTYL protw-"
+	cont "gono #mon."
 	done
 
 _KabutopsFossilText::
-	text "KABUTOPS Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	text "Apolúuvma KABU-"
+	line "TOPS prvtógono"
+	cont "#mon."
 	done
 
 _LinkCableHelpText1::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Using a Game Link"
-	line "Cable"
+	para "Bále to kalwdio"
+	line "GAME LINK."
 	prompt
 
 _LinkCableHelpText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "Üoió títlo ueº"
+	line "na diabáseiº?"
 	done
 
 _LinkCableInfoText1::
-	text "When you have"
-	line "linked your GAME"
-	cont "BOY with another"
-	cont "GAME BOY, talk to"
-	cont "the attendant on"
-	cont "the right in any"
-	cont "#MON CENTER."
+	text "Ótan syndéseiº"
+	line "to GAME BOY"
+	cont "me éna állo"
+	cont "GAME BOY, mílhse"
+	cont "me thn ypállhlo"
+	cont "sta dejiá káue"
+	cont "KENTPOY ÜOKEMON."
 	prompt
 
 _LinkCableInfoText2::
-	text "COLOSSEUM lets"
-	line "you play against"
-	cont "a friend."
+	text "'sto KO'lO's'sAIO"
+	line "paízeiº me"
+	cont "énan fílo."
 	prompt
 
 _LinkCableInfoText3::
-	text "TRADE CENTER is"
-	line "used for trading"
-	cont "#MON."
+	text "'sto KENPO ANTA-"
+	line "'l'lA'rH's antalá-"
+	cont "zeiº #mon."
 	prompt
 
 _ViridianSchoolBlackboardText1::
-	text "The blackboard"
-	line "describes #MON"
-	cont "STATUS changes"
-	cont "during battles."
+	text "O mayropínakaº"
+	line "deíxnei allagéº"
+	cont "#mon STATUS"
+	cont "katá th máxh."
 	prompt
 
 _ViridianSchoolBlackboardText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "Üoió títlo ueº"
+	line "na diabáseiº?"
 	done
 
 _ViridianBlackboardSleepText::
-	text "A #MON can't"
-	line "attack if it's"
-	cont "asleep!"
+	text "Éna  #mon poy"
+	line "koimátai den"
+	cont "epiteíuetai!"
 
-	para "#MON will stay"
-	line "asleep even after"
-	cont "battles."
+	para "Ta #mon ménoyn"
+	line "komhsména metá"
+	cont "tiº máxeº."
 
-	para "Use AWAKENING to"
-	line "wake them up!"
+	para "Bále AÖYÜNH'sH"
+	line "gia na jypnqsoyn!"
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "When poisoned, a"
-	line "#MON's health"
-	cont "steadily drops."
+	text "'sto dhlhtqrio, h"
+	line "zvq toy #mon"
+	cont "stadiaká péftei."
 
-	para "Poison lingers"
-	line "after battles."
+	para "To dhlhtqrio ménei"
+	line "metá tiº máxeº."
 
-	para "Use an ANTIDOTE"
-	line "to cure poison!"
+	para "Bále ANTI'dOTO"
+	line "gia uerapeía!"
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "Paralysis could"
-	line "make #MON"
-	cont "moves misfire!"
+	text "H parálysh mporeí"
+	line "na kánei kinqseiº"
+	cont "na astoxoún!"
 
-	para "Paralysis remains"
-	line "after battles."
+	para "H parálysh ménei"
+	line "metá tiº máxeº."
 
-	para "Use PARLYZ HEAL"
-	line "for treatment!"
+	para "Bále ÖEPAÜ ÜAPA'l."
+	line "'gia frontída!"
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "A burn reduces"
-	line "power and speed."
-	cont "It also causes"
-	cont "ongoing damage."
+	text "Kácimo meiwnei th"
+	line "dúnamh, taxúthta."
+	cont "Epíshº prokaleí"
+	cont "synexwmenh zhmiá."
 
-	para "Burns remain"
-	line "after battles."
+	para "To kácimo ménei"
+	line "metá tiº máxeº."
 
-	para "Use BURN HEAL to"
-	line "cure a burn!"
+	para "Bále ÖEPAÜ KAñIM."
+	line " gia frontída!"
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "If frozen, a"
-	line "#MON becomes"
-	cont "totally immobile!"
+	text "An pagwsei, to"
+	line "#mon gínetai"
+	cont "apólyta akínhto!"
 
-	para "It stays frozen"
-	line "even after the"
-	cont "battle ends."
+	para "Ménei étsi kai"
+	line "metá to téloº"
+	cont "thº máxhº."
 
-	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	para "Bále ÖEPAÜ. ÜA'rOY"
+	line "gia zéstama!"
 	prompt
 
 _VermilionGymTrashText::
-	text "Nope, there's"
-	line "only trash here."
+	text "Óxi, móno"
+	line "skoypídia edw."
 	done
 
 _VermilionGymTrashSuccessText1::
-	text "Hey! There's a"
-	line "switch under the"
-	cont "trash!"
-	cont "Turn it on!"
+	text "Éi! Ypárxei énaº"
+	line "diakópthº sta"
+	cont "skoypídia!"
+	cont "Trabqje ton!"
 
-	para "The 1st electric"
-	line "lock opened!@"
+	para "H 1h hlektrikq"
+	line "kleidariá éfyge!@"
 	text_end
 
 _VermilionGymTrashSuccessText2::
-	text "Hey! There's"
-	line "another switch"
-	cont "under the trash!"
-	cont "Turn it on!"
+	text "Éi! Ypárxei kai"
+	line "álloº énaº kátv"
+	cont "apó ta skoypídia!"
+	cont "trábhje ton!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
-	text "The 2nd electric"
-	line "lock opened!"
+	text "H 2h hlektrikq"
+	line "kleidariá éfyge!"
 
-	para "The motorized door"
-	line "opened!@"
+	para "H mhxanikq pórta"
+	line "ánoije!@"
 	text_end
 
 _VermilionGymTrashFailText::
-	text "Nope! There's"
-	line "only trash here."
-	cont "Hey! The electric"
-	cont "locks were reset!@"
+	text "Mpa! Móno"
+	line "skoypídia edw."
+	cont "Éi! H hlektrikq"
+	cont "kleidariá mpqke!@"
 	text_end
 
 _FoundHiddenItemText::
-	text "<PLAYER> found"
+	text "O <PLAYER> brqke"
 	line "@"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _HiddenItemBagFullText::
-	text "But, <PLAYER> has"
-	line "no more room for"
-	cont "other items!"
+	text "Ma, o <PLAYER>"
+	line "den éxei állo"
+	cont "xwro gi' aytó!"
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> found"
+	text "O <PLAYER> brqke"
 	line "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text " kérmata!@"
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> found"
+	text "O <PLAYER> brqke"
 	line "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text " kérmata!@"
 	text_end
 
 _DroppedHiddenCoinsText::
 	text_start
-	para "Oops! Dropped"
-	line "some coins!"
+	para "Oypº! Épesan"
+	line "meriká kérmata!"
 	done
 
 _IndigoPlateauStatuesText1::
-	text "INDIGO PLATEAU"
+	text "OPOÜE'dIO INDIGO"
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "The ultimate goal"
-	line "of trainers!"
-	cont "#MON LEAGUE HQ"
+	text "O apólytoº stóxoº"
+	line "gia ekpaideytéº!"
+	cont "KENTPIKA ÜP'vT/MATO's"
 	done
 
 _IndigoPlateauStatuesText3::
-	text "The highest"
-	line "#MON authority"
-	cont "#MON LEAGUE HQ"
+	text "H pio megálh"
+	line "#mon hgesía"
+	cont "KENTPIKA ÜP'vT/TO's"
 	done
 
 _PokemonBooksText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "Entelwº gemáto"
+	line "me #mon biblía!"
 	done
 
 _DiglettSculptureText::
-	text "It's a sculpture"
-	line "of DIGLETT."
+	text "Éna glyptó"
+	line "enóº DIGLETT."
 	done
 
 _ElevatorText::
-	text "This is an"
-	line "elevator."
+	text "Eínai éna"
+	line "asansér."
 	done
 
 _TownMapText::
-	text "A TOWN MAP.@"
+	text "ENA's XAPTH's.@"
 	text_end
 
 _PokemonStuffText::
-	text "Wow! Tons of"
-	line "#MON stuff!"
+	text "Oyáoy! Tónoi pra-"
+	line "gmátvn #mon!"
 	done
 
 _OutOfSafariBallsText::
-	text "PA: Ding-dong!"
+	text "Ntink-ntonk!"
 
-	para "You are out of"
-	line "SAFARI BALLs!"
+	para "Ñémeineº apó"
+	line "SAFARI BALL!"
 	prompt
 
 _WildRanText::
-	text "Wild @"
+	text "Ágrio @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "étreje!"
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "Exurikó @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "étreje!"
 	prompt
 
 _HurtByPoisonText::
-	text "<USER>'s"
-	line "hurt by poison!"
+	text "<USER>"
+	line "éxei dhlhtqrio!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER>'s"
-	line "hurt by the burn!"
+	text "<USER>"
+	line "épaue kácimo!"
 	prompt
 
 _HurtByLeechSeedText::
-	text "LEECH SEED saps"
-	line "<USER>!"
+	text "Bdélla royfá"
+	line "apó to <USER>!"
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "Exurikó @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fainted!"
+	line "nikquhke!"
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> pqre ¥@"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for winning!"
+	line "epeidq níkhse!"
 	prompt
 
 _TrainerDefeatedText::
-	text "<PLAYER> defeated"
+	text "O <PLAYER> níkhse"
 	line "@"
 	text_ram wTrainerName
 	text "!"
@@ -881,198 +881,198 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "httquhke!"
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "Bále poió #mon?"
 	done
 
 _Rival1WinText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Nai! Eímai"
+	line "foberoº q óxi?"
 	prompt
 
 _PlayerBlackedOutText2::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "O <PLAYER> jémeine"
+	line "apó #mon!"
 
-	para "<PLAYER> blacked"
-	line "out!"
+	para "O <PLAYER>"
+	line "lypouqmhse!"
 	prompt
 
 _LinkBattleLostText::
-	text "<PLAYER> lost to"
-	line "@"
+	text "O <PLAYER> éxase"
+	line "apó @"
 	text_ram wTrainerName
 	text "!"
 	prompt
 
 _TrainerAboutToUseText::
 	text_ram wTrainerName
-	text " is"
-	line "about to use"
+	text " uélei"
+	line "na bálei to"
 	cont "@"
 	text_ram wEnemyMonNick
 	text "!"
 
-	para "Will <PLAYER>"
-	line "change #MON?"
+	para "Òélei o <PLAYER> na"
+	line "allájei #mon?"
 	done
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " sent"
-	line "out @"
+	text " ésteile"
+	line "to @"
 	text_ram wEnemyMonNick
 	text "!"
 	done
 
 _NoWillText::
-	text "There's no will"
-	line "to fight!"
+	text "Kamía uélhsh"
+	line "gia máxh!"
 	prompt
 
 _CantEscapeText::
-	text "Can't escape!"
+	text "Kamía apofhgq!"
 	prompt
 
 _NoRunningText::
-	text "No! There's no"
-	line "running from a"
-	cont "trainer battle!"
+	text "Óxi! 'den feúgeiº"
+	line "apó mia máxh"
+	cont "ekpaideytwn!"
 	prompt
 
 _GotAwayText::
-	text "Got away safely!"
+	text "Öúgate úshxa!"
 	prompt
 
 _ItemsCantBeUsedHereText::
-	text "Items can't be"
-	line "used here."
+	text "'den gínetai"
+	line "aytó edw."
 	prompt
 
 _AlreadyOutText::
 	text_ram wBattleMonNick
-	text " is"
-	line "already out!"
+	text " eínai"
+	line "qdh ektóº!"
 	prompt
 
 _MoveNoPPText::
-	text "No PP left for"
-	line "this move!"
+	text "Ñémeineº apó"
+	line "ÜÜ kínhshº!"
 	prompt
 
 _MoveDisabledText::
-	text "The move is"
-	line "disabled!"
+	text "H kínhsh"
+	line "kleidwuhke!"
 	prompt
 
 _NoMovesLeftText::
 	text_ram wBattleMonNick
-	text " has no"
-	line "moves left!"
+	text " den éxei"
+	line "álleº kinqseiº!"
 	done
 
 _MultiHitText::
-	text "Hit the enemy"
+	text "Xtúphse exurikó"
 	line "@"
 	text_decimal wPlayerNumHits, 1, 1
-	text " times!"
+	text " fóreº!"
 	prompt
 
 _ScaredText::
 	text_ram wBattleMonNick
-	text " is too"
-	line "scared to move!"
+	text " eínai polú fobi-"
+	line "sméno gia kinqseiº!"
 	prompt
 
 _GetOutText::
-	text "GHOST: Get out..."
-	line "Get out..."
+	text "ÖANT'sMA: Öúge..."
+	line "Öúge..."
 	prompt
 
 _FastAsleepText::
 	text "<USER>"
-	line "is fast asleep!"
+	line "apokoimquhke!"
 	prompt
 
 _WokeUpText::
 	text "<USER>"
-	line "woke up!"
+	line "júpnhse!"
 	prompt
 
 _IsFrozenText::
 	text "<USER>"
-	line "is frozen solid!"
+	line "págvse!"
 	prompt
 
 _FullyParalyzedText::
-	text "<USER>'s"
-	line "fully paralyzed!"
+	text "<USER>"
+	line "parélyse plqrvº!"
 	prompt
 
 _FlinchedText::
 	text "<USER>"
-	line "flinched!"
+	line "distázei!"
 	prompt
 
 _MustRechargeText::
 	text "<USER>"
-	line "must recharge!"
+	line "ua jekoyrasteí!"
 	prompt
 
 _DisabledNoMoreText::
-	text "<USER>'s"
-	line "disabled no more!"
+	text "<USER>"
+	line "jekleídvse kínhsh!"
 	prompt
 
 _IsConfusedText::
 	text "<USER>"
-	line "is confused!"
+	line "mperdeúthke!"
 	prompt
 
 _HurtItselfText::
-	text "It hurt itself in"
-	line "its confusion!"
+	text "Ülqgvse ton eaytó"
+	line "toy apó zaláda!"
 	prompt
 
 _ConfusedNoMoreText::
-	text "<USER>'s"
-	line "confused no more!"
+	text "<USER> den"
+	line "mperdeúetai állo!"
 	prompt
 
 _SavingEnergyText::
 	text "<USER>"
-	line "is saving energy!"
+	line "mazeúei enérgeia!"
 	prompt
 
 _UnleashedEnergyText::
 	text "<USER>"
-	line "unleashed energy!"
+	line "bgázei enérgeia!"
 	prompt
 
 _ThrashingAboutText::
-	text "<USER>'s"
-	line "thrashing about!"
+	text "<USER>"
+	line "xtypiétai!"
 	done
 
 _AttackContinuesText::
-	text "<USER>'s"
-	line "attack continues!"
+	text "<USER>"
+	line "synexízei epíuesh!"
 	done
 
 _CantMoveText::
 	text "<USER>"
-	line "can't move!"
+	line "eínai akínhto!"
 	prompt
 
 _MoveIsDisabledText::
-	text "<USER>'s"
+	text "<USER>"
 	line "@"
 	text_ram wNameBuffer
-	text " is"
-	cont "disabled!"
+	text " éxei"
+	cont "kledvueí!"
 	prompt
 
 _MonName1Text::
@@ -1081,16 +1081,16 @@ _MonName1Text::
 
 _Used1Text::
 	text_start
-	line "used @"
+	line "ékane @"
 	text_end
 
 _Used2Text::
 	text_start
-	line "used @"
+	line "ékane @"
 	text_end
 
 _InsteadText::
-	text "instead,"
+	text "Ant aytoú,"
 	cont "@"
 	text_end
 
@@ -1119,173 +1119,173 @@ _ExclamationPoint5Text::
 	done
 
 _AttackMissedText::
-	text "<USER>'s"
-	line "attack missed!"
+	text "<USER>"
+	line "astóxise!"
 	prompt
 
 _KeptGoingAndCrashedText::
 	text "<USER>"
-	line "kept going and"
-	cont "crashed!"
+	line "synexízei kai"
+	cont "traymatízetai!"
 	prompt
 
 _UnaffectedText::
-	text "<TARGET>'s"
-	line "unaffected!"
+	text "<TARGET>"
+	line "den ephreásthke!"
 	prompt
 
 _DoesntAffectMonText::
-	text "It doesn't affect"
-	line "<TARGET>!"
+	text "'den ephreázei"
+	line "to <TARGET>!"
 	prompt
 
 _CriticalHitText::
-	text "Critical hit!"
+	text "Krísimh zhmiá!"
 	prompt
 
 _OHKOText::
-	text "One-hit KO!"
+	text "Ámeso KO!"
 	prompt
 
 _LoafingAroundText::
 	text_ram wBattleMonNick
-	text " is"
-	line "loafing around."
+	text " xazo-"
+	line "logáei."
 	prompt
 
 _BeganToNapText::
 	text_ram wBattleMonNick
-	text " began"
-	line "to nap!"
+	text " épese"
+	line "gia úpno!"
 	prompt
 
 _WontObeyText::
 	text_ram wBattleMonNick
-	text " won't"
-	line "obey!"
+	text " den"
+	line "ypakoúei!"
 	prompt
 
 _TurnedAwayText::
 	text_ram wBattleMonNick
-	text " turned"
-	line "away!"
+	text " gyrízei thn"
+	line "pláth toy!"
 	prompt
 
 _IgnoredOrdersText::
 	text_ram wBattleMonNick
 	text_start
-	line "ignored orders!"
+	line "agnoeí entoléº!"
 	prompt
 
 _SubstituteTookDamageText::
-	text "The SUBSTITUTE"
-	line "took damage for"
-	cont "<TARGET>!"
+	text "H ANAÜ'lHP'v'sH"
+	line "pqre zhmiá gia"
+	cont "to <TARGET>!"
 	prompt
 
 _SubstituteBrokeText::
-	text "<TARGET>'s"
-	line "SUBSTITUTE broke!"
+	text "<TARGET>"
+	line "ékoce ANAÜ'lHP'v'sH!"
 	prompt
 
 _BuildingRageText::
-	text "<USER>'s"
-	line "RAGE is building!"
+	text "<USER>"
+	line "xtízei orgq!"
 	prompt
 
 _MirrorMoveFailedText::
-	text "The MIRROR MOVE"
-	next "failed!"
+	text "O kauréfthº"
+	next "apétyxe!"
 	prompt
 
 _HitXTimesText::
-	text "Hit @"
+	text "Xtúphse @"
 	text_decimal wEnemyNumHits, 1, 1
-	text " times!"
+	text " foréº!"
 	prompt
 
 _GainedText::
 	text_ram wNameBuffer
-	text " gained"
+	text " pqre"
 	line "@"
 	text_end
 
 _WithExpAllText::
-	text "with EXP.ALL,"
+	text "Me to EXP.ALL,"
 	cont "@"
 	text_end
 
 _BoostedText::
-	text "a boosted"
+	text "Anebasméno"
 	cont "@"
 	text_end
 
 _ExpPointsText::
 	text_decimal wExpAmountGained, 2, 4
-	text " EXP. Points!"
+	text " póntoyº EXP!"
 	prompt
 
 _GrewLevelText::
 	text_ram wNameBuffer
-	text " grew"
-	line "to level @"
+	text " anébhke"
+	line "se LEVEL@"
 	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
 _WildMonAppearedText::
-	text "Wild @"
+	text "Ágrio @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "emfanísthke!"
 	prompt
 
 _HookedMonAttackedText::
-	text "The hooked"
+	text "To kollhméno"
 	line "@"
 	text_ram wEnemyMonNick
 	text_start
-	cont "attacked!"
+	cont "epitíuetai!"
 	prompt
 
 _EnemyAppearedText::
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "emfanísthke!"
 	prompt
 
 _TrainerWantsToFightText::
 	text_ram wTrainerName
-	text " wants"
-	line "to fight!"
+	text " uélei"
+	line "mia máxh!"
 	prompt
 
 _UnveiledGhostText::
-	text "SILPH SCOPE"
-	line "unveiled the"
-	cont "GHOST's identity!"
+	text "O ÖAKO SILPH fa-"
+	line "nérvse thn taytó-"
+	cont "thta ÖANTA'sMATO's!"
 	prompt
 
 _GhostCantBeIDdText::
-	text "Darn! The GHOST"
-	line "can't be ID'd!"
+	text "Ötoy! to ÖANTA'sMA"
+	line "den anagnvrízetai!"
 	prompt
 
 _GoText::
-	text "Go! @"
+	text "Öúge! @"
 	text_end
 
 _DoItText::
-	text "Do it! @"
+	text "Kánto! @"
 	text_end
 
 _GetmText::
-	text "Get'm! @"
+	text "Empróº! @"
 	text_end
 
 _EnemysWeakText::
-	text "The enemy's weak!"
-	line "Get'm! @"
+	text "Adúnamoº exuróº!"
+	line "Empróº! @"
 	text_end
 
 _PlayerMon1Text::
@@ -1299,7 +1299,7 @@ _PlayerMon2Text::
 	text_end
 
 _EnoughText::
-	text "enough!@"
+	text "Arketá!@"
 	text_end
 
 _OKExclamationText::
@@ -1307,482 +1307,482 @@ _OKExclamationText::
 	text_end
 
 _GoodText::
-	text "good!@"
+	text "'vraía!@"
 	text_end
 
 _ComeBackText::
 	text_start
-	line "Come back!"
+	line "éla písv!"
 	done
 
 _SuperEffectiveText::
-	text "It's super"
-	line "effective!"
+	text "Éxei soúper"
+	line "epídrash!"
 	prompt
 
 _NotVeryEffectiveText::
-	text "It's not very"
-	line "effective..."
+	text "'den éxei pollq"
+	line "epídrash..."
 	prompt
 
 _SafariZoneEatingText::
-	text "Wild @"
+	text "Ágrio @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is eating!"
+	line "trwei!"
 	prompt
 
 _SafariZoneAngryText::
-	text "Wild @"
+	text "Ágrio @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is angry!"
+	line "eínai éjalo!"
 	prompt
 
 ; money related
 _PickUpPayDayMoneyText::
-	text "<PLAYER> picked up"
+	text "O <PLAYER> pqre"
 	line "¥@"
 	text_bcd wTotalPayDayMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text "!"
 	prompt
 
 _ClearSaveDataText::
-	text "Clear all saved"
-	line "data?"
+	text "Xáse ólo to"
+	line "arxeío?"
 	done
 
 _WhichFloorText::
-	text "Which floor do"
-	line "you want? "
+	text "Üoión órofo"
+	line "uéleiº? "
 	done
 
 _PartyMenuNormalText::
-	text "Choose a #MON."
+	text "'diáleje #mon."
 	done
 
 _PartyMenuItemUseText::
-	text "Use item on which"
-	line "#MON?"
+	text "'dvse antikeímeno"
+	line "se poió #mon?"
 	done
 
 _PartyMenuBattleText::
-	text "Bring out which"
-	line "#MON?"
+	text "Bgále poió"
+	line "#mon?"
 	done
 
 _PartyMenuUseTMText::
-	text "Use TM on which"
-	line "#MON?"
+	text "Bále TM se poió"
+	line "#mon?"
 	done
 
 _PartyMenuSwapMonText::
-	text "Move #MON"
-	line "where?"
+	text "Üqgaine to"
+	line "#mon poy?"
 	done
 
 _PotionText::
 	text_ram wNameBuffer
 	text_start
-	line "recovered by @"
+	line "anékthse @"
 	text_decimal wHPBarHPDifference, 2, 3
 	text "!"
 	done
 
 _AntidoteText::
 	text_ram wNameBuffer
-	text " was"
-	line "cured of poison!"
+	text " eínai"
+	line "kalá twra!"
 	done
 
 _ParlyzHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "rid of paralysis!"
+	text " éxase"
+	line "thn parálysh!"
 	done
 
 _BurnHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "burn was healed!"
+	text " to kácimo'"
+	line "uerapeúthke!"
 	done
 
 _IceHealText::
 	text_ram wNameBuffer
-	text " was"
-	line "defrosted!"
+	text " éxei"
+	line "jepagwsei!"
 	done
 
 _AwakeningText::
 	text_ram wNameBuffer
 	text_start
-	line "woke up!"
+	line "júpnhse!"
 	done
 
 _FullHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "health returned!"
+	text "'"
+	line "ygeía epéstrece!"
 	done
 
 _ReviveText::
 	text_ram wNameBuffer
 	text_start
-	line "is revitalized!"
+	line "ananewuhke!"
 	done
 
 _RareCandyText::
 	text_ram wNameBuffer
-	text " grew"
-	line "to level @"
+	text " anébhke"
+	line "se LEVEL @"
 	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
 _TurnedOnPC1Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "O <PLAYER> ánoije"
+	line "to PC."
 	prompt
 
 _AccessedBillsPCText::
-	text "Accessed BILL's"
-	line "PC."
+	text "Ürósbash sto PC"
+	line "toy BILL."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "Ürósbash apouq-"
+	line "keyshº #mon."
 	prompt
 
 _AccessedSomeonesPCText::
-	text "Accessed someone's"
-	line "PC."
+	text "Ürósbash sto PC"
+	line "kápoioy."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "Ürósbash xwroy"
+	line "apou/shº #mon."
 	prompt
 
 _AccessedMyPCText::
-	text "Accessed my PC."
+	text "Ürósbash sto PC."
 
-	para "Accessed Item"
-	line "Storage System."
+	para "Ürósbash xwroy"
+	line "ap/shº pragmtvn."
 	prompt
 
 _TurnedOnPC2Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "O <PLAYER>"
+	line "ánoije to PC."
 	prompt
 
 _WhatDoYouWantText::
-	text "What do you want"
-	line "to do?"
+	text "Ti uéleiº na"
+	line "káneiº?"
 	done
 
 _WhatToDepositText::
-	text "What do you want"
-	line "to deposit?"
+	text "Ti uéleiº na"
+	line "apouéseiº?"
 	done
 
 _DepositHowManyText::
-	text "How many?"
+	text "Üósa uéleiº?"
 	done
 
 _ItemWasStoredText::
 	text_ram wNameBuffer
-	text " was"
-	line "stored via PC."
+	text ""
+	line "mpqke sto PC."
 	prompt
 
 _NothingToDepositText::
-	text "You have nothing"
-	line "to deposit."
+	text "den éxeiº típota"
+	line "na apouéseiº."
 	prompt
 
 _NoRoomToStoreText::
-	text "No room left to"
-	line "store items."
+	text "'den éxeiº állo"
+	line "xwro edw."
 	prompt
 
 _WhatToWithdrawText::
-	text "What do you want"
-	line "to withdraw?"
+	text "Ti uéleiº na"
+	line "bgáleiº ektóº?"
 	done
 
 _WithdrawHowManyText::
-	text "How many?"
+	text "Üósa apó aytá?"
 	done
 
 _WithdrewItemText::
-	text "Withdrew"
+	text "Üqreº"
 	line "@"
 	text_ram wNameBuffer
 	text "."
 	prompt
 
 _NothingStoredText::
-	text "There is nothing"
-	line "stored."
+	text "'den ypárxei"
+	line "káti edw."
 	prompt
 
 _CantCarryMoreText::
-	text "You can't carry"
-	line "any more items."
+	text "'den mporeíº na"
+	line "koybaláº parapánv."
 	prompt
 
 _WhatToTossText::
-	text "What do you want"
-	line "to toss away?"
+	text "Ti uéleiº na"
+	line "petájeiº?"
 	done
 
 _TossHowManyText::
-	text "How many?"
+	text "Üósa apó aytá?"
 	done
 
 _AccessedHoFPCText::
-	text "Accessed #MON"
-	line "LEAGUE's site."
+	text "Ürósbash ston tópo"
+	line "ÜP'vT/MATO's #mon!"
 
-	para "Accessed the HALL"
-	line "OF FAME List."
+	para "Ürósbash sthn"
+	line "lísta toy ÜANÒEON."
 	prompt
 
 _SwitchOnText::
-	text "Switch on!"
+	text "'diakópthº ON!"
 	prompt
 
 _WhatText::
-	text "What?"
+	text "Ti?"
 	done
 
 _DepositWhichMonText::
-	text "Deposit which"
-	line "#MON?"
+	text "Apóuese pósa"
+	line "#mon?"
 	done
 
 _MonWasStoredText::
 	text_ram wStringBuffer
-	text " was"
-	line "stored in Box @"
+	text " éxei mpei"
+	line "sto KOYTI @"
 	text_ram wBoxNumString
 	text "."
 	prompt
 
 _CantDepositLastMonText::
-	text "You can't deposit"
-	line "the last #MON!"
+	text "'den mporeíº na bá-"
+	line "leiº perissótera!"
 	prompt
 
 _BoxFullText::
-	text "Oops! This Box is"
-	line "full of #MON."
+	text "Oypº! To KOYTI"
+	line "eínai gemáto."
 	prompt
 
 _MonIsTakenOutText::
 	text_ram wStringBuffer
-	text " is"
-	line "taken out."
-	cont "Got @"
+	text " éxei"
+	line "bgei éjv."
+	cont "phre @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _NoMonText::
-	text "What? There are"
-	line "no #MON here!"
+	text "Ti? 'den ypárxoyn"
+	line "#mon edw!"
 	prompt
 
 _CantTakeMonText::
-	text "You can't take"
-	line "any more #MON."
+	text "'den mporeíº na"
+	line "éxeiº kai álla."
 
-	para "Deposit #MON"
-	line "first."
+	para "Apóuese #mon"
+	line "prwta."
 	prompt
 
 _ReleaseWhichMonText::
-	text "Release which"
-	line "#MON?"
+	text "Áfqse poió"
+	line "#mon?"
 	done
 
 _OnceReleasedText::
-	text "Once released,"
+	text "Móliº eleyuervueí,"
 	line "@"
 	text_ram wStringBuffer
-	text " is"
-	cont "gone forever. OK?"
+	text " ua fúgei"
+	cont "gia pánta. OK?"
 	done
 
 _MonWasReleasedText::
 	text_ram wStringBuffer
-	text " was"
-	line "released outside."
-	cont "Bye @"
+	text " aféuhke"
+	line "eleúuero éjv."
+	cont "Antío @"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _RequireCoinCaseText::
-	text "A COIN CASE is"
-	line "required!@"
+	text "Mia ÒHKH KEPMAT'vN"
+	line "apaiteítai!@"
 	text_end
 
 _ExchangeCoinsForPrizesText::
-	text "We exchange your"
-	line "coins for prizes."
+	text "Allázoyme kérmata"
+	line "me brabeía."
 	prompt
 
 _WhichPrizeText::
-	text "Which prize do"
-	line "you want?"
+	text "Üoió brabeío"
+	line "uéleiº?"
 	done
 
 _HereYouGoText::
-	text "Here you go!@"
+	text "Oríste!@"
 	text_end
 
 _SoYouWantPrizeText::
-	text "So, you want"
+	text "üste, uéleiº to"
 	line "@"
 	text_ram wNameBuffer
 	text "?"
 	done
 
 _SorryNeedMoreCoinsText::
-	text "Sorry, you need"
-	line "more coins.@"
+	text "'sygnwmh, uéº"
+	line "kai álla kérmata.@"
 	text_end
 
 _OopsYouDontHaveEnoughRoomText::
-	text "Oops! You don't"
-	line "have enough room.@"
+	text "Oypº! 'den éxv"
+	line "állo xwro.@"
 	text_end
 
 _OhFineThenText::
-	text "Oh, fine then.@"
+	text "'v, kalá.@"
 	text_end
 
 _GetDexRatedText::
-	text "Want to get your"
-	line "#DEX rated?"
+	text "Òéleiº na párei"
+	line "baumó to #ntej?"
 	done
 
 _ClosedOaksPCText::
-	text "Closed link to"
-	line "PROF.OAK's PC.@"
+	text "Ékleise h súndesh"
+	line "PC toy KAÒ.OAK.@"
 	text_end
 
 _AccessedOaksPCText::
-	text "Accessed PROF."
-	line "OAK's PC."
+	text "Ürósbash sto PC"
+	line "toy KAÒ.OAK."
 
-	para "Accessed #DEX"
-	line "Rating System."
+	para "Ürósbash sth ba-"
+	line "umología #ntej."
 	prompt
 
 _WhereWouldYouLikeText::
-	text "Where would you"
-	line "like to go?"
+	text "Üoy uéleiº"
+	line "na paº?"
 	done
 
 _PleaseWaitText::
-	text "OK, please wait"
-	line "just a moment."
+	text "OK, periménete"
+	line "líga leptá."
 	done
 
 _LinkCanceledText::
-	text "The link was"
-	line "canceled."
+	text "H súndesh"
+	line "éxei akyrvueí."
 	done
 
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "'reiá soy! Kalwº"
+	line "qrueº ston kósmo"
+	cont "tvn #mon!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "Me léne OAK!"
+	line "Oi ánurvpoi me"
+	cont "léne KAÒ.#mon!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@"
+	text "O kósmoº"
+	line "katoikeítai apó"
+	cont "ta plasmatákia"
+	cont "#mon!@"
 	text_end
 
 _OakSpeechText2B::
 	text_start
 
-	para "For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	para "'ria merikoúº"
+	line "eínai fíloi. 'ria"
+	cont "álloyº eínai"
+	cont "maxhtéº."
 
-	para "Myself..."
+	para "Egw..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "Meletw ta #mon"
+	line "vº epággelma."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Ürvta, ómwº"
+	line "pvº se léne?"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "Aytóº eínai o"
+	line "eggonóº moy."
+	cont "Eísaste antízhloi"
+	cont "apó mvrá."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Erm, pvº ton"
+	line "léne eípame?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "O #mon urúloº"
+	line "soy prókeitai"
+	cont "na arxísei!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "Énaº kósmoº"
+	line "oneírvn kai #-"
+	cont "mon peripeteiwn"
+	cont "periménei! Üáme!"
 	done
 
 _DoYouWantToNicknameText::
-	text "Do you want to"
-	line "give a nickname"
-	cont "to @"
+	text "Òeº na dwseiº"
+	line "éna ceydwnymo"
+	cont "sto @"
 	text_ram wNameBuffer
 	text "?"
 	done
 
 _YourNameIsText::
-	text "Right! So your"
-	line "name is <PLAYER>!"
+	text "'svstá! 'üste se"
+	line "léne <PLAYER>!"
 	prompt
 
 _HisNameIsText::
-	text "That's right! I"
-	line "remember now! His"
-	cont "name is <RIVAL>!"
+	text "Akribwº! Twra"
+	line "uymquhka! Ton"
+	cont "léne <RIVAL>!"
 	prompt
 
 _WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
-	text " and"
+	text " kai"
 	line "@"
 	text_ram wNameBuffer
-	text " will"
-	cont "be traded."
+	text " ua anta-"
+	cont "laxuoún."
 	done
 
 _TextIDErrorText::
 	text_decimal hTextID, 1, 2
-	text " ERROR."
+	text " 'sÖA'lMA."
 	done
 
 _ContCharText::

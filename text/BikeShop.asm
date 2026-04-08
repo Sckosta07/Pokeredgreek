@@ -1,71 +1,71 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "'reiá! Kalwº qrueº"
+	line "sta 'dIKYK'lA."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Éxoyme 'dIKY-"
+	line "K'lO gia eséna!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "Eínai polú kaló!"
+	line "to uéleiº?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "'lúpamai! den"
+	line "éxeiº arketá!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "'v, eínai éna..."
 
-	para "A BIKE VOUCHER!"
+	para "KOYÜONI 'dIKYK'lOY!"
 
-	para "OK! Here you go!"
+	para "OK! Oríste!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "O <PLAYER> antállaje"
+	line "to KOYÜONI me"
+	cont "éna 'dIKYK'lO.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "some time!"
+	text "Éla janá"
+	line "ópote uéleiº!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "Üvº eínai to"
+	line "néo soy 'dIKYK'lO?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "Mporeíº na paº"
+	line "ston 'dROMO 'dIKY-"
+	cont "K'l'vN q se sphliéº!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "Káne lígo"
+	line "xwro gi' aytó!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "Éna apló 'dIKYK'lO"
+	line "eínai polú kaló"
+	cont "gia eména!"
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "Mhn bázeiº to"
+	line "kalaui agorvn"
+	cont "se 'dIKYK'lO!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Ta 'dIKYK'lA eínai"
+	line "vraía, ma pará"
+	cont "polú akribá!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Oyáoy. to dIKYK'lO"
+	line "eínai polú vraío!"
 	done

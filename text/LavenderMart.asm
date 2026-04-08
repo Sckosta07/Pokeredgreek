@@ -1,30 +1,30 @@
 _LavenderMartBaldingGuyText::
-	text "I'm searching for"
-	line "items that raise"
-	cont "the abilities of"
-	cont "#MON during a"
-	cont "single battle."
+	text "ñáxnv gia prá-"
+	line "gmata poy ane-"
+	cont "bázoyn #mon"
+	cont "ikanóthteº"
+	cont "katá th máxh."
 
-	para "X ATTACK, X"
-	line "DEFEND, X SPEED"
-	cont "and X SPECIAL are"
-	cont "what I'm after."
+	para "EÜIÒE'sH X,"
+	line "AMYNA X, TAXYTHTA"
+	cont "X, EI'dIKO X einai"
+	cont "aytá poy cáxnv."
 
-	para "Do you know where"
-	line "I can get them?"
+	para "Ñéreiº poy mporw"
+	line "na ta brv?"
 	done
 
 _LavenderMartCooltrainerMReviveText::
-	text "You know REVIVE?"
-	line "It revives any"
-	cont "fainted #MON!"
+	text "'vraía h ANABI'v'sH?"
+	line "Anabiwnei káue"
+	cont "lypóuhmo #mon!"
 	done
 
 _LavenderMartCooltrainerMNuggetText::
-	text "I found a NUGGET"
-	line "in the mountains."
+	text "Brqka éna 'sBO'lO"
+	line "sta boyná."
 
-	para "I thought it was"
-	line "useless, but it"
-	cont "sold for ¥5000!"
+	para "Nómiza pvº qtan"
+	line "áxrhstoº, ma ton"
+	cont "poúlhsa gia ¥5000!"
 	done

@@ -1,209 +1,209 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
-	cont "Why, thank you!"
+	text "'v! 'reia! 'den eísai"
+	line "ÜYPAY'lO's! Ìrueº"
+	cont "na maº swseiº?"
+	cont "Tóte, eyxaristw!"
 
-	para "I want you to"
-	line "have this #MON"
-	cont "for saving us."
+	para "Òélv na páreiº"
+	line "aytó to #mon"
+	cont "vº eyxaristw."
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::
-	text "It's LAPRAS. It's"
-	line "very intelligent."
+	text "Eínai LAPRAS."
+	line "Üolú éjypno."
 
-	para "We kept it in our"
-	line "lab, but it will"
-	cont "be much better"
-	cont "off with you!"
+	para "To kratáme sto"
+	line "ergastqrio, ma"
+	cont "ua eínai kalútera"
+	cont "mazí soy!"
 
-	para "I think you will"
-	line "be a good trainer"
-	cont "for LAPRAS!"
+	para "Òa eísai kalóº"
+	line "ekpaideytqº gia"
+	cont "to LAPRAS!"
 
-	para "It's a good"
-	line "swimmer. It'll"
-	cont "give you a lift!"
+	para "Eínai kalóº"
+	line "kolymbhtqº. Òa"
+	cont "se bohuqsei!"
 	done
 
 _SilphCo7FSilphWorkerM1IsOurPresidentOkText::
-	text "TEAM ROCKET's"
-	line "BOSS went to the"
-	cont "boardroom! Is our"
-	cont "PRESIDENT OK?"
+	text "To AÖENTIKO toyº"
+	line "eínai sthn aíuoysa"
+	cont "syskécevn! Eínai"
+	cont "o ÜPOE'dPO's OK?"
 	done
 
 _SilphCo7FSilphWorkerM1SavedText::
-	text "Saved at last!"
-	line "Thank you!"
+	text "'svuqkame!"
+	line "Eyxaristoúme!"
 	done
 
 _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
-	text "TEAM ROCKET was"
-	line "after the MASTER"
-	cont "BALL which will"
-	cont "catch any #MON!"
+	text "H OMA'dA ÜYPAY'lO's"
+	line "cáxnei thn MASTER"
+	cont "BALL ópoy piánei"
+	cont "káue #mon!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
-	text "We canceled the"
-	line "MASTER BALL"
-	cont "project because"
-	cont "of TEAM ROCKET."
+	text "Akyrwsame to"
+	line "sxédio MASTER"
+	cont "BALL lógv thº"
+	cont "OMA'dA's ÜYPAY'lOY."
 	done
 
 _SilphCo7FSilphWorkerM3ItWouldBeBadText::
-	text "It would be bad"
-	line "if TEAM ROCKET"
-	cont "took over SILPH"
-	cont "or our #MON!"
+	text "Òa qtan kakó an"
+	line "oi ÜYPAY'lOI eíxan"
+	cont "thn SILPH q ta"
+	cont "#mon maº!"
 	done
 
 _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
-	text "Wow! You chased"
-	line "off TEAM ROCKET"
-	cont "all by yourself?"
+	text "Oyáoy! Édivjeº"
+	line "thn OMA'dA ÜYPAY'lO"
+	cont "olomónaxoº?"
 	done
 
 _SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
-	text "You! It's really"
-	line "dangerous here!"
-	cont "You came to save"
-	cont "me? You can't!"
+	text "Esú! Eínai polú"
+	line "epikíndyna edw!"
+	cont "Ìrueº na me"
+	cont "swseiº? Adúnaton!"
 	done
 
 _SilphCo7FSilphWorkerM4SafeAtLastText::
-	text "Safe at last!"
-	line "Oh thank you!"
+	text "Asfaleíº janá!"
+	line "'v, s' eyxaristw!"
 	done
 
 _SilphCo7FRocket1BattleText::
-	text "Oh ho! I smell a"
-	line "little rat!"
+	text "'vx óxi! Myrízv"
+	line "énan xazó!"
 	done
 
 _SilphCo7FRocket1EndBattleText::
-	text "Lights"
-	line "out!"
+	text "Óxi kai"
+	line "tóso xazó!"
 	prompt
 
 _SilphCo7FRocket1AfterBattleText::
-	text "You won't find my"
-	line "BOSS by just"
-	cont "scurrying around!"
+	text "'den ua breiº to"
+	line "AÖENTIKO aplwº"
+	cont "tréxontaº trigúrv!"
 	done
 
 _SilphCo7FScientistBattleText::
-	text "Heheh!"
+	text "Xexex!"
 
-	para "You mistook me for"
-	line "a SILPH worker?"
+	para "Me mpérdeceº"
+	line "gia ypállhlo?"
 	done
 
 _SilphCo7FScientistEndBattleText::
-	text "I'm"
-	line "done!"
+	text "Éxv"
+	line "xásei!"
 	prompt
 
 _SilphCo7FScientistAfterBattleText::
-	text "Despite your age,"
-	line "you are a skilled"
-	cont "trainer!"
+	text "Üará to úcoº,"
+	line "eísai émpeiroº"
+	cont "ekpaideytqº!"
 	done
 
 _SilphCo7FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Eímai 1 apó ta 4"
+	line "A'dE'lÖIA ÜYPAY'l'vN!"
 	done
 
 _SilphCo7FRocket2EndBattleText::
-	text "Aack!"
-	line "Brothers, I lost!"
+	text "Aak!"
+	line "Adélfia, éxasa!"
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
-	text "Doesn't matter."
-	line "My brothers will"
-	cont "repay the favor!"
+	text "Asqmanto. Ta"
+	line "adélfia moy ua"
+	cont "se nikqsoyn!"
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "A child intruder?"
-	line "That must be you!"
+	text "Üaidí eisboléaº?"
+	line "Esú ua eísai!"
 	done
 
 _SilphCo7FRocket3EndBattleText::
-	text "Fine!"
-	line "I lost!"
+	text "Kalá!"
+	line "Éxasa!"
 	prompt
 
 _SilphCo7FRocket3AfterBattleText::
-	text "Go on home"
-	line "before my BOSS"
-	cont "gets ticked off!"
+	text "Tréxa spíti soy"
+	line "prin to AÖENTIKO"
+	cont "moy neyriásei!"
 	done
 
 _SilphCo7FRivalText::
-	text "<RIVAL>: What"
-	line "kept you <PLAYER>?"
+	text "<RIVAL>: 'riatí"
+	line "árghseº <PLAYER>?"
 	done
 
 _SilphCo7FRivalWaitedHereText::
-	text "<RIVAL>: Hahaha!"
-	line "I thought you'd"
-	cont "turn up if I"
-	cont "waited here!"
+	text "<RIVAL>: Xaxaxa!"
+	line "'skéfthka óti ua"
+	cont "erxósoyn an"
+	cont "perímena edw!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "Ypouétv pvº oi"
+	line "ÜYPAY'lOI se kauh-"
+	cont "stérhsan! Óxi óti"
+	cont "me noiázei!"
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "'se eída sthn"
+	line "SAFFRON, étsi"
+	cont "apofásisa na dv"
+	cont "an kalytéreyseº!"
 	done
 
 _SilphCo7FRivalDefeatedText::
-	text "Oh ho!"
-	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	text "'vx! üste,"
+	line "eísai étoimoº gia"
+	cont "to AÖENTIKO toyº!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
-	text "<RIVAL>: How can"
-	line "I put this?"
+	text "<RIVAL>: Üvº"
+	line "na to pv?"
 
-	para "You're not good"
-	line "enough to play"
-	cont "with us big boys!"
+	para "'den eísai arketá"
+	line "kalóº gia na paí-"
+	cont "jeiº me megáloyº!"
 	prompt
 
 _SilphCo7FRivalGoodLuckToYouText::
-	text "Well, <PLAYER>!"
+	text "'loipón, <PLAYER>!"
 
-	para "I'm moving on up"
-	line "and ahead!"
+	para "Ühgaínv"
+	line "mprostá!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "Tsekárvntaº to"
+	line "#ntej arxizv"
+	cont "na blépv poiá eí-"
+	cont "nai dynatá kai"
+	cont "pvº ejelísontai!"
 
-	para "I'm going to the"
-	line "#MON LEAGUE"
-	cont "to boot out the"
-	cont "ELITE FOUR!"
+	para "Üáv sto ÜP'vT/MA"
+	line "#mon gia na"
+	cont "bgálv ektó"
+	cont "toyº 4 E'lIT!"
 
-	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	para "Òa gínv o pio"
+	line "dynatóº prvtaulh-"
+	cont "tqº toy kósmoy!"
 
-	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	para "<PLAYER>, ára"
+	line "kalq soy túxh!"
+	cont "Mhn idrwseiº!"
+	cont "Ta léme!"
 	done

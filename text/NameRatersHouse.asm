@@ -1,59 +1,59 @@
 _NameRatersHouseNameRaterWantMeToRateText::
-	text "Hello, hello!"
-	line "I am the official"
-	cont "NAME RATER!"
+	text "Xaíretai, fíle!"
+	line "Egw ajiologw"
+	cont "ONOMATA #mon!"
 
-	para "Want me to rate"
-	line "the nicknames of"
-	cont "your #MON?"
+	para "Òeº na ajiolo-"
+	line "gqsv ta diká soy"
+	cont "onómata?"
 	done
 
 _NameRatersHouseNameRaterWhichPokemonText::
-	text "Which #MON"
-	line "should I look at?"
+	text "Üoió #mon"
+	line "na koitájv?"
 	prompt
 
 _NameRatersHouseNameRaterGiveItANiceNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a decent"
-	cont "nickname!"
+	text ", eínai?"
+	line "Eínai svstó"
+	cont "ónoma!"
 
-	para "But, would you"
-	line "like me to give"
-	cont "it a nicer name?"
+	para "Ma, ua queleº"
+	line "na dwsv éna pio"
+	cont "kaló ónoma?"
 
-	para "How about it?"
+	para "Ti leº?"
 	done
 
 _NameRatersHouseNameRaterWhatShouldWeNameItText::
-	text "Fine! What should"
-	line "we name it?"
+	text "'vraía! Üvº na"
+	line "to poúme?"
 	prompt
 
 _NameRatersHouseNameRaterPokemonHasBeenRenamedText::
-	text "OK! This #MON"
-	line "has been renamed"
+	text "OK! To #MON"
+	line "állaje ónoma"
 	cont "@"
 	text_ram wBuffer
 	text "!"
 
-	para "That's a better"
-	line "name than before!"
+	para "Eínai pio kaló"
+	line "ónoma apó prin!"
 	done
 
 _NameRatersHouseNameRaterComeAnyTimeYouLikeText::
-	text "Fine! Come any"
-	line "time you like!"
+	text "'vraía! Éla"
+	line "ópote ueº!"
 	done
 
 _NameRatersHouseNameRaterATrulyImpeccableNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a truly"
-	cont "impeccable name!"
+	text ", eínai?"
+	line "Eínai óntvº"
+	cont "téleio ónoma!"
 
-	para "Take good care of"
+	para "Ürósexe kalá to"
 	line "@"
 	text_ram wNameBuffer
 	text "!"

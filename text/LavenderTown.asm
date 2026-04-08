@@ -1,64 +1,64 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Üisteúeiº sta"
+	line "ÖANTA'sMATA?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
-	text "Really? So there"
-	line "are believers..."
+	text "Alqueia? üste"
+	line "ypárxoyn kápioi..."
 	done
 
 _LavenderTownLittleGirlHaHaGuessNotText::
-	text "Hahaha, I guess"
-	line "not."
+	text "Xaxaxa, ypo-"
+	line "uétv pvº óxi."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "Aytó to leykó xéri"
+	line "ston wmo soy,"
+	cont "den ypárxei."
 	done
 
 _LavenderTownCooltrainerMText::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
+	text "Aytq h pólh eínai"
+	line "gnwsth vº nekrota"
+	cont "feío #mon."
 
-	para "Memorial services"
-	line "are held in"
-	cont "#MON TOWER."
+	para "Teletéº mnqmhº"
+	line "gínontai ston"
+	cont "ÜYP'rO ÜOKEMON."
 	done
 
 _LavenderTownSuperNerdText::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "Öantásmata fánhkan"
+	line "ston púrgo."
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "Üisteúv pvº eínai"
+	line "ta pneúmata tvn"
+	cont "#mon poy oi"
+	cont "ÜYPAY'lOI skótvsan."
 	done
 
 _LavenderTownSignText::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "ÜO'lH LAVENDER"
+	line "H eygenqº mvb"
+	cont "pólh"
 	done
 
 _LavenderTownSilphScopeSignText::
-	text "New SILPH SCOPE!"
+	text "Néoº ÖAKO's SILPH!"
 
-	para "Make the Invisible"
-	line "Plain to See!"
+	para "Káne to aórato"
+	line "na faneí!"
 
-	para "SILPH CO."
+	para "Etairía SILPH"
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "EÒE'lONTE's LAVENDER"
+	line "'sÜITI tvn ÜOKEMON"
 	done
 
 _LavenderTownPokemonTowerSignText::
-	text "May the Souls of"
-	line "#MON Rest Easy"
-	cont "#MON TOWER"
+	text "Aº anapaytoún"
+	line "oi cyxéº #mon"
+	cont "ÜÚP'rO's ÜOKEMON"
 	done

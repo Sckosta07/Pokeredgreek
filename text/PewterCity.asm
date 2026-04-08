@@ -1,117 +1,117 @@
 _PewterCityCooltrainerFText::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "Öqmeº léne pvº"
+	line "ta CLEFAIRY qruan"
+	cont "apo to feggári!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "hruan meta th"
+	line "ptvsh thº ÖE'r'rA-"
+	cont "POÜETPA's ekeí."
 	done
 
 _PewterCityCooltrainerMText::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "Ypárxoyn polloí"
+	line "sobaroí ekp/teº"
+	cont "#mon edw!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "Eínai óloi san"
+	line "zvológoi, ma"
+	cont "o BROCK toy"
+	cont "GYM edw eínai"
+	cont "diagoretikóº!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "Tsékareº to"
+	line "MOY'sEIO maº?"
 	done
 
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "'den eínai ta apo-"
+	line "liuwmata apo to"
+	cont "BN.ÖE'r'rAPI vraía?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "Alqueia?"
+	line "Ürépei na"
+	cont "paº mia méra!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "Eínai ekeí péra!"
+	line "Ürépei na plhrw-"
+	cont "seiº gia na mpeiº,"
+	cont "ma ajízei!"
+	cont "Ta léme!"
 	done
 
 _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
-	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	text "Üsssst!"
+	line "Ñéreiº ti"
+	cont "kánv edw?"
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "That's right!"
-	line "It's hard work!"
+	text "'svsta! Eínai"
+	line "dúskolh doyleiá!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "ñekázv AÜOÒHTIKO"
+	line "gia na kratqsv ta"
+	cont "#mon ektóº!"
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "Eísai ekpaideytqº"
+	line "svstá? o BROCK"
+	cont "cáxnei gia néeº"
+	cont "proklqseiº!"
+	cont "Éla mazí moy!"
 	done
 
 _PewterCityYoungsterGoTakeOnBrockText::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "An éxeiº óti"
+	line "xreiázetai, tréxa"
+	cont "gia ton BROCK!"
 	done
 
 _PewterCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "'sYMBOY'lE's"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "Káue #mon poy"
+	line "máxetai se mikrq"
+	cont "q megálh máxh"
+	cont "paírnei EXP!"
 	done
 
 _PewterCityPoliceNoticeSignText::
-	text "NOTICE!"
+	text "ÜPO'sOXH!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "Kápoioi kléboyn"
+	line "apoliuwmata #-"
+	cont "mon sto BOYNO!"
+	cont "Üarakalw kaléste"
+	cont "thn A'sTYNOMIA gia"
+	cont "ópoio stoixeío!"
 	done
 
 _PewterCityMuseumSignText::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "MOY'sEIO EÜI'sTHMH's"
+	line "thº PEWTER"
 	done
 
 _PewterCityGymSignText::
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
+	text "ÜO'lH PEWTER"
+	line "ÜOKEMON GYM"
+	cont "H'rETH's: BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "O pétrinoº ek-"
+	line "paideytqº #mon!"
 	done
 
 _PewterCitySignText::
-	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	text "ÜO'lH PEWTER"
+	line "'rkri pétrinh"
+	cont "pólh"
 	done

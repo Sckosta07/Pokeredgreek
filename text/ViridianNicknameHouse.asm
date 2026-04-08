@@ -1,23 +1,23 @@
 _ViridianNicknameHouseBaldingGuyText::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "Bgaínontaº me"
+	line "ceydwnyma,"
+	cont "eínai dúskolo."
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "Ta aplá onómata"
+	line "eínai pio eúkolo"
+	cont "na ta uymásai."
 	done
 
 _ViridianNicknameHouseLittleGirlText::
-	text "My Daddy loves"
-	line "#MON too."
+	text "O mpampáº moy"
+	line "agapá ta #mon."
 	done
 
 _ViridianNicknameHouseSpearowText::
-	text "SPEARY: Tetweet!"
+	text "SPEARY: Tetoyit!"
 	done
 
 _ViridianNicknameHouseSpearySignText::
 	text "SPEAROW"
-	line "Name: SPEARY"
+	line "Ónoma: SPEARY"
 	done

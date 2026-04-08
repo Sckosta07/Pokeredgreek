@@ -1,97 +1,97 @@
 SilphCo2FSilphWorkerFPleaseTakeThisText::
-	text "Eeek!"
-	line "No! Stop! Help!"
+	text "Eeek! Óxi!"
+	line "'stámata! boqueia!"
 
-	para "Oh, you're not"
-	line "with TEAM ROCKET."
-	cont "I thought..."
-	cont "I'm sorry. Here,"
-	cont "please take this!"
+	para "'v, den eísai me"
+	line "toyº ÜYPAY'lOY's."
+	cont "Nómiza..."
+	cont "'sygnwmh. Oríste,"
+	cont "páre aytó twra!"
 	prompt
 
 _SilphCo2FSilphWorkerFReceivedTM36Text::
-	text "<PLAYER> got"
+	text "O <PLAYER> pqre"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SilphCo2FSilphWorkerFTM36ExplanationText::
-	text "TM36 is"
-	line "SELFDESTRUCT!"
+	text "TM36 periéxei"
+	line "ANATINAJH!"
 
-	para "It's powerful, but"
-	line "the #MON that"
-	cont "uses it faints!"
-	cont "Be careful."
+	para "Eínai dynató, ma"
+	line "ta #mon soy"
+	cont "ua lipouymqsei!"
+	cont "Ürósexe."
 	done
 
 _SilphCo2FSilphWorkerFTM36NoRoomText::
-	text "You don't have any"
-	line "room for this."
+	text "'den éxeiº xwro"
+	line "gi' aytº."
 	done
 
 _SilphCo2FScientist1BattleText::
-	text "Help! I'm a SILPH"
-	line "employee."
+	text "Boqueia!"
+	line "'doyleúv sth SILPH."
 	done
 
 _SilphCo2FScientist1EndBattleText::
-	text "How"
-	line "did you know I"
-	cont "was a ROCKET?"
+	text "Üvº"
+	line "qjereº oti qmoyn"
+	cont "ÜYPAY'lO's?"
 	prompt
 
 _SilphCo2FScientist1AfterBattleText::
-	text "I work for both"
-	line "SILPH and TEAM"
-	cont "ROCKET!"
+	text "Ergázomai"
+	line "kai gia toyº"
+	cont "dúo egw!"
 	done
 
 _SilphCo2FScientist2BattleText::
-	text "It's off limits"
-	line "here! Go home!"
+	text "Apagoreúetai na"
+	line "eísai edw! Öúge!"
 	done
 
 _SilphCo2FScientist2EndBattleText::
-	text "You're"
-	line "good."
+	text "Eísai"
+	line "kalóº."
 	prompt
 
 _SilphCo2FScientist2AfterBattleText::
-	text "Can you solve the"
-	line "maze in here?"
+	text "Mporeíº na"
+	line "bgeiº apó edw?"
 	done
 
 _SilphCo2FRocket1BattleText::
-	text "No kids are"
-	line "allowed in here!"
+	text "Apagoreúontai"
+	line "ta paidiá edw!"
 	done
 
 _SilphCo2FRocket1EndBattleText::
-	text "Tough!"
+	text "Óxi esú!"
 	prompt
 
 _SilphCo2FRocket1AfterBattleText::
-	text "Diamond shaped"
-	line "tiles are"
-	cont "teleport blocks!"
+	text "Ülakákia diamánti"
+	line "eínai gia"
+	cont "thlemetaforá!"
 
-	para "They're hi-tech"
-	line "transporters!"
+	para "Ychlqº texnologíaº"
+	line "metaforeíº!"
 	done
 
 _SilphCo2FRocket2BattleText::
-	text "Hey kid! What are"
-	line "you doing here?"
+	text "Éi mikré! Ti"
+	line "káneiº edw?"
 	done
 
 _SilphCo2FRocket2EndBattleText::
-	text "I goofed!"
+	text "blakeía!"
 	prompt
 
 _SilphCo2FRocket2AfterBattleText::
-	text "SILPH CO. will"
-	line "be merged with"
-	cont "TEAM ROCKET!"
+	text "H SILPH ua"
+	line "envueí me thn"
+	cont "OMA'dA ÜYPAY'lO!"
 	done

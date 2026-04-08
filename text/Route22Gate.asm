@@ -1,22 +1,22 @@
 _Route22GateGuardNoBoulderbadgeText::
-	text "Only truly skilled"
-	line "trainers are"
-	cont "allowed through."
+	text "Móno émpeiroi"
+	line "ekpaideytéº epi-"
+	cont "trépontai edw."
 
-	para "You don't have the"
-	line "BOULDERBADGE yet!@"
+	para "'den éxeiº akóma to"
+	line "BRAXOEMB'lHMA!@"
 	text_end
 
 _Route22GateGuardICantLetYouPassText::
 	text_start
 
-	para "The rules are"
-	line "rules. I can't"
-	cont "let you pass."
+	para "Oi kanóneº"
+	line "léne óxi"
+	cont "akóma. 'lypámai."
 	done
 
 _Route22GateGuardGoRightAheadText::
-	text "Oh! That is the"
-	line "BOULDERBADGE!"
-	cont "Go right ahead!@"
+	text "'v! aytó eínai to"
+	line "BRAXOEMB'lHMA!"
+	cont "Üroxwra mprostá!@"
 	text_end

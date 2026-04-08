@@ -1,137 +1,137 @@
 _Route21Fisher1BattleText::
-	text "You want to know"
-	line "if the fish are"
-	cont "biting?"
+	text "Òéleíº na jéreiº"
+	line "an ta caria"
+	cont "tsimpáne?"
 	done
 
 _Route21Fisher1EndBattleText::
-	text "Dang!"
+	text "Ötoy!"
 	prompt
 
 _Route21Fisher1AfterBattleText::
-	text "I can't catch"
-	line "anything good!"
+	text "'den piánv típota"
+	line "kaló sqmera!"
 	done
 
 _Route21Fisher2BattleText::
-	text "I got a big haul!"
-	line "Wanna go for it?"
+	text "Ékana kalq cariá!"
+	line "Òéleiº na deiº?"
 	done
 
 _Route21Fisher2EndBattleText::
-	text "Darn"
+	text "Xazá"
 	line "MAGIKARP!"
 	prompt
 
 _Route21Fisher2AfterBattleText::
-	text "I seem to only"
-	line "catch MAGIKARP!"
+	text "Öaínetai pvº piánv"
+	line "móno MAGIKARP!"
 	done
 
 _Route21Swimmer1BattleText::
-	text "The sea cleanses"
-	line "my body and soul!"
+	text "H uálassa kauarí-"
+	line "zei swma kai cyxh!"
 	done
 
 _Route21Swimmer1EndBattleText::
-	text "Ayah!"
+	text "Agiax!"
 	prompt
 
 _Route21Swimmer1AfterBattleText::
-	text "I like the"
-	line "mountains too!"
+	text "M' arésoyn kai"
+	line "ta boyná epíshº!"
 	done
 
 _Route21Swimmer2BattleText::
-	text "What's wrong with"
-	line "me swimming?"
+	text "Ti peirázei poy"
+	line "kolympáv?"
 	done
 
 _Route21Swimmer2EndBattleText::
-	text "Cheap"
-	line "shot!"
+	text "Xazq"
+	line "epíuesh!"
 	prompt
 
 _Route21Swimmer2AfterBattleText::
-	text "I look like what?"
-	line "A studded inner"
-	cont "tube? Get lost!"
+	text "Moiázv san ti?"
+	line "'skísthke h sa-"
+	cont "mprela? Öúge!"
 	done
 
 _Route21Swimmer3BattleText::
-	text "I caught all my"
-	line "#MON at sea!"
+	text "Épiasa óla ta"
+	line "#mon sto neró!"
 	done
 
 _Route21Swimmer3EndBattleText::
-	text "Diver!!"
-	line "Down!!"
+	text "Boytiá"
+	line "Kátv!!"
 	prompt
 
 _Route21Swimmer3AfterBattleText::
-	text "Where'd you catch"
-	line "your #MON?"
+	text "Üoy piáneiº"
+	line "ta diká soy?"
 	done
 
 _Route21Swimmer4BattleText::
-	text "Right now, I'm in"
-	line "a triathlon meet!"
+	text "Aytq th stigmq"
+	line "páv gia tríaulo!"
 	done
 
 _Route21Swimmer4EndBattleText::
-	text "Pant..."
-	line "pant...pant..."
+	text "Üant..."
+	line "Üant... Üant..."
 	prompt
 
 _Route21Swimmer4AfterBattleText::
-	text "I'm beat!"
-	line "But, I still have"
-	cont "the bike race and"
-	cont "marathon left!"
+	text "Nikquhka!"
+	line "Ma éxv thn"
+	cont "podhlasía kai"
+	cont "to marauwnio!"
 	done
 
 _Route21Swimmer5BattleText::
-	text "Ahh! Feel the sun"
-	line "and the wind!"
+	text "Aax! Niwse ton"
+	line "qlio kai ton aéra!"
 	done
 
 _Route21Swimmer5EndBattleText::
-	text "Yow!"
-	line "I lost!"
+	text "'rioy!"
+	line "Éxasa!"
 	prompt
 
 _Route21Swimmer5AfterBattleText::
-	text "I'm sunburnt to a"
-	line "crisp!"
+	text "ñúuhka san"
+	line "traganó mpéikon!"
 	done
 
 _Route21Fisher3BattleText::
-	text "Hey, don't scare"
-	line "away the fish!"
+	text "Éi, mhn fo-"
+	line "bqzeiº ta caria!"
 	done
 
 _Route21Fisher3EndBattleText::
-	text "Sorry!"
-	line "I didn't mean it!"
+	text "'sygnwmh!"
+	line "'den to ennooúsa!"
 	prompt
 
 _Route21Fisher3AfterBattleText::
-	text "I was just angry"
-	line "that I couldn't"
-	cont "catch anything."
+	text "Òúmvsa epeidq"
+	line "den épiana"
+	cont "kanéna #mon."
 	done
 
 _Route21Fisher4BattleText::
-	text "Keep me company"
-	line "'til I get a hit!"
+	text "Kráta moy paréa"
+	line "méxri na gínei!"
 	done
 
 _Route21Fisher4EndBattleText::
-	text "That"
-	line "burned some time."
+	text "Me aytó"
+	line "pérase lígh wra."
 	prompt
 
 _Route21Fisher4AfterBattleText::
-	text "Oh wait! I got a"
-	line "bite! Yeah!"
+	text "Misó leptó!"
+	line "Tsímphse! Nai!"
 	done
